@@ -1,0 +1,3723 @@
+year,month,crossingType,numberOfCrossings
+1996,Jan,Bus Passengers,37
+1996,Jan,Train Passengers,0
+1996,Jan,Personal Vehicle Passengers,4741
+1996,Jan,Truck Containers Loaded,849
+1996,Jan,Buses,4
+1996,Jan,Trucks,1093
+1996,Jan,Pedestrians,0
+1996,Jan,Truck Containers Empty,91
+1996,Jan,Rail Containers Loaded,0
+1996,Jan,Rail Containers Empty,0
+1996,Jan,Personal Vehicles,2008
+1996,Jan,Trains,0
+1996,Feb,Rail Containers Empty,0
+1996,Feb,Pedestrians,1
+1996,Feb,Trains,0
+1996,Feb,Rail Containers Loaded,0
+1996,Feb,Buses,9
+1996,Feb,Personal Vehicle Passengers,3681
+1996,Feb,Personal Vehicles,1527
+1996,Feb,Bus Passengers,169
+1996,Feb,Truck Containers Empty,99
+1996,Feb,Train Passengers,0
+1996,Feb,Truck Containers Loaded,877
+1996,Feb,Trucks,1096
+1996,Mar,Rail Containers Loaded,0
+1996,Mar,Personal Vehicles,2053
+1996,Mar,Buses,16
+1996,Mar,Bus Passengers,417
+1996,Mar,Pedestrians,0
+1996,Mar,Truck Containers Empty,129
+1996,Mar,Train Passengers,0
+1996,Mar,Trains,0
+1996,Mar,Rail Containers Empty,0
+1996,Mar,Personal Vehicle Passengers,4747
+1996,Mar,Trucks,1183
+1996,Mar,Truck Containers Loaded,1339
+1996,Apr,Train Passengers,0
+1996,Apr,Buses,21
+1996,Apr,Trucks,1612
+1996,Apr,Truck Containers Empty,125
+1996,Apr,Bus Passengers,571
+1996,Apr,Truck Containers Loaded,1419
+1996,Apr,Personal Vehicle Passengers,6041
+1996,Apr,Trains,0
+1996,Apr,Personal Vehicles,2621
+1996,Apr,Rail Containers Empty,0
+1996,Apr,Pedestrians,0
+1996,Apr,Rail Containers Loaded,0
+1996,May,Trains,0
+1996,May,Rail Containers Loaded,0
+1996,May,Bus Passengers,571
+1996,May,Train Passengers,0
+1996,May,Truck Containers Loaded,0
+1996,May,Personal Vehicles,2246
+1996,May,Trucks,1264
+1996,May,Rail Containers Empty,0
+1996,May,Buses,16
+1996,May,Pedestrians,0
+1996,May,Truck Containers Empty,0
+1996,May,Personal Vehicle Passengers,5183
+1996,Jun,Bus Passengers,556
+1996,Jun,Pedestrians,0
+1996,Jun,Train Passengers,0
+1996,Jun,Personal Vehicles,4166
+1996,Jun,Rail Containers Loaded,0
+1996,Jun,Personal Vehicle Passengers,11639
+1996,Jun,Truck Containers Loaded,0
+1996,Jun,Trains,0
+1996,Jun,Truck Containers Empty,0
+1996,Jun,Rail Containers Empty,0
+1996,Jun,Buses,16
+1996,Jun,Trucks,1473
+1996,Jul,Buses,6
+1996,Jul,Truck Containers Loaded,0
+1996,Jul,Train Passengers,0
+1996,Jul,Rail Containers Loaded,0
+1996,Jul,Truck Containers Empty,0
+1996,Jul,Personal Vehicle Passengers,12777
+1996,Jul,Rail Containers Empty,0
+1996,Jul,Pedestrians,0
+1996,Jul,Trucks,1069
+1996,Jul,Bus Passengers,167
+1996,Jul,Personal Vehicles,4559
+1996,Jul,Trains,0
+1996,Aug,Rail Containers Loaded,0
+1996,Aug,Personal Vehicle Passengers,12659
+1996,Aug,Truck Containers Empty,0
+1996,Aug,Truck Containers Loaded,0
+1996,Aug,Trains,0
+1996,Aug,Personal Vehicles,4522
+1996,Aug,Buses,3
+1996,Aug,Trucks,1324
+1996,Aug,Train Passengers,0
+1996,Aug,Rail Containers Empty,0
+1996,Aug,Bus Passengers,51
+1996,Aug,Pedestrians,0
+1996,Sep,Personal Vehicle Passengers,10401
+1996,Sep,Train Passengers,0
+1996,Sep,Rail Containers Empty,0
+1996,Sep,Personal Vehicles,3714
+1996,Sep,Trains,0
+1996,Sep,Trucks,1368
+1996,Sep,Truck Containers Empty,0
+1996,Sep,Rail Containers Loaded,0
+1996,Sep,Bus Passengers,94
+1996,Sep,Buses,5
+1996,Sep,Truck Containers Loaded,0
+1996,Sep,Pedestrians,0
+1996,Oct,Rail Containers Loaded,0
+1996,Oct,Truck Containers Loaded,0
+1996,Oct,Bus Passengers,289
+1996,Oct,Personal Vehicles,3095
+1996,Oct,Trains,0
+1996,Oct,Rail Containers Empty,0
+1996,Oct,Trucks,1368
+1996,Oct,Personal Vehicle Passengers,8667
+1996,Oct,Truck Containers Empty,0
+1996,Oct,Pedestrians,0
+1996,Oct,Buses,11
+1996,Oct,Train Passengers,0
+1996,Nov,Truck Containers Loaded,0
+1996,Nov,Train Passengers,0
+1996,Nov,Personal Vehicle Passengers,6671
+1996,Nov,Rail Containers Empty,0
+1996,Nov,Pedestrians,0
+1996,Nov,Buses,6
+1996,Nov,Truck Containers Empty,0
+1996,Nov,Bus Passengers,181
+1996,Nov,Trucks,974
+1996,Nov,Rail Containers Loaded,0
+1996,Nov,Personal Vehicles,2382
+1996,Nov,Trains,0
+1996,Dec,Buses,9
+1996,Dec,Personal Vehicles,1893
+1996,Dec,Trains,0
+1996,Dec,Pedestrians,0
+1996,Dec,Trucks,961
+1996,Dec,Rail Containers Empty,0
+1996,Dec,Rail Containers Loaded,0
+1996,Dec,Bus Passengers,164
+1996,Dec,Truck Containers Loaded,803
+1996,Dec,Truck Containers Empty,46
+1996,Dec,Personal Vehicle Passengers,5217
+1996,Dec,Train Passengers,0
+1997,Jan,Rail Containers Loaded,0
+1997,Jan,Rail Containers Empty,0
+1997,Jan,Pedestrians,0
+1997,Jan,Bus Passengers,170
+1997,Jan,Personal Vehicle Passengers,4260
+1997,Jan,Truck Containers Loaded,999
+1997,Jan,Trucks,1049
+1997,Jan,Train Passengers,0
+1997,Jan,Trains,0
+1997,Jan,Truck Containers Empty,71
+1997,Jan,Buses,5
+1997,Jan,Personal Vehicles,1634
+1997,Feb,Personal Vehicles,2195
+1997,Feb,Truck Containers Empty,50
+1997,Feb,Train Passengers,0
+1997,Feb,Rail Containers Loaded,0
+1997,Feb,Truck Containers Loaded,813
+1997,Feb,Buses,9
+1997,Feb,Rail Containers Empty,0
+1997,Feb,Pedestrians,0
+1997,Feb,Personal Vehicle Passengers,6154
+1997,Feb,Bus Passengers,309
+1997,Feb,Trucks,1195
+1997,Feb,Trains,0
+1997,Mar,Rail Containers Empty,0
+1997,Mar,Personal Vehicles,1873
+1997,Mar,Trucks,1077
+1997,Mar,Bus Passengers,254
+1997,Mar,Buses,8
+1997,Mar,Truck Containers Loaded,1079
+1997,Mar,Pedestrians,0
+1997,Mar,Truck Containers Empty,96
+1997,Mar,Rail Containers Loaded,0
+1997,Mar,Train Passengers,0
+1997,Mar,Trains,0
+1997,Mar,Personal Vehicle Passengers,5199
+1997,Apr,Rail Containers Loaded,0
+1997,Apr,Buses,31
+1997,Apr,Trains,0
+1997,Apr,Personal Vehicle Passengers,7930
+1997,Apr,Truck Containers Loaded,1621
+1997,Apr,Trucks,1883
+1997,Apr,Bus Passengers,793
+1997,Apr,Truck Containers Empty,89
+1997,Apr,Train Passengers,0
+1997,Apr,Pedestrians,0
+1997,Apr,Rail Containers Empty,0
+1997,Apr,Personal Vehicles,2837
+1997,May,Personal Vehicles,2868
+1997,May,Rail Containers Loaded,0
+1997,May,Pedestrians,0
+1997,May,Trucks,2411
+1997,May,Bus Passengers,831
+1997,May,Trains,0
+1997,May,Buses,23
+1997,May,Truck Containers Empty,175
+1997,May,Rail Containers Empty,0
+1997,May,Truck Containers Loaded,2445
+1997,May,Personal Vehicle Passengers,8030
+1997,May,Train Passengers,0
+1997,Jun,Truck Containers Loaded,323
+1997,Jun,Bus Passengers,282
+1997,Jun,Truck Containers Empty,46
+1997,Jun,Buses,11
+1997,Jun,Train Passengers,0
+1997,Jun,Rail Containers Loaded,0
+1997,Jun,Trains,0
+1997,Jun,Trucks,1343
+1997,Jun,Personal Vehicles,4029
+1997,Jun,Rail Containers Empty,0
+1997,Jun,Personal Vehicle Passengers,11255
+1997,Jun,Pedestrians,1
+1997,Jul,Train Passengers,0
+1997,Jul,Bus Passengers,216
+1997,Jul,Rail Containers Loaded,0
+1997,Jul,Personal Vehicles,4553
+1997,Jul,Truck Containers Loaded,526
+1997,Jul,Trains,0
+1997,Jul,Buses,9
+1997,Jul,Trucks,1173
+1997,Jul,Rail Containers Empty,0
+1997,Jul,Pedestrians,7
+1997,Jul,Personal Vehicle Passengers,12749
+1997,Jul,Truck Containers Empty,85
+1997,Aug,Pedestrians,2
+1997,Aug,Train Passengers,0
+1997,Aug,Trains,0
+1997,Aug,Trucks,1475
+1997,Aug,Rail Containers Loaded,0
+1997,Aug,Personal Vehicles,4750
+1997,Aug,Bus Passengers,66
+1997,Aug,Truck Containers Empty,192
+1997,Aug,Buses,5
+1997,Aug,Rail Containers Empty,0
+1997,Aug,Truck Containers Loaded,1509
+1997,Aug,Personal Vehicle Passengers,13380
+1997,Sep,Buses,7
+1997,Sep,Pedestrians,0
+1997,Sep,Personal Vehicle Passengers,9406
+1997,Sep,Truck Containers Loaded,1190
+1997,Sep,Trains,0
+1997,Sep,Train Passengers,0
+1997,Sep,Rail Containers Loaded,0
+1997,Sep,Rail Containers Empty,0
+1997,Sep,Truck Containers Empty,99
+1997,Sep,Bus Passengers,53
+1997,Sep,Trucks,1490
+1997,Sep,Personal Vehicles,3277
+1997,Oct,Rail Containers Empty,0
+1997,Oct,Truck Containers Empty,105
+1997,Oct,Personal Vehicle Passengers,8868
+1997,Oct,Bus Passengers,323
+1997,Oct,Trains,0
+1997,Oct,Train Passengers,0
+1997,Oct,Rail Containers Loaded,0
+1997,Oct,Trucks,1431
+1997,Oct,Pedestrians,0
+1997,Oct,Personal Vehicles,3165
+1997,Oct,Truck Containers Loaded,1508
+1997,Oct,Buses,9
+1997,Nov,Trucks,1282
+1997,Nov,Bus Passengers,251
+1997,Nov,Buses,8
+1997,Nov,Truck Containers Loaded,1110
+1997,Nov,Pedestrians,0
+1997,Nov,Trains,0
+1997,Nov,Rail Containers Loaded,0
+1997,Nov,Rail Containers Empty,0
+1997,Nov,Personal Vehicles,2667
+1997,Nov,Truck Containers Empty,94
+1997,Nov,Personal Vehicle Passengers,7470
+1997,Nov,Train Passengers,0
+1997,Dec,Trains,0
+1997,Dec,Bus Passengers,82
+1997,Dec,Truck Containers Loaded,391
+1997,Dec,Buses,4
+1997,Dec,Rail Containers Loaded,0
+1997,Dec,Rail Containers Empty,0
+1997,Dec,Truck Containers Empty,26
+1997,Dec,Trucks,1131
+1997,Dec,Train Passengers,0
+1997,Dec,Personal Vehicle Passengers,6515
+1997,Dec,Personal Vehicles,2328
+1997,Dec,Pedestrians,0
+1998,Jan,Truck Containers Empty,145
+1998,Jan,Truck Containers Loaded,1240
+1998,Jan,Pedestrians,0
+1998,Jan,Train Passengers,0
+1998,Jan,Rail Containers Empty,0
+1998,Jan,Rail Containers Loaded,0
+1998,Jan,Buses,6
+1998,Jan,Personal Vehicles,2285
+1998,Jan,Bus Passengers,152
+1998,Jan,Trucks,1135
+1998,Jan,Trains,0
+1998,Jan,Personal Vehicle Passengers,6378
+1998,Feb,Trucks,1403
+1998,Feb,Pedestrians,0
+1998,Feb,Truck Containers Loaded,1086
+1998,Feb,Buses,2
+1998,Feb,Bus Passengers,18
+1998,Feb,Truck Containers Empty,101
+1998,Feb,Personal Vehicles,2046
+1998,Feb,Rail Containers Loaded,0
+1998,Feb,Personal Vehicle Passengers,5755
+1998,Feb,Trains,0
+1998,Feb,Rail Containers Empty,0
+1998,Feb,Train Passengers,0
+1998,Mar,Bus Passengers,237
+1998,Mar,Truck Containers Loaded,1174
+1998,Mar,Rail Containers Empty,0
+1998,Mar,Buses,11
+1998,Mar,Trains,0
+1998,Mar,Train Passengers,0
+1998,Mar,Pedestrians,0
+1998,Mar,Personal Vehicles,1592
+1998,Mar,Trucks,1020
+1998,Mar,Rail Containers Loaded,0
+1998,Mar,Truck Containers Empty,115
+1998,Mar,Personal Vehicle Passengers,4459
+1998,Apr,Personal Vehicle Passengers,8647
+1998,Apr,Trains,0
+1998,Apr,Truck Containers Loaded,1902
+1998,Apr,Personal Vehicles,3085
+1998,Apr,Truck Containers Empty,264
+1998,Apr,Buses,22
+1998,Apr,Bus Passengers,542
+1998,Apr,Rail Containers Empty,0
+1998,Apr,Trucks,1935
+1998,Apr,Rail Containers Loaded,0
+1998,Apr,Pedestrians,0
+1998,Apr,Train Passengers,0
+1998,May,Bus Passengers,574
+1998,May,Rail Containers Loaded,0
+1998,May,Train Passengers,0
+1998,May,Truck Containers Empty,324
+1998,May,Buses,24
+1998,May,Truck Containers Loaded,1636
+1998,May,Trains,0
+1998,May,Rail Containers Empty,0
+1998,May,Personal Vehicles,3088
+1998,May,Trucks,2207
+1998,May,Personal Vehicle Passengers,8646
+1998,May,Pedestrians,0
+1998,Jun,Personal Vehicles,3766
+1998,Jun,Rail Containers Loaded,0
+1998,Jun,Personal Vehicle Passengers,10545
+1998,Jun,Trains,0
+1998,Jun,Truck Containers Loaded,943
+1998,Jun,Train Passengers,0
+1998,Jun,Buses,10
+1998,Jun,Pedestrians,0
+1998,Jun,Rail Containers Empty,0
+1998,Jun,Bus Passengers,142
+1998,Jun,Truck Containers Empty,387
+1998,Jun,Trucks,1391
+1998,Jul,Bus Passengers,448
+1998,Jul,Truck Containers Loaded,1196
+1998,Jul,Personal Vehicle Passengers,11760
+1998,Jul,Trains,0
+1998,Jul,Truck Containers Empty,298
+1998,Jul,Rail Containers Loaded,0
+1998,Jul,Personal Vehicles,4200
+1998,Jul,Trucks,1429
+1998,Jul,Buses,25
+1998,Jul,Rail Containers Empty,0
+1998,Jul,Train Passengers,0
+1998,Jul,Pedestrians,0
+1998,Aug,Personal Vehicle Passengers,12902
+1998,Aug,Truck Containers Loaded,1314
+1998,Aug,Train Passengers,0
+1998,Aug,Pedestrians,0
+1998,Aug,Bus Passengers,167
+1998,Aug,Personal Vehicles,4608
+1998,Aug,Rail Containers Empty,0
+1998,Aug,Trains,0
+1998,Aug,Trucks,1470
+1998,Aug,Rail Containers Loaded,0
+1998,Aug,Buses,3
+1998,Aug,Truck Containers Empty,110
+1998,Sep,Bus Passengers,57
+1998,Sep,Buses,5
+1998,Sep,Pedestrians,0
+1998,Sep,Train Passengers,0
+1998,Sep,Rail Containers Empty,0
+1998,Sep,Truck Containers Empty,111
+1998,Sep,Trains,0
+1998,Sep,Rail Containers Loaded,0
+1998,Sep,Personal Vehicle Passengers,9139
+1998,Sep,Truck Containers Loaded,1199
+1998,Sep,Trucks,1412
+1998,Sep,Personal Vehicles,3264
+1998,Oct,Pedestrians,0
+1998,Oct,Bus Passengers,406
+1998,Oct,Train Passengers,0
+1998,Oct,Truck Containers Empty,40
+1998,Oct,Truck Containers Loaded,1262
+1998,Oct,Rail Containers Empty,0
+1998,Oct,Personal Vehicles,3281
+1998,Oct,Buses,15
+1998,Oct,Trains,0
+1998,Oct,Personal Vehicle Passengers,9187
+1998,Oct,Rail Containers Loaded,0
+1998,Oct,Trucks,1235
+1998,Nov,Train Passengers,0
+1998,Nov,Personal Vehicles,2181
+1998,Nov,Bus Passengers,200
+1998,Nov,Trains,0
+1998,Nov,Trucks,1228
+1998,Nov,Personal Vehicle Passengers,6247
+1998,Nov,Truck Containers Loaded,1051
+1998,Nov,Buses,10
+1998,Nov,Rail Containers Loaded,0
+1998,Nov,Truck Containers Empty,49
+1998,Nov,Pedestrians,0
+1998,Nov,Rail Containers Empty,0
+1998,Dec,Pedestrians,0
+1998,Dec,Trucks,1155
+1998,Dec,Rail Containers Loaded,0
+1998,Dec,Truck Containers Loaded,1121
+1998,Dec,Train Passengers,0
+1998,Dec,Buses,11
+1998,Dec,Personal Vehicles,2095
+1998,Dec,Trains,0
+1998,Dec,Personal Vehicle Passengers,6076
+1998,Dec,Rail Containers Empty,0
+1998,Dec,Bus Passengers,306
+1998,Dec,Truck Containers Empty,48
+1999,Jan,Rail Containers Loaded,0
+1999,Jan,Truck Containers Empty,31
+1999,Jan,Rail Containers Empty,0
+1999,Jan,Truck Containers Loaded,928
+1999,Jan,Personal Vehicles,2073
+1999,Jan,Trucks,993
+1999,Jan,Trains,0
+1999,Jan,Personal Vehicle Passengers,5850
+1999,Jan,Bus Passengers,43
+1999,Jan,Buses,3
+1999,Jan,Pedestrians,0
+1999,Jan,Train Passengers,0
+1999,Feb,Bus Passengers,153
+1999,Feb,Personal Vehicles,2546
+1999,Feb,Truck Containers Loaded,1104
+1999,Feb,Rail Containers Empty,0
+1999,Feb,Truck Containers Empty,58
+1999,Feb,Pedestrians,0
+1999,Feb,Trucks,1363
+1999,Feb,Rail Containers Loaded,0
+1999,Feb,Personal Vehicle Passengers,7129
+1999,Feb,Train Passengers,0
+1999,Feb,Trains,0
+1999,Feb,Buses,5
+1999,Mar,Personal Vehicles,1975
+1999,Mar,Rail Containers Loaded,0
+1999,Mar,Pedestrians,0
+1999,Mar,Trains,0
+1999,Mar,Bus Passengers,216
+1999,Mar,Trucks,1245
+1999,Mar,Personal Vehicle Passengers,5430
+1999,Mar,Truck Containers Empty,55
+1999,Mar,Rail Containers Empty,0
+1999,Mar,Buses,14
+1999,Mar,Truck Containers Loaded,1500
+1999,Mar,Train Passengers,0
+1999,Apr,Rail Containers Empty,0
+1999,Apr,Rail Containers Loaded,0
+1999,Apr,Bus Passengers,406
+1999,Apr,Truck Containers Empty,115
+1999,Apr,Train Passengers,0
+1999,Apr,Trucks,2174
+1999,Apr,Buses,18
+1999,Apr,Trains,0
+1999,Apr,Truck Containers Loaded,2049
+1999,Apr,Personal Vehicles,2354
+1999,Apr,Pedestrians,0
+1999,Apr,Personal Vehicle Passengers,6591
+1999,May,Buses,21
+1999,May,Train Passengers,0
+1999,May,Trains,0
+1999,May,Truck Containers Loaded,1607
+1999,May,Rail Containers Loaded,0
+1999,May,Truck Containers Empty,71
+1999,May,Bus Passengers,583
+1999,May,Personal Vehicles,2744
+1999,May,Rail Containers Empty,0
+1999,May,Personal Vehicle Passengers,7683
+1999,May,Trucks,1744
+1999,May,Pedestrians,0
+1999,Jun,Rail Containers Empty,0
+1999,Jun,Personal Vehicle Passengers,11944
+1999,Jun,Trucks,1539
+1999,Jun,Truck Containers Loaded,1189
+1999,Jun,Bus Passengers,392
+1999,Jun,Truck Containers Empty,77
+1999,Jun,Trains,0
+1999,Jun,Buses,20
+1999,Jun,Rail Containers Loaded,0
+1999,Jun,Personal Vehicles,4266
+1999,Jun,Train Passengers,0
+1999,Jun,Pedestrians,0
+1999,Jul,Personal Vehicle Passengers,11068
+1999,Jul,Trucks,1190
+1999,Jul,Trains,0
+1999,Jul,Truck Containers Loaded,1267
+1999,Jul,Pedestrians,0
+1999,Jul,Rail Containers Loaded,0
+1999,Jul,Train Passengers,0
+1999,Jul,Truck Containers Empty,56
+1999,Jul,Rail Containers Empty,0
+1999,Jul,Bus Passengers,193
+1999,Jul,Personal Vehicles,3950
+1999,Jul,Buses,9
+1999,Aug,Truck Containers Loaded,1430
+1999,Aug,Buses,5
+1999,Aug,Train Passengers,0
+1999,Aug,Pedestrians,0
+1999,Aug,Rail Containers Empty,0
+1999,Aug,Trains,0
+1999,Aug,Personal Vehicles,4343
+1999,Aug,Personal Vehicle Passengers,12148
+1999,Aug,Bus Passengers,76
+1999,Aug,Rail Containers Loaded,0
+1999,Aug,Trucks,1529
+1999,Aug,Truck Containers Empty,81
+1999,Sep,Bus Passengers,120
+1999,Sep,Personal Vehicle Passengers,8100
+1999,Sep,Truck Containers Empty,59
+1999,Sep,Personal Vehicles,2893
+1999,Sep,Rail Containers Loaded,0
+1999,Sep,Trains,0
+1999,Sep,Trucks,1321
+1999,Sep,Pedestrians,3
+1999,Sep,Buses,8
+1999,Sep,Train Passengers,0
+1999,Sep,Rail Containers Empty,0
+1999,Sep,Truck Containers Loaded,1194
+1999,Oct,Trains,0
+1999,Oct,Truck Containers Loaded,1617
+1999,Oct,Buses,9
+1999,Oct,Rail Containers Empty,0
+1999,Oct,Trucks,1501
+1999,Oct,Train Passengers,0
+1999,Oct,Rail Containers Loaded,0
+1999,Oct,Pedestrians,0
+1999,Oct,Truck Containers Empty,91
+1999,Oct,Personal Vehicles,2575
+1999,Oct,Personal Vehicle Passengers,7210
+1999,Oct,Bus Passengers,185
+1999,Nov,Personal Vehicle Passengers,6902
+1999,Nov,Bus Passengers,85
+1999,Nov,Truck Containers Empty,104
+1999,Nov,Train Passengers,0
+1999,Nov,Personal Vehicles,2465
+1999,Nov,Trucks,1407
+1999,Nov,Truck Containers Loaded,1150
+1999,Nov,Buses,5
+1999,Nov,Trains,0
+1999,Nov,Rail Containers Loaded,0
+1999,Nov,Rail Containers Empty,0
+1999,Nov,Pedestrians,0
+1999,Dec,Buses,2
+1999,Dec,Truck Containers Empty,65
+1999,Dec,Pedestrians,0
+1999,Dec,Trucks,1339
+1999,Dec,Bus Passengers,19
+1999,Dec,Rail Containers Loaded,0
+1999,Dec,Train Passengers,0
+1999,Dec,Personal Vehicle Passengers,5571
+1999,Dec,Trains,0
+1999,Dec,Rail Containers Empty,0
+1999,Dec,Personal Vehicles,1989
+1999,Dec,Truck Containers Loaded,1160
+2000,Jan,Trains,0
+2000,Jan,Pedestrians,0
+2000,Jan,Bus Passengers,37
+2000,Jan,Rail Containers Empty,0
+2000,Jan,Buses,2
+2000,Jan,Truck Containers Loaded,1083
+2000,Jan,Train Passengers,0
+2000,Jan,Personal Vehicle Passengers,5998
+2000,Jan,Rail Containers Loaded,0
+2000,Jan,Personal Vehicles,2142
+2000,Jan,Truck Containers Empty,106
+2000,Jan,Trucks,1080
+2000,Feb,Bus Passengers,90
+2000,Feb,Rail Containers Loaded,0
+2000,Feb,Train Passengers,0
+2000,Feb,Truck Containers Empty,75
+2000,Feb,Personal Vehicle Passengers,5093
+2000,Feb,Trains,0
+2000,Feb,Pedestrians,0
+2000,Feb,Buses,5
+2000,Feb,Personal Vehicles,1818
+2000,Feb,Rail Containers Empty,0
+2000,Feb,Trucks,1332
+2000,Feb,Truck Containers Loaded,939
+2000,Mar,Personal Vehicle Passengers,4943
+2000,Mar,Truck Containers Empty,72
+2000,Mar,Personal Vehicles,1765
+2000,Mar,Trains,0
+2000,Mar,Train Passengers,0
+2000,Mar,Rail Containers Empty,0
+2000,Mar,Rail Containers Loaded,0
+2000,Mar,Truck Containers Loaded,725
+2000,Mar,Trucks,1454
+2000,Mar,Pedestrians,0
+2000,Mar,Bus Passengers,209
+2000,Mar,Buses,7
+2000,Apr,Rail Containers Empty,0
+2000,Apr,Truck Containers Loaded,1838
+2000,Apr,Truck Containers Empty,180
+2000,Apr,Train Passengers,0
+2000,Apr,Buses,8
+2000,Apr,Bus Passengers,161
+2000,Apr,Trucks,2037
+2000,Apr,Personal Vehicle Passengers,246
+2000,Apr,Rail Containers Loaded,0
+2000,Apr,Personal Vehicles,2199
+2000,Apr,Pedestrians,0
+2000,Apr,Trains,0
+2000,May,Rail Containers Empty,0
+2000,May,Pedestrians,0
+2000,May,Truck Containers Empty,176
+2000,May,Personal Vehicle Passengers,6674
+2000,May,Buses,20
+2000,May,Rail Containers Loaded,0
+2000,May,Bus Passengers,539
+2000,May,Train Passengers,0
+2000,May,Trains,0
+2000,May,Personal Vehicles,2364
+2000,May,Trucks,2051
+2000,May,Truck Containers Loaded,1770
+2000,Jun,Personal Vehicle Passengers,9702
+2000,Jun,Rail Containers Empty,0
+2000,Jun,Train Passengers,0
+2000,Jun,Pedestrians,0
+2000,Jun,Buses,25
+2000,Jun,Truck Containers Loaded,1116
+2000,Jun,Truck Containers Empty,141
+2000,Jun,Trains,0
+2000,Jun,Bus Passengers,508
+2000,Jun,Trucks,1332
+2000,Jun,Personal Vehicles,3465
+2000,Jun,Rail Containers Loaded,0
+2000,Jul,Trains,0
+2000,Jul,Trucks,1281
+2000,Jul,Personal Vehicle Passengers,10080
+2000,Jul,Personal Vehicles,3600
+2000,Jul,Buses,12
+2000,Jul,Bus Passengers,292
+2000,Jul,Truck Containers Loaded,1158
+2000,Jul,Train Passengers,0
+2000,Jul,Pedestrians,0
+2000,Jul,Rail Containers Empty,0
+2000,Jul,Truck Containers Empty,61
+2000,Jul,Rail Containers Loaded,0
+2000,Aug,Truck Containers Loaded,1319
+2000,Aug,Personal Vehicle Passengers,11158
+2000,Aug,Pedestrians,0
+2000,Aug,Train Passengers,0
+2000,Aug,Trains,0
+2000,Aug,Bus Passengers,96
+2000,Aug,Truck Containers Empty,93
+2000,Aug,Rail Containers Loaded,0
+2000,Aug,Personal Vehicles,3985
+2000,Aug,Rail Containers Empty,0
+2000,Aug,Buses,6
+2000,Aug,Trucks,1510
+2000,Sep,Personal Vehicle Passengers,4546
+2000,Sep,Personal Vehicles,2841
+2000,Sep,Pedestrians,0
+2000,Sep,Bus Passengers,20
+2000,Sep,Truck Containers Loaded,1313
+2000,Sep,Trains,0
+2000,Sep,Truck Containers Empty,92
+2000,Sep,Rail Containers Empty,0
+2000,Sep,Train Passengers,0
+2000,Sep,Trucks,1399
+2000,Sep,Buses,2
+2000,Sep,Rail Containers Loaded,0
+2000,Oct,Trains,0
+2000,Oct,Rail Containers Empty,0
+2000,Oct,Rail Containers Loaded,0
+2000,Oct,Personal Vehicles,2662
+2000,Oct,Truck Containers Empty,123
+2000,Oct,Personal Vehicle Passengers,4259
+2000,Oct,Buses,11
+2000,Oct,Truck Containers Loaded,1737
+2000,Oct,Trucks,1867
+2000,Oct,Train Passengers,0
+2000,Oct,Bus Passengers,211
+2000,Oct,Pedestrians,0
+2000,Nov,Truck Containers Loaded,1170
+2000,Nov,Truck Containers Empty,64
+2000,Nov,Pedestrians,0
+2000,Nov,Trucks,1215
+2000,Nov,Rail Containers Empty,0
+2000,Nov,Train Passengers,0
+2000,Nov,Bus Passengers,156
+2000,Nov,Personal Vehicle Passengers,3340
+2000,Nov,Rail Containers Loaded,0
+2000,Nov,Trains,0
+2000,Nov,Buses,6
+2000,Nov,Personal Vehicles,1583
+2000,Dec,Rail Containers Loaded,0
+2000,Dec,Trucks,1349
+2000,Dec,Personal Vehicles,1575
+2000,Dec,Train Passengers,0
+2000,Dec,Trains,0
+2000,Dec,Personal Vehicle Passengers,3465
+2000,Dec,Truck Containers Empty,61
+2000,Dec,Truck Containers Loaded,1316
+2000,Dec,Rail Containers Empty,0
+2000,Dec,Bus Passengers,13
+2000,Dec,Buses,1
+2000,Dec,Pedestrians,0
+2001,Jan,Truck Containers Empty,97
+2001,Jan,Personal Vehicles,1628
+2001,Jan,Personal Vehicle Passengers,3744
+2001,Jan,Rail Containers Empty,0
+2001,Jan,Trucks,1504
+2001,Jan,Trains,0
+2001,Jan,Rail Containers Loaded,0
+2001,Jan,Truck Containers Loaded,1452
+2001,Jan,Buses,3
+2001,Jan,Pedestrians,0
+2001,Jan,Bus Passengers,50
+2001,Jan,Train Passengers,0
+2001,Feb,Rail Containers Empty,0
+2001,Feb,Bus Passengers,282
+2001,Feb,Trains,0
+2001,Feb,Truck Containers Empty,72
+2001,Feb,Trucks,1312
+2001,Feb,Truck Containers Loaded,1214
+2001,Feb,Pedestrians,0
+2001,Feb,Personal Vehicle Passengers,3907
+2001,Feb,Train Passengers,0
+2001,Feb,Buses,10
+2001,Feb,Personal Vehicles,1628
+2001,Feb,Rail Containers Loaded,0
+2001,Mar,Truck Containers Empty,120
+2001,Mar,Personal Vehicle Passengers,3572
+2001,Mar,Bus Passengers,350
+2001,Mar,Pedestrians,0
+2001,Mar,Buses,14
+2001,Mar,Trucks,1630
+2001,Mar,Personal Vehicles,1880
+2001,Mar,Train Passengers,0
+2001,Mar,Truck Containers Loaded,1534
+2001,Mar,Trains,0
+2001,Mar,Rail Containers Loaded,0
+2001,Mar,Rail Containers Empty,0
+2001,Apr,Personal Vehicles,2329
+2001,Apr,Truck Containers Empty,142
+2001,Apr,Bus Passengers,269
+2001,Apr,Truck Containers Loaded,2162
+2001,Apr,Personal Vehicle Passengers,4192
+2001,Apr,Rail Containers Loaded,0
+2001,Apr,Trains,0
+2001,Apr,Train Passengers,0
+2001,Apr,Pedestrians,0
+2001,Apr,Rail Containers Empty,0
+2001,Apr,Trucks,2342
+2001,Apr,Buses,14
+2001,May,Bus Passengers,560
+2001,May,Personal Vehicles,2506
+2001,May,Train Passengers,0
+2001,May,Rail Containers Empty,0
+2001,May,Truck Containers Empty,166
+2001,May,Trucks,2811
+2001,May,Buses,18
+2001,May,Pedestrians,0
+2001,May,Trains,0
+2001,May,Personal Vehicle Passengers,6265
+2001,May,Truck Containers Loaded,2926
+2001,May,Rail Containers Loaded,0
+2001,Jun,Bus Passengers,219
+2001,Jun,Personal Vehicles,3485
+2001,Jun,Trains,0
+2001,Jun,Truck Containers Empty,258
+2001,Jun,Personal Vehicle Passengers,9410
+2001,Jun,Buses,11
+2001,Jun,Trucks,1319
+2001,Jun,Truck Containers Loaded,1140
+2001,Jun,Rail Containers Loaded,0
+2001,Jun,Train Passengers,0
+2001,Jun,Pedestrians,0
+2001,Jun,Rail Containers Empty,0
+2001,Jul,Rail Containers Empty,0
+2001,Jul,Bus Passengers,266
+2001,Jul,Trucks,1399
+2001,Jul,Buses,8
+2001,Jul,Truck Containers Loaded,1101
+2001,Jul,Trains,0
+2001,Jul,Rail Containers Loaded,0
+2001,Jul,Pedestrians,0
+2001,Jul,Train Passengers,0
+2001,Jul,Personal Vehicle Passengers,9877
+2001,Jul,Truck Containers Empty,238
+2001,Jul,Personal Vehicles,3658
+2001,Aug,Train Passengers,0
+2001,Aug,Buses,8
+2001,Aug,Personal Vehicles,3716
+2001,Aug,Bus Passengers,138
+2001,Aug,Trucks,1880
+2001,Aug,Rail Containers Loaded,0
+2001,Aug,Pedestrians,1
+2001,Aug,Trains,0
+2001,Aug,Truck Containers Loaded,1761
+2001,Aug,Truck Containers Empty,176
+2001,Aug,Personal Vehicle Passengers,10405
+2001,Aug,Rail Containers Empty,0
+2001,Sep,Trucks,1476
+2001,Sep,Personal Vehicle Passengers,5475
+2001,Sep,Pedestrians,0
+2001,Sep,Rail Containers Empty,0
+2001,Sep,Rail Containers Loaded,0
+2001,Sep,Train Passengers,0
+2001,Sep,Buses,10
+2001,Sep,Bus Passengers,161
+2001,Sep,Personal Vehicles,2190
+2001,Sep,Truck Containers Loaded,1327
+2001,Sep,Truck Containers Empty,161
+2001,Sep,Trains,0
+2001,Oct,Trucks,2414
+2001,Oct,Personal Vehicle Passengers,7544
+2001,Oct,Bus Passengers,41
+2001,Oct,Rail Containers Loaded,0
+2001,Oct,Truck Containers Empty,217
+2001,Oct,Train Passengers,0
+2001,Oct,Truck Containers Loaded,2117
+2001,Oct,Buses,3
+2001,Oct,Rail Containers Empty,0
+2001,Oct,Trains,0
+2001,Oct,Personal Vehicles,1983
+2001,Oct,Pedestrians,0
+2001,Nov,Personal Vehicle Passengers,4530
+2001,Nov,Truck Containers Empty,127
+2001,Nov,Pedestrians,0
+2001,Nov,Buses,1
+2001,Nov,Rail Containers Loaded,0
+2001,Nov,Train Passengers,0
+2001,Nov,Truck Containers Loaded,1612
+2001,Nov,Bus Passengers,20
+2001,Nov,Personal Vehicles,1812
+2001,Nov,Rail Containers Empty,0
+2001,Nov,Trucks,1585
+2001,Nov,Trains,0
+2001,Dec,Bus Passengers,1
+2001,Dec,Truck Containers Loaded,925
+2001,Dec,Trains,0
+2001,Dec,Rail Containers Loaded,0
+2001,Dec,Buses,1
+2001,Dec,Rail Containers Empty,0
+2001,Dec,Personal Vehicle Passengers,4497
+2001,Dec,Train Passengers,0
+2001,Dec,Pedestrians,0
+2001,Dec,Personal Vehicles,1796
+2001,Dec,Trucks,1346
+2001,Dec,Truck Containers Empty,152
+2002,Jan,Trains,0
+2002,Jan,Truck Containers Empty,138
+2002,Jan,Truck Containers Loaded,1208
+2002,Jan,Train Passengers,0
+2002,Jan,Personal Vehicle Passengers,3693
+2002,Jan,Personal Vehicles,1477
+2002,Jan,Rail Containers Empty,0
+2002,Jan,Bus Passengers,0
+2002,Jan,Trucks,1409
+2002,Jan,Rail Containers Loaded,0
+2002,Jan,Buses,0
+2002,Jan,Pedestrians,0
+2002,Feb,Trains,0
+2002,Feb,Rail Containers Loaded,0
+2002,Feb,Buses,7
+2002,Feb,Truck Containers Loaded,918
+2002,Feb,Personal Vehicles,1476
+2002,Feb,Truck Containers Empty,78
+2002,Feb,Bus Passengers,115
+2002,Feb,Pedestrians,0
+2002,Feb,Rail Containers Empty,0
+2002,Feb,Personal Vehicle Passengers,3698
+2002,Feb,Trucks,1012
+2002,Feb,Train Passengers,0
+2002,Mar,Personal Vehicle Passengers,4118
+2002,Mar,Bus Passengers,201
+2002,Mar,Truck Containers Empty,105
+2002,Mar,Trains,0
+2002,Mar,Personal Vehicles,1647
+2002,Mar,Buses,8
+2002,Mar,Pedestrians,0
+2002,Mar,Rail Containers Empty,0
+2002,Mar,Train Passengers,0
+2002,Mar,Rail Containers Loaded,0
+2002,Mar,Truck Containers Loaded,1067
+2002,Mar,Trucks,1121
+2002,Apr,Truck Containers Loaded,1731
+2002,Apr,Train Passengers,0
+2002,Apr,Trucks,1812
+2002,Apr,Personal Vehicle Passengers,4328
+2002,Apr,Trains,0
+2002,Apr,Personal Vehicles,1731
+2002,Apr,Rail Containers Loaded,0
+2002,Apr,Bus Passengers,113
+2002,Apr,Truck Containers Empty,140
+2002,Apr,Buses,4
+2002,Apr,Rail Containers Empty,0
+2002,Apr,Pedestrians,0
+2002,May,Bus Passengers,313
+2002,May,Train Passengers,0
+2002,May,Buses,12
+2002,May,Rail Containers Empty,0
+2002,May,Rail Containers Loaded,0
+2002,May,Truck Containers Loaded,1813
+2002,May,Trains,0
+2002,May,Truck Containers Empty,102
+2002,May,Trucks,1915
+2002,May,Pedestrians,0
+2002,May,Personal Vehicle Passengers,5517
+2002,May,Personal Vehicles,2205
+2002,Jun,Truck Containers Loaded,872
+2002,Jun,Buses,15
+2002,Jun,Pedestrians,0
+2002,Jun,Bus Passengers,335
+2002,Jun,Train Passengers,0
+2002,Jun,Trains,0
+2002,Jun,Rail Containers Empty,0
+2002,Jun,Truck Containers Empty,118
+2002,Jun,Personal Vehicles,2777
+2002,Jun,Personal Vehicle Passengers,6951
+2002,Jun,Trucks,965
+2002,Jun,Rail Containers Loaded,0
+2002,Jul,Buses,10
+2002,Jul,Truck Containers Empty,155
+2002,Jul,Trains,0
+2002,Jul,Bus Passengers,144
+2002,Jul,Personal Vehicle Passengers,7811
+2002,Jul,Rail Containers Empty,0
+2002,Jul,Train Passengers,0
+2002,Jul,Truck Containers Loaded,1077
+2002,Jul,Rail Containers Loaded,0
+2002,Jul,Trucks,1231
+2002,Jul,Personal Vehicles,3121
+2002,Jul,Pedestrians,0
+2002,Aug,Trucks,1672
+2002,Aug,Pedestrians,0
+2002,Aug,Truck Containers Empty,131
+2002,Aug,Rail Containers Loaded,0
+2002,Aug,Personal Vehicle Passengers,8245
+2002,Aug,Buses,4
+2002,Aug,Bus Passengers,46
+2002,Aug,Personal Vehicles,3298
+2002,Aug,Rail Containers Empty,0
+2002,Aug,Train Passengers,0
+2002,Aug,Truck Containers Loaded,1522
+2002,Aug,Trains,0
+2002,Sep,Rail Containers Empty,0
+2002,Sep,Pedestrians,0
+2002,Sep,Truck Containers Loaded,1491
+2002,Sep,Truck Containers Empty,84
+2002,Sep,Rail Containers Loaded,0
+2002,Sep,Train Passengers,0
+2002,Sep,Trucks,1427
+2002,Sep,Trains,0
+2002,Sep,Personal Vehicles,2215
+2002,Sep,Bus Passengers,166
+2002,Sep,Personal Vehicle Passengers,5538
+2002,Sep,Buses,10
+2002,Oct,Rail Containers Loaded,0
+2002,Oct,Train Passengers,0
+2002,Oct,Pedestrians,0
+2002,Oct,Buses,3
+2002,Oct,Personal Vehicles,2112
+2002,Oct,Rail Containers Empty,0
+2002,Oct,Trains,0
+2002,Oct,Bus Passengers,70
+2002,Oct,Truck Containers Loaded,1636
+2002,Oct,Truck Containers Empty,93
+2002,Oct,Personal Vehicle Passengers,5292
+2002,Oct,Trucks,1732
+2002,Nov,Train Passengers,0
+2002,Nov,Personal Vehicles,1640
+2002,Nov,Rail Containers Loaded,0
+2002,Nov,Truck Containers Loaded,1540
+2002,Nov,Buses,7
+2002,Nov,Personal Vehicle Passengers,4106
+2002,Nov,Bus Passengers,227
+2002,Nov,Rail Containers Empty,0
+2002,Nov,Trucks,1623
+2002,Nov,Truck Containers Empty,82
+2002,Nov,Trains,0
+2002,Nov,Pedestrians,0
+2002,Dec,Rail Containers Empty,0
+2002,Dec,Truck Containers Empty,64
+2002,Dec,Rail Containers Loaded,0
+2002,Dec,Personal Vehicle Passengers,4245
+2002,Dec,Bus Passengers,0
+2002,Dec,Pedestrians,0
+2002,Dec,Trucks,1364
+2002,Dec,Buses,0
+2002,Dec,Train Passengers,0
+2002,Dec,Personal Vehicles,1698
+2002,Dec,Truck Containers Loaded,1279
+2002,Dec,Trains,0
+2003,Jan,Truck Containers Empty,84
+2003,Jan,Truck Containers Loaded,1271
+2003,Jan,Pedestrians,0
+2003,Jan,Personal Vehicles,1371
+2003,Jan,Train Passengers,0
+2003,Jan,Bus Passengers,47
+2003,Jan,Trucks,1394
+2003,Jan,Buses,1
+2003,Jan,Rail Containers Loaded,0
+2003,Jan,Rail Containers Empty,0
+2003,Jan,Trains,0
+2003,Jan,Personal Vehicle Passengers,3428
+2003,Feb,Truck Containers Empty,77
+2003,Feb,Buses,8
+2003,Feb,Trains,0
+2003,Feb,Rail Containers Empty,0
+2003,Feb,Truck Containers Loaded,977
+2003,Feb,Personal Vehicle Passengers,3228
+2003,Feb,Trucks,1053
+2003,Feb,Train Passengers,0
+2003,Feb,Rail Containers Loaded,0
+2003,Feb,Bus Passengers,217
+2003,Feb,Personal Vehicles,1290
+2003,Feb,Pedestrians,0
+2003,Mar,Rail Containers Empty,0
+2003,Mar,Personal Vehicles,1298
+2003,Mar,Bus Passengers,248
+2003,Mar,Truck Containers Loaded,1377
+2003,Mar,Buses,7
+2003,Mar,Rail Containers Loaded,0
+2003,Mar,Personal Vehicle Passengers,3251
+2003,Mar,Trains,0
+2003,Mar,Train Passengers,0
+2003,Mar,Pedestrians,0
+2003,Mar,Truck Containers Empty,83
+2003,Mar,Trucks,1461
+2003,Apr,Buses,7
+2003,Apr,Truck Containers Loaded,2035
+2003,Apr,Pedestrians,0
+2003,Apr,Personal Vehicle Passengers,3493
+2003,Apr,Truck Containers Empty,89
+2003,Apr,Rail Containers Empty,0
+2003,Apr,Rail Containers Loaded,0
+2003,Apr,Bus Passengers,223
+2003,Apr,Trucks,2117
+2003,Apr,Train Passengers,0
+2003,Apr,Personal Vehicles,1397
+2003,Apr,Trains,0
+2003,May,Truck Containers Empty,66
+2003,May,Trains,0
+2003,May,Truck Containers Loaded,1906
+2003,May,Pedestrians,0
+2003,May,Bus Passengers,149
+2003,May,Personal Vehicles,1734
+2003,May,Rail Containers Empty,0
+2003,May,Train Passengers,0
+2003,May,Buses,10
+2003,May,Rail Containers Loaded,0
+2003,May,Trucks,2030
+2003,May,Personal Vehicle Passengers,4339
+2003,Jun,Personal Vehicles,2468
+2003,Jun,Trucks,973
+2003,Jun,Personal Vehicle Passengers,6170
+2003,Jun,Rail Containers Empty,0
+2003,Jun,Truck Containers Empty,77
+2003,Jun,Bus Passengers,201
+2003,Jun,Truck Containers Loaded,906
+2003,Jun,Buses,9
+2003,Jun,Pedestrians,0
+2003,Jun,Trains,0
+2003,Jun,Train Passengers,0
+2003,Jun,Rail Containers Loaded,0
+2003,Jul,Buses,4
+2003,Jul,Train Passengers,0
+2003,Jul,Truck Containers Loaded,1095
+2003,Jul,Rail Containers Empty,0
+2003,Jul,Trucks,1189
+2003,Jul,Truck Containers Empty,107
+2003,Jul,Personal Vehicles,2670
+2003,Jul,Rail Containers Loaded,0
+2003,Jul,Personal Vehicle Passengers,6675
+2003,Jul,Bus Passengers,63
+2003,Jul,Pedestrians,0
+2003,Jul,Trains,0
+2003,Aug,Bus Passengers,55
+2003,Aug,Truck Containers Loaded,1389
+2003,Aug,Train Passengers,0
+2003,Aug,Personal Vehicle Passengers,7340
+2003,Aug,Trucks,1483
+2003,Aug,Pedestrians,0
+2003,Aug,Rail Containers Empty,0
+2003,Aug,Truck Containers Empty,93
+2003,Aug,Buses,3
+2003,Aug,Rail Containers Loaded,0
+2003,Aug,Personal Vehicles,2936
+2003,Aug,Trains,0
+2003,Sep,Trucks,1657
+2003,Sep,Bus Passengers,108
+2003,Sep,Truck Containers Empty,73
+2003,Sep,Trains,0
+2003,Sep,Buses,5
+2003,Sep,Personal Vehicle Passengers,5143
+2003,Sep,Rail Containers Loaded,0
+2003,Sep,Pedestrians,0
+2003,Sep,Personal Vehicles,2053
+2003,Sep,Rail Containers Empty,0
+2003,Sep,Truck Containers Loaded,1585
+2003,Sep,Train Passengers,0
+2003,Oct,Buses,8
+2003,Oct,Bus Passengers,152
+2003,Oct,Personal Vehicles,1959
+2003,Oct,Personal Vehicle Passengers,4903
+2003,Oct,Rail Containers Empty,0
+2003,Oct,Train Passengers,0
+2003,Oct,Truck Containers Loaded,896
+2003,Oct,Pedestrians,0
+2003,Oct,Rail Containers Loaded,0
+2003,Oct,Trains,0
+2003,Oct,Truck Containers Empty,100
+2003,Oct,Trucks,998
+2003,Nov,Rail Containers Empty,0
+2003,Nov,Personal Vehicles,1382
+2003,Nov,Trains,0
+2003,Nov,Personal Vehicle Passengers,3462
+2003,Nov,Bus Passengers,79
+2003,Nov,Buses,3
+2003,Nov,Trucks,1303
+2003,Nov,Train Passengers,0
+2003,Nov,Pedestrians,0
+2003,Nov,Rail Containers Loaded,0
+2003,Nov,Truck Containers Empty,61
+2003,Nov,Truck Containers Loaded,1280
+2003,Dec,Personal Vehicles,1505
+2003,Dec,Rail Containers Empty,0
+2003,Dec,Train Passengers,0
+2003,Dec,Trains,0
+2003,Dec,Bus Passengers,10
+2003,Dec,Truck Containers Loaded,1348
+2003,Dec,Pedestrians,0
+2003,Dec,Truck Containers Empty,80
+2003,Dec,Buses,1
+2003,Dec,Personal Vehicle Passengers,3763
+2003,Dec,Trucks,1436
+2003,Dec,Rail Containers Loaded,0
+2004,Jan,Bus Passengers,2
+2004,Jan,Personal Vehicles,1264
+2004,Jan,Truck Containers Loaded,1017
+2004,Jan,Truck Containers Empty,25
+2004,Jan,Personal Vehicle Passengers,3168
+2004,Jan,Buses,1
+2004,Jan,Trucks,1168
+2004,Jan,Train Passengers,0
+2004,Jan,Rail Containers Empty,0
+2004,Jan,Trains,0
+2004,Jan,Pedestrians,0
+2004,Jan,Rail Containers Loaded,0
+2004,Feb,Pedestrians,0
+2004,Feb,Rail Containers Loaded,0
+2004,Feb,Train Passengers,0
+2004,Feb,Rail Containers Empty,0
+2004,Feb,Trucks,1273
+2004,Feb,Personal Vehicle Passengers,2977
+2004,Feb,Bus Passengers,124
+2004,Feb,Buses,5
+2004,Feb,Truck Containers Empty,34
+2004,Feb,Truck Containers Loaded,1177
+2004,Feb,Personal Vehicles,1188
+2004,Feb,Trains,0
+2004,Mar,Pedestrians,0
+2004,Mar,Truck Containers Loaded,1690
+2004,Mar,Trains,0
+2004,Mar,Trucks,1813
+2004,Mar,Truck Containers Empty,80
+2004,Mar,Bus Passengers,241
+2004,Mar,Personal Vehicle Passengers,3303
+2004,Mar,Rail Containers Loaded,0
+2004,Mar,Train Passengers,0
+2004,Mar,Rail Containers Empty,0
+2004,Mar,Personal Vehicles,1316
+2004,Mar,Buses,5
+2004,Apr,Truck Containers Loaded,2587
+2004,Apr,Buses,6
+2004,Apr,Personal Vehicle Passengers,4060
+2004,Apr,Train Passengers,0
+2004,Apr,Trains,0
+2004,Apr,Personal Vehicles,1640
+2004,Apr,Rail Containers Loaded,0
+2004,Apr,Rail Containers Empty,0
+2004,Apr,Truck Containers Empty,55
+2004,Apr,Trucks,2585
+2004,Apr,Bus Passengers,154
+2004,Apr,Pedestrians,0
+2004,May,Rail Containers Loaded,0
+2004,May,Personal Vehicle Passengers,4320
+2004,May,Train Passengers,0
+2004,May,Truck Containers Loaded,2660
+2004,May,Pedestrians,0
+2004,May,Bus Passengers,235
+2004,May,Truck Containers Empty,91
+2004,May,Trucks,2289
+2004,May,Buses,9
+2004,May,Trains,0
+2004,May,Rail Containers Empty,0
+2004,May,Personal Vehicles,1726
+2004,Jun,Rail Containers Empty,0
+2004,Jun,Buses,1
+2004,Jun,Trains,0
+2004,Jun,Trucks,1909
+2004,Jun,Pedestrians,0
+2004,Jun,Rail Containers Loaded,0
+2004,Jun,Truck Containers Loaded,1452
+2004,Jun,Train Passengers,0
+2004,Jun,Personal Vehicle Passengers,7113
+2004,Jun,Bus Passengers,36
+2004,Jun,Truck Containers Empty,70
+2004,Jun,Personal Vehicles,2843
+2004,Jul,Train Passengers,0
+2004,Jul,Truck Containers Loaded,1299
+2004,Jul,Personal Vehicle Passengers,7325
+2004,Jul,Pedestrians,0
+2004,Jul,Buses,6
+2004,Jul,Personal Vehicles,2924
+2004,Jul,Trains,0
+2004,Jul,Rail Containers Empty,0
+2004,Jul,Bus Passengers,242
+2004,Jul,Trucks,1388
+2004,Jul,Rail Containers Loaded,0
+2004,Jul,Truck Containers Empty,77
+2004,Aug,Rail Containers Loaded,0
+2004,Aug,Buses,0
+2004,Aug,Truck Containers Loaded,1013
+2004,Aug,Personal Vehicle Passengers,7298
+2004,Aug,Pedestrians,0
+2004,Aug,Bus Passengers,0
+2004,Aug,Trains,0
+2004,Aug,Train Passengers,0
+2004,Aug,Rail Containers Empty,0
+2004,Aug,Personal Vehicles,2927
+2004,Aug,Trucks,1932
+2004,Aug,Truck Containers Empty,57
+2004,Sep,Pedestrians,0
+2004,Sep,Personal Vehicle Passengers,5025
+2004,Sep,Trains,0
+2004,Sep,Rail Containers Empty,0
+2004,Sep,Train Passengers,0
+2004,Sep,Truck Containers Loaded,2185
+2004,Sep,Bus Passengers,0
+2004,Sep,Rail Containers Loaded,0
+2004,Sep,Personal Vehicles,2006
+2004,Sep,Trucks,1812
+2004,Sep,Truck Containers Empty,169
+2004,Sep,Buses,2
+2004,Oct,Truck Containers Empty,63
+2004,Oct,Trucks,1893
+2004,Oct,Pedestrians,0
+2004,Oct,Buses,2
+2004,Oct,Trains,0
+2004,Oct,Truck Containers Loaded,1635
+2004,Oct,Rail Containers Empty,0
+2004,Oct,Personal Vehicles,1980
+2004,Oct,Personal Vehicle Passengers,4958
+2004,Oct,Bus Passengers,56
+2004,Oct,Train Passengers,0
+2004,Oct,Rail Containers Loaded,0
+2004,Nov,Pedestrians,0
+2004,Nov,Rail Containers Empty,0
+2004,Nov,Trains,0
+2004,Nov,Bus Passengers,170
+2004,Nov,Rail Containers Loaded,0
+2004,Nov,Buses,7
+2004,Nov,Trucks,1816
+2004,Nov,Personal Vehicles,1740
+2004,Nov,Personal Vehicle Passengers,4356
+2004,Nov,Train Passengers,0
+2004,Nov,Truck Containers Loaded,1424
+2004,Nov,Truck Containers Empty,60
+2004,Dec,Truck Containers Loaded,1327
+2004,Dec,Pedestrians,0
+2004,Dec,Bus Passengers,0
+2004,Dec,Trains,0
+2004,Dec,Trucks,1632
+2004,Dec,Rail Containers Loaded,0
+2004,Dec,Personal Vehicles,1584
+2004,Dec,Buses,0
+2004,Dec,Personal Vehicle Passengers,3836
+2004,Dec,Truck Containers Empty,70
+2004,Dec,Rail Containers Empty,0
+2004,Dec,Train Passengers,0
+2005,Jan,Rail Containers Empty,0
+2005,Jan,Truck Containers Empty,69
+2005,Jan,Train Passengers,0
+2005,Jan,Pedestrians,0
+2005,Jan,Trains,0
+2005,Jan,Bus Passengers,0
+2005,Jan,Personal Vehicle Passengers,2917
+2005,Jan,Personal Vehicles,1163
+2005,Jan,Truck Containers Loaded,1134
+2005,Jan,Rail Containers Loaded,0
+2005,Jan,Trucks,1481
+2005,Jan,Buses,0
+2005,Feb,Truck Containers Empty,76
+2005,Feb,Pedestrians,0
+2005,Feb,Trains,0
+2005,Feb,Trucks,1326
+2005,Feb,Personal Vehicles,1250
+2005,Feb,Rail Containers Loaded,0
+2005,Feb,Rail Containers Empty,0
+2005,Feb,Personal Vehicle Passengers,3115
+2005,Feb,Buses,10
+2005,Feb,Bus Passengers,331
+2005,Feb,Truck Containers Loaded,1295
+2005,Feb,Train Passengers,0
+2005,Mar,Buses,6
+2005,Mar,Bus Passengers,195
+2005,Mar,Trains,0
+2005,Mar,Truck Containers Loaded,1504
+2005,Mar,Personal Vehicle Passengers,3917
+2005,Mar,Pedestrians,0
+2005,Mar,Personal Vehicles,1570
+2005,Mar,Rail Containers Empty,0
+2005,Mar,Train Passengers,0
+2005,Mar,Trucks,1697
+2005,Mar,Rail Containers Loaded,0
+2005,Mar,Truck Containers Empty,55
+2005,Apr,Truck Containers Empty,128
+2005,Apr,Truck Containers Loaded,3051
+2005,Apr,Bus Passengers,99
+2005,Apr,Buses,16
+2005,Apr,Personal Vehicle Passengers,3818
+2005,Apr,Personal Vehicles,1522
+2005,Apr,Rail Containers Loaded,0
+2005,Apr,Trucks,2585
+2005,Apr,Rail Containers Empty,0
+2005,Apr,Train Passengers,0
+2005,Apr,Trains,0
+2005,Apr,Pedestrians,1
+2005,May,Rail Containers Empty,0
+2005,May,Truck Containers Empty,105
+2005,May,Truck Containers Loaded,2606
+2005,May,Rail Containers Loaded,0
+2005,May,Train Passengers,0
+2005,May,Trucks,2095
+2005,May,Personal Vehicle Passengers,4080
+2005,May,Bus Passengers,78
+2005,May,Pedestrians,0
+2005,May,Trains,0
+2005,May,Buses,5
+2005,May,Personal Vehicles,1623
+2005,Jun,Train Passengers,0
+2005,Jun,Truck Containers Loaded,1376
+2005,Jun,Personal Vehicle Passengers,8206
+2005,Jun,Buses,5
+2005,Jun,Trains,0
+2005,Jun,Trucks,1484
+2005,Jun,Personal Vehicles,2372
+2005,Jun,Rail Containers Empty,0
+2005,Jun,Pedestrians,0
+2005,Jun,Truck Containers Empty,116
+2005,Jun,Rail Containers Loaded,0
+2005,Jun,Bus Passengers,161
+2005,Jul,Trucks,1675
+2005,Jul,Rail Containers Loaded,0
+2005,Jul,Rail Containers Empty,0
+2005,Jul,Pedestrians,0
+2005,Jul,Personal Vehicles,2689
+2005,Jul,Buses,2
+2005,Jul,Personal Vehicle Passengers,6732
+2005,Jul,Bus Passengers,20
+2005,Jul,Train Passengers,0
+2005,Jul,Truck Containers Empty,14
+2005,Jul,Truck Containers Loaded,213
+2005,Jul,Trains,0
+2005,Aug,Trains,0
+2005,Aug,Personal Vehicle Passengers,9908
+2005,Aug,Trucks,1898
+2005,Aug,Bus Passengers,12
+2005,Aug,Train Passengers,0
+2005,Aug,Buses,1
+2005,Aug,Personal Vehicles,2895
+2005,Aug,Pedestrians,0
+2005,Aug,Truck Containers Loaded,1166
+2005,Aug,Rail Containers Empty,0
+2005,Aug,Rail Containers Loaded,0
+2005,Aug,Truck Containers Empty,97
+2005,Sep,Train Passengers,0
+2005,Sep,Personal Vehicles,1857
+2005,Sep,Personal Vehicle Passengers,6478
+2005,Sep,Rail Containers Empty,0
+2005,Sep,Rail Containers Loaded,0
+2005,Sep,Trucks,1708
+2005,Sep,Bus Passengers,3
+2005,Sep,Trains,0
+2005,Sep,Truck Containers Empty,0
+2005,Sep,Buses,3
+2005,Sep,Truck Containers Loaded,0
+2005,Sep,Pedestrians,0
+2005,Oct,Trucks,1881
+2005,Oct,Pedestrians,0
+2005,Oct,Personal Vehicle Passengers,4912
+2005,Oct,Truck Containers Empty,0
+2005,Oct,Truck Containers Loaded,0
+2005,Oct,Rail Containers Loaded,0
+2005,Oct,Buses,4
+2005,Oct,Personal Vehicles,1968
+2005,Oct,Trains,0
+2005,Oct,Bus Passengers,149
+2005,Oct,Rail Containers Empty,0
+2005,Oct,Train Passengers,0
+2005,Nov,Rail Containers Loaded,0
+2005,Nov,Train Passengers,0
+2005,Nov,Trains,0
+2005,Nov,Rail Containers Empty,0
+2005,Nov,Trucks,1461
+2005,Nov,Truck Containers Loaded,1005
+2005,Nov,Personal Vehicle Passengers,3581
+2005,Nov,Bus Passengers,91
+2005,Nov,Truck Containers Empty,48
+2005,Nov,Pedestrians,0
+2005,Nov,Personal Vehicles,1431
+2005,Nov,Buses,4
+2005,Dec,Personal Vehicles,1410
+2005,Dec,Truck Containers Empty,18
+2005,Dec,Train Passengers,0
+2005,Dec,Truck Containers Loaded,271
+2005,Dec,Personal Vehicle Passengers,4943
+2005,Dec,Pedestrians,0
+2005,Dec,Trucks,1313
+2005,Dec,Rail Containers Loaded,0
+2005,Dec,Trains,0
+2005,Dec,Buses,1
+2005,Dec,Rail Containers Empty,0
+2005,Dec,Bus Passengers,27
+2006,Jan,Train Passengers,0
+2006,Jan,Personal Vehicles,1226
+2006,Jan,Rail Containers Loaded,0
+2006,Jan,Buses,2
+2006,Jan,Truck Containers Empty,0
+2006,Jan,Personal Vehicle Passengers,4212
+2006,Jan,Bus Passengers,52
+2006,Jan,Truck Containers Loaded,0
+2006,Jan,Rail Containers Empty,0
+2006,Jan,Trains,0
+2006,Jan,Pedestrians,0
+2006,Jan,Trucks,1375
+2006,Feb,Trucks,1259
+2006,Feb,Pedestrians,0
+2006,Feb,Bus Passengers,149
+2006,Feb,Rail Containers Loaded,0
+2006,Feb,Truck Containers Loaded,97
+2006,Feb,Truck Containers Empty,6
+2006,Feb,Train Passengers,0
+2006,Feb,Trains,0
+2006,Feb,Buses,4
+2006,Feb,Rail Containers Empty,0
+2006,Feb,Personal Vehicles,1104
+2006,Feb,Personal Vehicle Passengers,2944
+2006,Mar,Truck Containers Loaded,1708
+2006,Mar,Bus Passengers,165
+2006,Mar,Rail Containers Empty,0
+2006,Mar,Personal Vehicles,1276
+2006,Mar,Personal Vehicle Passengers,4468
+2006,Mar,Train Passengers,0
+2006,Mar,Trucks,1783
+2006,Mar,Trains,0
+2006,Mar,Pedestrians,0
+2006,Mar,Rail Containers Loaded,0
+2006,Mar,Buses,6
+2006,Mar,Truck Containers Empty,148
+2006,Apr,Train Passengers,0
+2006,Apr,Buses,8
+2006,Apr,Personal Vehicle Passengers,6143
+2006,Apr,Truck Containers Empty,208
+2006,Apr,Trains,0
+2006,Apr,Bus Passengers,270
+2006,Apr,Truck Containers Loaded,1622
+2006,Apr,Pedestrians,0
+2006,Apr,Personal Vehicles,1760
+2006,Apr,Rail Containers Loaded,0
+2006,Apr,Trucks,1891
+2006,Apr,Rail Containers Empty,0
+2006,May,Trucks,2233
+2006,May,Personal Vehicles,1818
+2006,May,Bus Passengers,178
+2006,May,Buses,5
+2006,May,Rail Containers Empty,0
+2006,May,Rail Containers Loaded,0
+2006,May,Truck Containers Empty,252
+2006,May,Train Passengers,0
+2006,May,Trains,0
+2006,May,Truck Containers Loaded,2000
+2006,May,Personal Vehicle Passengers,7128
+2006,May,Pedestrians,0
+2006,Jun,Trucks,1310
+2006,Jun,Train Passengers,0
+2006,Jun,Trains,0
+2006,Jun,Personal Vehicles,2562
+2006,Jun,Rail Containers Loaded,0
+2006,Jun,Pedestrians,0
+2006,Jun,Rail Containers Empty,0
+2006,Jun,Truck Containers Empty,142
+2006,Jun,Bus Passengers,1740
+2006,Jun,Buses,51
+2006,Jun,Truck Containers Loaded,1088
+2006,Jun,Personal Vehicle Passengers,8953
+2006,Jul,Pedestrians,0
+2006,Jul,Truck Containers Empty,207
+2006,Jul,Rail Containers Loaded,0
+2006,Jul,Personal Vehicles,2982
+2006,Jul,Buses,5
+2006,Jul,Bus Passengers,155
+2006,Jul,Rail Containers Empty,0
+2006,Jul,Train Passengers,0
+2006,Jul,Trucks,1527
+2006,Jul,Truck Containers Loaded,1353
+2006,Jul,Personal Vehicle Passengers,10446
+2006,Jul,Trains,0
+2006,Aug,Personal Vehicles,2951
+2006,Aug,Personal Vehicle Passengers,10332
+2006,Aug,Truck Containers Loaded,1533
+2006,Aug,Train Passengers,0
+2006,Aug,Pedestrians,0
+2006,Aug,Trucks,1663
+2006,Aug,Buses,0
+2006,Aug,Rail Containers Empty,0
+2006,Aug,Rail Containers Loaded,0
+2006,Aug,Trains,0
+2006,Aug,Bus Passengers,0
+2006,Aug,Truck Containers Empty,159
+2006,Sep,Personal Vehicles,1941
+2006,Sep,Truck Containers Empty,139
+2006,Sep,Bus Passengers,51
+2006,Sep,Buses,2
+2006,Sep,Pedestrians,0
+2006,Sep,Train Passengers,0
+2006,Sep,Trains,0
+2006,Sep,Rail Containers Empty,0
+2006,Sep,Truck Containers Loaded,1798
+2006,Sep,Personal Vehicle Passengers,4711
+2006,Sep,Rail Containers Loaded,0
+2006,Sep,Trucks,1836
+2006,Oct,Train Passengers,0
+2006,Oct,Trucks,1682
+2006,Oct,Bus Passengers,176
+2006,Oct,Personal Vehicle Passengers,5163
+2006,Oct,Pedestrians,0
+2006,Oct,Trains,0
+2006,Oct,Rail Containers Empty,0
+2006,Oct,Personal Vehicles,2085
+2006,Oct,Rail Containers Loaded,0
+2006,Oct,Truck Containers Empty,129
+2006,Oct,Truck Containers Loaded,1557
+2006,Oct,Buses,4
+2006,Nov,Pedestrians,0
+2006,Nov,Buses,3
+2006,Nov,Rail Containers Loaded,0
+2006,Nov,Personal Vehicle Passengers,3895
+2006,Nov,Truck Containers Loaded,850
+2006,Nov,Trucks,1511
+2006,Nov,Rail Containers Empty,0
+2006,Nov,Train Passengers,0
+2006,Nov,Bus Passengers,120
+2006,Nov,Trains,0
+2006,Nov,Truck Containers Empty,57
+2006,Nov,Personal Vehicles,1558
+2006,Dec,Train Passengers,0
+2006,Dec,Truck Containers Loaded,647
+2006,Dec,Personal Vehicles,1679
+2006,Dec,Rail Containers Loaded,0
+2006,Dec,Rail Containers Empty,0
+2006,Dec,Personal Vehicle Passengers,4352
+2006,Dec,Pedestrians,0
+2006,Dec,Bus Passengers,48
+2006,Dec,Buses,1
+2006,Dec,Trains,0
+2006,Dec,Truck Containers Empty,73
+2006,Dec,Trucks,1160
+2007,Jan,Train Passengers,0
+2007,Jan,Truck Containers Empty,145
+2007,Jan,Truck Containers Loaded,898
+2007,Jan,Trucks,1039
+2007,Jan,Rail Containers Empty,0
+2007,Jan,Personal Vehicles,1223
+2007,Jan,Rail Containers Loaded,0
+2007,Jan,Trains,0
+2007,Jan,Pedestrians,0
+2007,Jan,Personal Vehicle Passengers,3110
+2007,Jan,Buses,0
+2007,Jan,Bus Passengers,0
+2007,Feb,Train Passengers,0
+2007,Feb,Pedestrians,0
+2007,Feb,Truck Containers Empty,130
+2007,Feb,Bus Passengers,0
+2007,Feb,Trains,0
+2007,Feb,Rail Containers Empty,0
+2007,Feb,Personal Vehicles,2176
+2007,Feb,Buses,0
+2007,Feb,Personal Vehicle Passengers,0
+2007,Feb,Trucks,1457
+2007,Feb,Rail Containers Loaded,0
+2007,Feb,Truck Containers Loaded,894
+2007,Mar,Trains,0
+2007,Mar,Rail Containers Loaded,0
+2007,Mar,Truck Containers Empty,193
+2007,Mar,Rail Containers Empty,0
+2007,Mar,Personal Vehicles,1389
+2007,Mar,Buses,2
+2007,Mar,Train Passengers,0
+2007,Mar,Trucks,2099
+2007,Mar,Personal Vehicle Passengers,3473
+2007,Mar,Bus Passengers,56
+2007,Mar,Pedestrians,0
+2007,Mar,Truck Containers Loaded,1830
+2007,Apr,Truck Containers Empty,194
+2007,Apr,Pedestrians,0
+2007,Apr,Train Passengers,0
+2007,Apr,Bus Passengers,1
+2007,Apr,Personal Vehicles,1628
+2007,Apr,Personal Vehicle Passengers,6827
+2007,Apr,Buses,4
+2007,Apr,Trains,0
+2007,Apr,Trucks,2321
+2007,Apr,Truck Containers Loaded,2164
+2007,Apr,Rail Containers Empty,0
+2007,Apr,Rail Containers Loaded,0
+2007,May,Trains,0
+2007,May,Rail Containers Loaded,0
+2007,May,Rail Containers Empty,0
+2007,May,Truck Containers Loaded,1931
+2007,May,Bus Passengers,99
+2007,May,Personal Vehicle Passengers,6629
+2007,May,Buses,3
+2007,May,Train Passengers,0
+2007,May,Pedestrians,0
+2007,May,Truck Containers Empty,220
+2007,May,Personal Vehicles,1724
+2007,May,Trucks,2146
+2007,Jun,Trucks,1656
+2007,Jun,Personal Vehicles,2851
+2007,Jun,Truck Containers Empty,165
+2007,Jun,Bus Passengers,128
+2007,Jun,Pedestrians,2
+2007,Jun,Personal Vehicle Passengers,7127
+2007,Jun,Train Passengers,0
+2007,Jun,Trains,0
+2007,Jun,Rail Containers Loaded,0
+2007,Jun,Buses,7
+2007,Jun,Rail Containers Empty,0
+2007,Jun,Truck Containers Loaded,1507
+2007,Jul,Trucks,1778
+2007,Jul,Truck Containers Loaded,1614
+2007,Jul,Rail Containers Empty,0
+2007,Jul,Train Passengers,0
+2007,Jul,Bus Passengers,62
+2007,Jul,Rail Containers Loaded,0
+2007,Jul,Personal Vehicles,2991
+2007,Jul,Trains,0
+2007,Jul,Pedestrians,0
+2007,Jul,Personal Vehicle Passengers,7817
+2007,Jul,Truck Containers Empty,183
+2007,Jul,Buses,5
+2007,Aug,Buses,4
+2007,Aug,Trucks,1557
+2007,Aug,Personal Vehicles,3442
+2007,Aug,Train Passengers,0
+2007,Aug,Rail Containers Empty,0
+2007,Aug,Bus Passengers,80
+2007,Aug,Truck Containers Empty,166
+2007,Aug,Rail Containers Loaded,0
+2007,Aug,Trains,0
+2007,Aug,Pedestrians,0
+2007,Aug,Personal Vehicle Passengers,7693
+2007,Aug,Truck Containers Loaded,1440
+2007,Sep,Trucks,1682
+2007,Sep,Train Passengers,0
+2007,Sep,Truck Containers Loaded,891
+2007,Sep,Trains,0
+2007,Sep,Pedestrians,0
+2007,Sep,Truck Containers Empty,47
+2007,Sep,Personal Vehicles,2123
+2007,Sep,Rail Containers Loaded,0
+2007,Sep,Personal Vehicle Passengers,5801
+2007,Sep,Bus Passengers,23
+2007,Sep,Buses,3
+2007,Sep,Rail Containers Empty,0
+2007,Oct,Trucks,1787
+2007,Oct,Truck Containers Empty,139
+2007,Oct,Personal Vehicles,2483
+2007,Oct,Rail Containers Loaded,0
+2007,Oct,Rail Containers Empty,0
+2007,Oct,Bus Passengers,167
+2007,Oct,Buses,6
+2007,Oct,Personal Vehicle Passengers,6365
+2007,Oct,Train Passengers,0
+2007,Oct,Trains,0
+2007,Oct,Truck Containers Loaded,1763
+2007,Oct,Pedestrians,0
+2007,Nov,Bus Passengers,63
+2007,Nov,Personal Vehicles,2186
+2007,Nov,Trucks,1545
+2007,Nov,Pedestrians,0
+2007,Nov,Buses,4
+2007,Nov,Train Passengers,0
+2007,Nov,Truck Containers Loaded,1345
+2007,Nov,Personal Vehicle Passengers,5322
+2007,Nov,Trains,0
+2007,Nov,Rail Containers Empty,0
+2007,Nov,Truck Containers Empty,164
+2007,Nov,Rail Containers Loaded,0
+2007,Dec,Bus Passengers,117
+2007,Dec,Rail Containers Empty,0
+2007,Dec,Truck Containers Loaded,992
+2007,Dec,Buses,4
+2007,Dec,Trucks,1147
+2007,Dec,Trains,0
+2007,Dec,Pedestrians,0
+2007,Dec,Personal Vehicles,1878
+2007,Dec,Rail Containers Loaded,0
+2007,Dec,Train Passengers,0
+2007,Dec,Truck Containers Empty,153
+2007,Dec,Personal Vehicle Passengers,4810
+2008,Jan,Rail Containers Loaded,0
+2008,Jan,Personal Vehicle Passengers,3964
+2008,Jan,Pedestrians,0
+2008,Jan,Personal Vehicles,1602
+2008,Jan,Bus Passengers,0
+2008,Jan,Train Passengers,0
+2008,Jan,Rail Containers Empty,0
+2008,Jan,Trains,0
+2008,Jan,Truck Containers Empty,203
+2008,Jan,Truck Containers Loaded,1029
+2008,Jan,Trucks,1224
+2008,Jan,Buses,0
+2008,Feb,Truck Containers Empty,185
+2008,Feb,Buses,0
+2008,Feb,Trucks,1283
+2008,Feb,Bus Passengers,0
+2008,Feb,Trains,0
+2008,Feb,Pedestrians,0
+2008,Feb,Personal Vehicles,1372
+2008,Feb,Rail Containers Empty,0
+2008,Feb,Truck Containers Loaded,1125
+2008,Feb,Rail Containers Loaded,0
+2008,Feb,Personal Vehicle Passengers,4057
+2008,Feb,Train Passengers,0
+2008,Mar,Personal Vehicles,1853
+2008,Mar,Personal Vehicle Passengers,5479
+2008,Mar,Pedestrians,1
+2008,Mar,Truck Containers Loaded,1545
+2008,Mar,Trucks,1601
+2008,Mar,Truck Containers Empty,184
+2008,Mar,Rail Containers Empty,0
+2008,Mar,Train Passengers,0
+2008,Mar,Rail Containers Loaded,0
+2008,Mar,Buses,5
+2008,Mar,Trains,0
+2008,Mar,Bus Passengers,145
+2008,Apr,Buses,1
+2008,Apr,Rail Containers Empty,0
+2008,Apr,Trains,0
+2008,Apr,Bus Passengers,30
+2008,Apr,Truck Containers Loaded,1641
+2008,Apr,Personal Vehicles,1770
+2008,Apr,Train Passengers,0
+2008,Apr,Personal Vehicle Passengers,5522
+2008,Apr,Pedestrians,0
+2008,Apr,Trucks,1932
+2008,Apr,Rail Containers Loaded,0
+2008,Apr,Truck Containers Empty,281
+2008,May,Truck Containers Empty,241
+2008,May,Buses,9
+2008,May,Bus Passengers,251
+2008,May,Personal Vehicle Passengers,5628
+2008,May,Trucks,1662
+2008,May,Trains,0
+2008,May,Train Passengers,0
+2008,May,Truck Containers Loaded,1448
+2008,May,Rail Containers Loaded,0
+2008,May,Personal Vehicles,2075
+2008,May,Pedestrians,0
+2008,May,Rail Containers Empty,0
+2008,Jun,Bus Passengers,108
+2008,Jun,Personal Vehicle Passengers,6619
+2008,Jun,Trucks,1272
+2008,Jun,Rail Containers Loaded,0
+2008,Jun,Buses,7
+2008,Jun,Train Passengers,0
+2008,Jun,Rail Containers Empty,0
+2008,Jun,Truck Containers Loaded,917
+2008,Jun,Trains,0
+2008,Jun,Pedestrians,0
+2008,Jun,Personal Vehicles,2706
+2008,Jun,Truck Containers Empty,181
+2008,Jul,Buses,4
+2008,Jul,Trucks,1275
+2008,Jul,Truck Containers Empty,206
+2008,Jul,Pedestrians,0
+2008,Jul,Personal Vehicle Passengers,7672
+2008,Jul,Train Passengers,0
+2008,Jul,Personal Vehicles,2936
+2008,Jul,Truck Containers Loaded,1216
+2008,Jul,Trains,0
+2008,Jul,Bus Passengers,122
+2008,Jul,Rail Containers Empty,0
+2008,Jul,Rail Containers Loaded,0
+2008,Aug,Train Passengers,0
+2008,Aug,Personal Vehicles,3454
+2008,Aug,Trucks,1302
+2008,Aug,Truck Containers Loaded,1096
+2008,Aug,Buses,2
+2008,Aug,Pedestrians,0
+2008,Aug,Rail Containers Empty,0
+2008,Aug,Trains,0
+2008,Aug,Rail Containers Loaded,0
+2008,Aug,Personal Vehicle Passengers,8007
+2008,Aug,Truck Containers Empty,199
+2008,Aug,Bus Passengers,60
+2008,Sep,Trucks,1142
+2008,Sep,Buses,1
+2008,Sep,Rail Containers Loaded,0
+2008,Sep,Train Passengers,0
+2008,Sep,Rail Containers Empty,0
+2008,Sep,Trains,0
+2008,Sep,Personal Vehicles,1819
+2008,Sep,Pedestrians,0
+2008,Sep,Personal Vehicle Passengers,5322
+2008,Sep,Truck Containers Loaded,950
+2008,Sep,Bus Passengers,9
+2008,Sep,Truck Containers Empty,138
+2008,Oct,Trains,0
+2008,Oct,Rail Containers Loaded,0
+2008,Oct,Buses,3
+2008,Oct,Rail Containers Empty,0
+2008,Oct,Personal Vehicles,1844
+2008,Oct,Pedestrians,0
+2008,Oct,Train Passengers,0
+2008,Oct,Bus Passengers,117
+2008,Oct,Truck Containers Empty,130
+2008,Oct,Personal Vehicle Passengers,4839
+2008,Oct,Truck Containers Loaded,827
+2008,Oct,Trucks,940
+2008,Nov,Pedestrians,0
+2008,Nov,Rail Containers Loaded,0
+2008,Nov,Personal Vehicles,1544
+2008,Nov,Train Passengers,0
+2008,Nov,Trucks,996
+2008,Nov,Buses,5
+2008,Nov,Truck Containers Loaded,859
+2008,Nov,Rail Containers Empty,0
+2008,Nov,Trains,0
+2008,Nov,Personal Vehicle Passengers,4520
+2008,Nov,Bus Passengers,144
+2008,Nov,Truck Containers Empty,139
+2008,Dec,Bus Passengers,35
+2008,Dec,Personal Vehicles,1414
+2008,Dec,Pedestrians,0
+2008,Dec,Buses,1
+2008,Dec,Train Passengers,0
+2008,Dec,Rail Containers Empty,0
+2008,Dec,Trucks,1000
+2008,Dec,Rail Containers Loaded,0
+2008,Dec,Truck Containers Loaded,858
+2008,Dec,Truck Containers Empty,142
+2008,Dec,Personal Vehicle Passengers,4058
+2008,Dec,Trains,0
+2009,Jan,Personal Vehicle Passengers,3708
+2009,Jan,Truck Containers Empty,121
+2009,Jan,Trains,0
+2009,Jan,Rail Containers Empty,0
+2009,Jan,Bus Passengers,0
+2009,Jan,Pedestrians,0
+2009,Jan,Truck Containers Loaded,1008
+2009,Jan,Train Passengers,0
+2009,Jan,Rail Containers Loaded,0
+2009,Jan,Buses,0
+2009,Jan,Trucks,1153
+2009,Jan,Personal Vehicles,1268
+2009,Feb,Rail Containers Loaded,0
+2009,Feb,Rail Containers Empty,0
+2009,Feb,Pedestrians,0
+2009,Feb,Trains,0
+2009,Feb,Train Passengers,0
+2009,Feb,Bus Passengers,37
+2009,Feb,Personal Vehicle Passengers,3682
+2009,Feb,Truck Containers Loaded,941
+2009,Feb,Personal Vehicles,1219
+2009,Feb,Trucks,1034
+2009,Feb,Truck Containers Empty,96
+2009,Feb,Buses,1
+2009,Mar,Personal Vehicle Passengers,4130
+2009,Mar,Buses,5
+2009,Mar,Rail Containers Loaded,0
+2009,Mar,Truck Containers Loaded,807
+2009,Mar,Truck Containers Empty,83
+2009,Mar,Trains,0
+2009,Mar,Train Passengers,0
+2009,Mar,Pedestrians,0
+2009,Mar,Trucks,1018
+2009,Mar,Rail Containers Empty,0
+2009,Mar,Personal Vehicles,1370
+2009,Mar,Bus Passengers,129
+2009,Apr,Trucks,968
+2009,Apr,Rail Containers Empty,0
+2009,Apr,Trains,0
+2009,Apr,Buses,2
+2009,Apr,Bus Passengers,59
+2009,Apr,Pedestrians,0
+2009,Apr,Truck Containers Loaded,813
+2009,Apr,Personal Vehicle Passengers,5171
+2009,Apr,Personal Vehicles,1768
+2009,Apr,Rail Containers Loaded,0
+2009,Apr,Truck Containers Empty,160
+2009,Apr,Train Passengers,0
+2009,May,Train Passengers,0
+2009,May,Truck Containers Empty,159
+2009,May,Truck Containers Loaded,976
+2009,May,Pedestrians,1
+2009,May,Rail Containers Empty,0
+2009,May,Personal Vehicles,1824
+2009,May,Buses,5
+2009,May,Rail Containers Loaded,0
+2009,May,Trains,0
+2009,May,Bus Passengers,123
+2009,May,Personal Vehicle Passengers,4981
+2009,May,Trucks,1128
+2009,Jun,Bus Passengers,194
+2009,Jun,Truck Containers Loaded,604
+2009,Jun,Rail Containers Empty,0
+2009,Jun,Train Passengers,0
+2009,Jun,Trucks,781
+2009,Jun,Trains,0
+2009,Jun,Truck Containers Empty,179
+2009,Jun,Personal Vehicles,2056
+2009,Jun,Personal Vehicle Passengers,5598
+2009,Jun,Pedestrians,0
+2009,Jun,Buses,10
+2009,Jun,Rail Containers Loaded,0
+2009,Jul,Trucks,941
+2009,Jul,Buses,4
+2009,Jul,Personal Vehicles,2717
+2009,Jul,Truck Containers Loaded,744
+2009,Jul,Bus Passengers,39
+2009,Jul,Pedestrians,0
+2009,Jul,Truck Containers Empty,176
+2009,Jul,Train Passengers,0
+2009,Jul,Rail Containers Empty,0
+2009,Jul,Rail Containers Loaded,0
+2009,Jul,Personal Vehicle Passengers,6862
+2009,Jul,Trains,0
+2009,Aug,Truck Containers Empty,209
+2009,Aug,Bus Passengers,49
+2009,Aug,Personal Vehicle Passengers,6729
+2009,Aug,Trains,0
+2009,Aug,Buses,2
+2009,Aug,Pedestrians,0
+2009,Aug,Truck Containers Loaded,575
+2009,Aug,Personal Vehicles,2656
+2009,Aug,Rail Containers Empty,0
+2009,Aug,Rail Containers Loaded,0
+2009,Aug,Trucks,768
+2009,Aug,Train Passengers,0
+2009,Sep,Truck Containers Empty,166
+2009,Sep,Truck Containers Loaded,499
+2009,Sep,Buses,2
+2009,Sep,Bus Passengers,65
+2009,Sep,Train Passengers,0
+2009,Sep,Personal Vehicle Passengers,4687
+2009,Sep,Rail Containers Loaded,0
+2009,Sep,Trains,0
+2009,Sep,Trucks,665
+2009,Sep,Personal Vehicles,1805
+2009,Sep,Pedestrians,0
+2009,Sep,Rail Containers Empty,0
+2009,Oct,Truck Containers Loaded,467
+2009,Oct,Personal Vehicle Passengers,4461
+2009,Oct,Rail Containers Empty,0
+2009,Oct,Trains,0
+2009,Oct,Rail Containers Loaded,0
+2009,Oct,Personal Vehicles,1942
+2009,Oct,Truck Containers Empty,163
+2009,Oct,Buses,0
+2009,Oct,Pedestrians,0
+2009,Oct,Train Passengers,0
+2009,Oct,Bus Passengers,0
+2009,Oct,Trucks,687
+2009,Nov,Buses,1
+2009,Nov,Personal Vehicle Passengers,3934
+2009,Nov,Truck Containers Empty,142
+2009,Nov,Trucks,876
+2009,Nov,Bus Passengers,26
+2009,Nov,Rail Containers Loaded,0
+2009,Nov,Rail Containers Empty,0
+2009,Nov,Trains,0
+2009,Nov,Pedestrians,0
+2009,Nov,Truck Containers Loaded,657
+2009,Nov,Personal Vehicles,1364
+2009,Nov,Train Passengers,0
+2009,Dec,Personal Vehicles,1573
+2009,Dec,Pedestrians,0
+2009,Dec,Trucks,844
+2009,Dec,Rail Containers Loaded,0
+2009,Dec,Rail Containers Empty,0
+2009,Dec,Train Passengers,0
+2009,Dec,Buses,0
+2009,Dec,Truck Containers Empty,114
+2009,Dec,Trains,0
+2009,Dec,Personal Vehicle Passengers,4170
+2009,Dec,Truck Containers Loaded,674
+2009,Dec,Bus Passengers,0
+2010,Jan,Personal Vehicles,1233
+2010,Jan,Buses,2
+2010,Jan,Truck Containers Empty,126
+2010,Jan,Pedestrians,0
+2010,Jan,Trains,0
+2010,Jan,Train Passengers,0
+2010,Jan,Rail Containers Loaded,0
+2010,Jan,Trucks,807
+2010,Jan,Rail Containers Empty,0
+2010,Jan,Personal Vehicle Passengers,3627
+2010,Jan,Bus Passengers,0
+2010,Jan,Truck Containers Loaded,655
+2010,Feb,Personal Vehicle Passengers,3791
+2010,Feb,Rail Containers Empty,0
+2010,Feb,Rail Containers Loaded,0
+2010,Feb,Trucks,1030
+2010,Feb,Trains,0
+2010,Feb,Buses,1
+2010,Feb,Pedestrians,0
+2010,Feb,Truck Containers Loaded,934
+2010,Feb,Train Passengers,0
+2010,Feb,Personal Vehicles,1252
+2010,Feb,Bus Passengers,0
+2010,Feb,Truck Containers Empty,170
+2010,Mar,Train Passengers,0
+2010,Mar,Trains,0
+2010,Mar,Personal Vehicles,1416
+2010,Mar,Bus Passengers,0
+2010,Mar,Rail Containers Empty,0
+2010,Mar,Personal Vehicle Passengers,4450
+2010,Mar,Trucks,1181
+2010,Mar,Rail Containers Loaded,0
+2010,Mar,Buses,3
+2010,Mar,Pedestrians,0
+2010,Mar,Truck Containers Loaded,972
+2010,Mar,Truck Containers Empty,166
+2010,Apr,Trucks,1663
+2010,Apr,Buses,2
+2010,Apr,Personal Vehicle Passengers,5453
+2010,Apr,Truck Containers Empty,185
+2010,Apr,Personal Vehicles,1785
+2010,Apr,Pedestrians,0
+2010,Apr,Bus Passengers,69
+2010,Apr,Train Passengers,0
+2010,Apr,Trains,0
+2010,Apr,Truck Containers Loaded,1434
+2010,Apr,Rail Containers Empty,0
+2010,Apr,Rail Containers Loaded,0
+2010,May,Buses,2
+2010,May,Truck Containers Empty,33
+2010,May,Trucks,1583
+2010,May,Pedestrians,0
+2010,May,Train Passengers,0
+2010,May,Rail Containers Loaded,0
+2010,May,Rail Containers Empty,0
+2010,May,Trains,0
+2010,May,Truck Containers Loaded,287
+2010,May,Bus Passengers,69
+2010,May,Personal Vehicle Passengers,5512
+2010,May,Personal Vehicles,1672
+2010,Jun,Pedestrians,0
+2010,Jun,Trucks,1161
+2010,Jun,Buses,7
+2010,Jun,Train Passengers,0
+2010,Jun,Truck Containers Loaded,803
+2010,Jun,Bus Passengers,136
+2010,Jun,Rail Containers Loaded,0
+2010,Jun,Truck Containers Empty,154
+2010,Jun,Rail Containers Empty,0
+2010,Jun,Personal Vehicles,2118
+2010,Jun,Personal Vehicle Passengers,6439
+2010,Jun,Trains,0
+2010,Jul,Rail Containers Loaded,0
+2010,Jul,Buses,3
+2010,Jul,Pedestrians,0
+2010,Jul,Rail Containers Empty,0
+2010,Jul,Personal Vehicle Passengers,8309
+2010,Jul,Train Passengers,0
+2010,Jul,Trains,0
+2010,Jul,Personal Vehicles,3040
+2010,Jul,Truck Containers Empty,169
+2010,Jul,Bus Passengers,35
+2010,Jul,Truck Containers Loaded,849
+2010,Jul,Trucks,1033
+2010,Aug,Personal Vehicle Passengers,7959
+2010,Aug,Rail Containers Empty,0
+2010,Aug,Train Passengers,0
+2010,Aug,Truck Containers Empty,180
+2010,Aug,Personal Vehicles,3134
+2010,Aug,Bus Passengers,0
+2010,Aug,Pedestrians,0
+2010,Aug,Buses,0
+2010,Aug,Trains,0
+2010,Aug,Trucks,1131
+2010,Aug,Rail Containers Loaded,0
+2010,Aug,Truck Containers Loaded,912
+2010,Sep,Rail Containers Empty,0
+2010,Sep,Trains,0
+2010,Sep,Bus Passengers,10
+2010,Sep,Truck Containers Loaded,34
+2010,Sep,Truck Containers Empty,4
+2010,Sep,Trucks,1160
+2010,Sep,Buses,1
+2010,Sep,Pedestrians,0
+2010,Sep,Rail Containers Loaded,0
+2010,Sep,Personal Vehicle Passengers,5245
+2010,Sep,Train Passengers,0
+2010,Sep,Personal Vehicles,2020
+2010,Oct,Truck Containers Empty,137
+2010,Oct,Rail Containers Loaded,0
+2010,Oct,Trucks,1101
+2010,Oct,Buses,4
+2010,Oct,Bus Passengers,137
+2010,Oct,Pedestrians,0
+2010,Oct,Personal Vehicle Passengers,5188
+2010,Oct,Rail Containers Empty,0
+2010,Oct,Truck Containers Loaded,584
+2010,Oct,Train Passengers,0
+2010,Oct,Trains,0
+2010,Oct,Personal Vehicles,1891
+2010,Nov,Personal Vehicles,1571
+2010,Nov,Personal Vehicle Passengers,3077
+2010,Nov,Truck Containers Empty,223
+2010,Nov,Buses,0
+2010,Nov,Bus Passengers,0
+2010,Nov,Rail Containers Empty,0
+2010,Nov,Trucks,996
+2010,Nov,Pedestrians,0
+2010,Nov,Train Passengers,0
+2010,Nov,Truck Containers Loaded,736
+2010,Nov,Trains,0
+2010,Nov,Rail Containers Loaded,0
+2010,Dec,Rail Containers Loaded,0
+2010,Dec,Personal Vehicles,1612
+2010,Dec,Rail Containers Empty,0
+2010,Dec,Buses,2
+2010,Dec,Train Passengers,0
+2010,Dec,Trains,0
+2010,Dec,Truck Containers Empty,58
+2010,Dec,Truck Containers Loaded,151
+2010,Dec,Personal Vehicle Passengers,3414
+2010,Dec,Trucks,838
+2010,Dec,Pedestrians,0
+2010,Dec,Bus Passengers,59
+2011,Jan,Buses,0
+2011,Jan,Rail Containers Loaded,0
+2011,Jan,Pedestrians,0
+2011,Jan,Truck Containers Empty,261
+2011,Jan,Truck Containers Loaded,662
+2011,Jan,Personal Vehicles,1336
+2011,Jan,Trucks,941
+2011,Jan,Rail Containers Empty,0
+2011,Jan,Personal Vehicle Passengers,2672
+2011,Jan,Train Passengers,0
+2011,Jan,Bus Passengers,0
+2011,Jan,Trains,0
+2011,Feb,Truck Containers Empty,228
+2011,Feb,Personal Vehicle Passengers,2707
+2011,Feb,Rail Containers Loaded,0
+2011,Feb,Personal Vehicles,1296
+2011,Feb,Train Passengers,0
+2011,Feb,Trucks,968
+2011,Feb,Rail Containers Empty,0
+2011,Feb,Pedestrians,0
+2011,Feb,Buses,0
+2011,Feb,Truck Containers Loaded,744
+2011,Feb,Bus Passengers,0
+2011,Feb,Trains,0
+2011,Mar,Personal Vehicles,1353
+2011,Mar,Trucks,1050
+2011,Mar,Pedestrians,0
+2011,Mar,Trains,0
+2011,Mar,Bus Passengers,0
+2011,Mar,Truck Containers Empty,211
+2011,Mar,Rail Containers Empty,0
+2011,Mar,Train Passengers,0
+2011,Mar,Rail Containers Loaded,0
+2011,Mar,Buses,0
+2011,Mar,Personal Vehicle Passengers,2924
+2011,Mar,Truck Containers Loaded,839
+2011,Apr,Personal Vehicles,1664
+2011,Apr,Bus Passengers,56
+2011,Apr,Truck Containers Loaded,903
+2011,Apr,Personal Vehicle Passengers,3796
+2011,Apr,Trucks,1233
+2011,Apr,Train Passengers,0
+2011,Apr,Pedestrians,0
+2011,Apr,Trains,0
+2011,Apr,Rail Containers Loaded,0
+2011,Apr,Truck Containers Empty,325
+2011,Apr,Rail Containers Empty,0
+2011,Apr,Buses,2
+2011,May,Personal Vehicle Passengers,3681
+2011,May,Rail Containers Empty,0
+2011,May,Pedestrians,0
+2011,May,Personal Vehicles,2112
+2011,May,Truck Containers Empty,56
+2011,May,Train Passengers,0
+2011,May,Buses,3
+2011,May,Trucks,1732
+2011,May,Bus Passengers,67
+2011,May,Truck Containers Loaded,351
+2011,May,Trains,0
+2011,May,Rail Containers Loaded,0
+2011,Jun,Train Passengers,0
+2011,Jun,Personal Vehicle Passengers,6316
+2011,Jun,Personal Vehicles,2961
+2011,Jun,Trains,0
+2011,Jun,Buses,5
+2011,Jun,Truck Containers Loaded,1290
+2011,Jun,Pedestrians,0
+2011,Jun,Rail Containers Loaded,0
+2011,Jun,Rail Containers Empty,0
+2011,Jun,Bus Passengers,119
+2011,Jun,Trucks,1792
+2011,Jun,Truck Containers Empty,421
+2011,Jul,Rail Containers Loaded,0
+2011,Jul,Truck Containers Empty,695
+2011,Jul,Bus Passengers,217
+2011,Jul,Train Passengers,0
+2011,Jul,Trains,0
+2011,Jul,Rail Containers Empty,0
+2011,Jul,Trucks,2159
+2011,Jul,Personal Vehicles,4733
+2011,Jul,Pedestrians,0
+2011,Jul,Personal Vehicle Passengers,9775
+2011,Jul,Truck Containers Loaded,1531
+2011,Jul,Buses,13
+2011,Aug,Truck Containers Empty,511
+2011,Aug,Truck Containers Loaded,1058
+2011,Aug,Train Passengers,0
+2011,Aug,Trucks,1878
+2011,Aug,Trains,0
+2011,Aug,Personal Vehicles,3716
+2011,Aug,Bus Passengers,31
+2011,Aug,Rail Containers Empty,0
+2011,Aug,Personal Vehicle Passengers,7055
+2011,Aug,Pedestrians,0
+2011,Aug,Buses,1
+2011,Aug,Rail Containers Loaded,0
+2011,Sep,Truck Containers Loaded,1155
+2011,Sep,Rail Containers Empty,0
+2011,Sep,Truck Containers Empty,343
+2011,Sep,Personal Vehicles,2031
+2011,Sep,Buses,6
+2011,Sep,Rail Containers Loaded,0
+2011,Sep,Pedestrians,0
+2011,Sep,Trucks,1567
+2011,Sep,Train Passengers,0
+2011,Sep,Trains,0
+2011,Sep,Bus Passengers,147
+2011,Sep,Personal Vehicle Passengers,4138
+2011,Oct,Train Passengers,0
+2011,Oct,Personal Vehicles,2514
+2011,Oct,Rail Containers Empty,0
+2011,Oct,Buses,2
+2011,Oct,Trucks,1344
+2011,Oct,Truck Containers Empty,316
+2011,Oct,Bus Passengers,48
+2011,Oct,Rail Containers Loaded,0
+2011,Oct,Truck Containers Loaded,1009
+2011,Oct,Pedestrians,0
+2011,Oct,Personal Vehicle Passengers,4217
+2011,Oct,Trains,0
+2011,Nov,Rail Containers Empty,0
+2011,Nov,Pedestrians,0
+2011,Nov,Trucks,1103
+2011,Nov,Personal Vehicles,1926
+2011,Nov,Rail Containers Loaded,0
+2011,Nov,Train Passengers,0
+2011,Nov,Personal Vehicle Passengers,3387
+2011,Nov,Buses,2
+2011,Nov,Truck Containers Loaded,805
+2011,Nov,Bus Passengers,98
+2011,Nov,Trains,0
+2011,Nov,Truck Containers Empty,285
+2011,Dec,Train Passengers,0
+2011,Dec,Personal Vehicles,1888
+2011,Dec,Truck Containers Loaded,789
+2011,Dec,Trucks,1172
+2011,Dec,Rail Containers Empty,0
+2011,Dec,Rail Containers Loaded,0
+2011,Dec,Pedestrians,0
+2011,Dec,Buses,2
+2011,Dec,Truck Containers Empty,316
+2011,Dec,Trains,0
+2011,Dec,Personal Vehicle Passengers,3908
+2011,Dec,Bus Passengers,51
+2012,Jan,Buses,1
+2012,Jan,Truck Containers Loaded,818
+2012,Jan,Personal Vehicle Passengers,2900
+2012,Jan,Trains,0
+2012,Jan,Train Passengers,0
+2012,Jan,Truck Containers Empty,472
+2012,Jan,Rail Containers Empty,0
+2012,Jan,Personal Vehicles,1683
+2012,Jan,Rail Containers Loaded,0
+2012,Jan,Pedestrians,0
+2012,Jan,Trucks,1247
+2012,Jan,Bus Passengers,21
+2012,Feb,Rail Containers Loaded,0
+2012,Feb,Truck Containers Loaded,878
+2012,Feb,Pedestrians,0
+2012,Feb,Rail Containers Empty,0
+2012,Feb,Personal Vehicle Passengers,3461
+2012,Feb,Buses,2
+2012,Feb,Bus Passengers,20
+2012,Feb,Trains,0
+2012,Feb,Trucks,1281
+2012,Feb,Train Passengers,0
+2012,Feb,Truck Containers Empty,475
+2012,Feb,Personal Vehicles,1859
+2012,Mar,Truck Containers Loaded,1073
+2012,Mar,Buses,2
+2012,Mar,Rail Containers Loaded,0
+2012,Mar,Pedestrians,0
+2012,Mar,Bus Passengers,28
+2012,Mar,Trucks,1644
+2012,Mar,Personal Vehicle Passengers,3362
+2012,Mar,Personal Vehicles,1687
+2012,Mar,Train Passengers,0
+2012,Mar,Trains,0
+2012,Mar,Truck Containers Empty,524
+2012,Mar,Rail Containers Empty,0
+2012,Apr,Trains,0
+2012,Apr,Buses,4
+2012,Apr,Train Passengers,0
+2012,Apr,Bus Passengers,233
+2012,Apr,Trucks,1972
+2012,Apr,Truck Containers Empty,465
+2012,Apr,Rail Containers Empty,0
+2012,Apr,Personal Vehicles,1986
+2012,Apr,Pedestrians,0
+2012,Apr,Truck Containers Loaded,1510
+2012,Apr,Rail Containers Loaded,0
+2012,Apr,Personal Vehicle Passengers,4021
+2012,May,Truck Containers Loaded,1159
+2012,May,Rail Containers Empty,0
+2012,May,Trucks,1750
+2012,May,Bus Passengers,65
+2012,May,Rail Containers Loaded,0
+2012,May,Truck Containers Empty,467
+2012,May,Buses,2
+2012,May,Trains,0
+2012,May,Pedestrians,0
+2012,May,Personal Vehicle Passengers,3774
+2012,May,Train Passengers,0
+2012,May,Personal Vehicles,1850
+2012,Jun,Personal Vehicles,2775
+2012,Jun,Pedestrians,0
+2012,Jun,Rail Containers Loaded,0
+2012,Jun,Rail Containers Empty,0
+2012,Jun,Buses,2
+2012,Jun,Personal Vehicle Passengers,5620
+2012,Jun,Truck Containers Loaded,976
+2012,Jun,Train Passengers,0
+2012,Jun,Truck Containers Empty,533
+2012,Jun,Bus Passengers,41
+2012,Jun,Trains,0
+2012,Jun,Trucks,1589
+2012,Jul,Rail Containers Empty,0
+2012,Jul,Personal Vehicles,3207
+2012,Jul,Pedestrians,0
+2012,Jul,Buses,2
+2012,Jul,Truck Containers Empty,488
+2012,Jul,Trains,0
+2012,Jul,Rail Containers Loaded,0
+2012,Jul,Train Passengers,0
+2012,Jul,Truck Containers Loaded,1134
+2012,Jul,Bus Passengers,75
+2012,Jul,Trucks,1838
+2012,Jul,Personal Vehicle Passengers,6807
+2012,Aug,Truck Containers Loaded,1063
+2012,Aug,Trains,0
+2012,Aug,Buses,3
+2012,Aug,Train Passengers,0
+2012,Aug,Rail Containers Empty,0
+2012,Aug,Rail Containers Loaded,0
+2012,Aug,Personal Vehicle Passengers,6637
+2012,Aug,Truck Containers Empty,766
+2012,Aug,Trucks,1829
+2012,Aug,Pedestrians,0
+2012,Aug,Bus Passengers,143
+2012,Aug,Personal Vehicles,3379
+2012,Sep,Personal Vehicles,2134
+2012,Sep,Bus Passengers,63
+2012,Sep,Rail Containers Loaded,0
+2012,Sep,Truck Containers Loaded,1214
+2012,Sep,Trains,0
+2012,Sep,Pedestrians,0
+2012,Sep,Train Passengers,0
+2012,Sep,Truck Containers Empty,660
+2012,Sep,Buses,3
+2012,Sep,Rail Containers Empty,0
+2012,Sep,Trucks,1668
+2012,Sep,Personal Vehicle Passengers,3953
+2012,Oct,Train Passengers,0
+2012,Oct,Trains,0
+2012,Oct,Personal Vehicles,2391
+2012,Oct,Buses,2
+2012,Oct,Personal Vehicle Passengers,4333
+2012,Oct,Truck Containers Loaded,1012
+2012,Oct,Bus Passengers,21
+2012,Oct,Pedestrians,0
+2012,Oct,Truck Containers Empty,508
+2012,Oct,Rail Containers Empty,0
+2012,Oct,Trucks,1518
+2012,Oct,Rail Containers Loaded,0
+2012,Nov,Trucks,1407
+2012,Nov,Buses,1
+2012,Nov,Personal Vehicles,1757
+2012,Nov,Train Passengers,0
+2012,Nov,Bus Passengers,32
+2012,Nov,Rail Containers Empty,0
+2012,Nov,Truck Containers Loaded,902
+2012,Nov,Personal Vehicle Passengers,3129
+2012,Nov,Truck Containers Empty,480
+2012,Nov,Rail Containers Loaded,0
+2012,Nov,Pedestrians,0
+2012,Nov,Trains,0
+2012,Dec,Personal Vehicle Passengers,4079
+2012,Dec,Buses,2
+2012,Dec,Personal Vehicles,2032
+2012,Dec,Train Passengers,0
+2012,Dec,Pedestrians,0
+2012,Dec,Truck Containers Empty,585
+2012,Dec,Rail Containers Loaded,0
+2012,Dec,Truck Containers Loaded,893
+2012,Dec,Trucks,1501
+2012,Dec,Trains,0
+2012,Dec,Rail Containers Empty,0
+2012,Dec,Bus Passengers,55
+2013,Jan,Bus Passengers,12
+2013,Jan,Pedestrians,0
+2013,Jan,Trucks,1836
+2013,Jan,Rail Containers Loaded,0
+2013,Jan,Personal Vehicles,1519
+2013,Jan,Buses,1
+2013,Jan,Personal Vehicle Passengers,2792
+2013,Jan,Train Passengers,0
+2013,Jan,Truck Containers Loaded,1251
+2013,Jan,Rail Containers Empty,0
+2013,Jan,Trains,0
+2013,Jan,Truck Containers Empty,570
+2013,Feb,Trucks,1763
+2013,Feb,Personal Vehicle Passengers,3148
+2013,Feb,Rail Containers Loaded,0
+2013,Feb,Pedestrians,0
+2013,Feb,Train Passengers,0
+2013,Feb,Truck Containers Loaded,1237
+2013,Feb,Bus Passengers,110
+2013,Feb,Truck Containers Empty,524
+2013,Feb,Trains,0
+2013,Feb,Personal Vehicles,1532
+2013,Feb,Buses,3
+2013,Feb,Rail Containers Empty,0
+2013,Mar,Truck Containers Empty,585
+2013,Mar,Pedestrians,0
+2013,Mar,Trains,0
+2013,Mar,Trucks,1631
+2013,Mar,Train Passengers,0
+2013,Mar,Truck Containers Loaded,1046
+2013,Mar,Personal Vehicles,1449
+2013,Mar,Personal Vehicle Passengers,3081
+2013,Mar,Rail Containers Empty,0
+2013,Mar,Buses,1
+2013,Mar,Rail Containers Loaded,0
+2013,Mar,Bus Passengers,43
+2013,Apr,Bus Passengers,0
+2013,Apr,Rail Containers Loaded,0
+2013,Apr,Personal Vehicles,1550
+2013,Apr,Truck Containers Empty,628
+2013,Apr,Trucks,1806
+2013,Apr,Rail Containers Empty,0
+2013,Apr,Train Passengers,0
+2013,Apr,Personal Vehicle Passengers,2896
+2013,Apr,Pedestrians,0
+2013,Apr,Trains,0
+2013,Apr,Truck Containers Loaded,845
+2013,Apr,Buses,0
+2013,May,Bus Passengers,149
+2013,May,Rail Containers Empty,0
+2013,May,Rail Containers Loaded,0
+2013,May,Pedestrians,0
+2013,May,Personal Vehicle Passengers,3895
+2013,May,Trains,0
+2013,May,Truck Containers Loaded,1218
+2013,May,Train Passengers,0
+2013,May,Buses,4
+2013,May,Truck Containers Empty,732
+2013,May,Personal Vehicles,2128
+2013,May,Trucks,1996
+2013,Jun,Bus Passengers,61
+2013,Jun,Rail Containers Empty,0
+2013,Jun,Rail Containers Loaded,0
+2013,Jun,Truck Containers Empty,715
+2013,Jun,Truck Containers Loaded,736
+2013,Jun,Personal Vehicle Passengers,5622
+2013,Jun,Trains,0
+2013,Jun,Buses,3
+2013,Jun,Pedestrians,0
+2013,Jun,Trucks,1523
+2013,Jun,Train Passengers,0
+2013,Jun,Personal Vehicles,2757
+2013,Jul,Train Passengers,0
+2013,Jul,Buses,21
+2013,Jul,Truck Containers Empty,901
+2013,Jul,Truck Containers Loaded,841
+2013,Jul,Personal Vehicles,2246
+2013,Jul,Personal Vehicle Passengers,6929
+2013,Jul,Bus Passengers,169
+2013,Jul,Trucks,1742
+2013,Jul,Rail Containers Empty,0
+2013,Jul,Trains,0
+2013,Jul,Rail Containers Loaded,0
+2013,Jul,Pedestrians,0
+2013,Aug,Rail Containers Empty,0
+2013,Aug,Train Passengers,0
+2013,Aug,Trucks,1911
+2013,Aug,Pedestrians,0
+2013,Aug,Buses,4
+2013,Aug,Truck Containers Empty,1000
+2013,Aug,Truck Containers Loaded,866
+2013,Aug,Personal Vehicles,3820
+2013,Aug,Trains,0
+2013,Aug,Personal Vehicle Passengers,7619
+2013,Aug,Bus Passengers,84
+2013,Aug,Rail Containers Loaded,0
+2013,Sep,Bus Passengers,140
+2013,Sep,Personal Vehicles,2198
+2013,Sep,Truck Containers Loaded,920
+2013,Sep,Truck Containers Empty,1048
+2013,Sep,Trucks,1968
+2013,Sep,Train Passengers,0
+2013,Sep,Pedestrians,0
+2013,Sep,Buses,4
+2013,Sep,Personal Vehicle Passengers,3864
+2013,Sep,Rail Containers Loaded,0
+2013,Sep,Trains,0
+2013,Sep,Rail Containers Empty,0
+2013,Oct,Buses,3
+2013,Oct,Train Passengers,0
+2013,Oct,Bus Passengers,45
+2013,Oct,Trucks,1833
+2013,Oct,Rail Containers Empty,0
+2013,Oct,Rail Containers Loaded,0
+2013,Oct,Pedestrians,0
+2013,Oct,Personal Vehicle Passengers,4317
+2013,Oct,Truck Containers Empty,721
+2013,Oct,Truck Containers Loaded,617
+2013,Oct,Trains,0
+2013,Oct,Personal Vehicles,2384
+2013,Nov,Rail Containers Empty,0
+2013,Nov,Pedestrians,0
+2013,Nov,Trucks,1541
+2013,Nov,Bus Passengers,76
+2013,Nov,Trains,0
+2013,Nov,Personal Vehicles,1988
+2013,Nov,Train Passengers,0
+2013,Nov,Buses,2
+2013,Nov,Truck Containers Loaded,625
+2013,Nov,Personal Vehicle Passengers,3571
+2013,Nov,Rail Containers Loaded,0
+2013,Nov,Truck Containers Empty,275
+2013,Dec,Personal Vehicle Passengers,4036
+2013,Dec,Personal Vehicles,1958
+2013,Dec,Bus Passengers,31
+2013,Dec,Rail Containers Empty,0
+2013,Dec,Rail Containers Loaded,0
+2013,Dec,Pedestrians,0
+2013,Dec,Trains,0
+2013,Dec,Truck Containers Empty,113
+2013,Dec,Buses,2
+2013,Dec,Truck Containers Loaded,273
+2013,Dec,Trucks,1398
+2013,Dec,Train Passengers,0
+2014,Jan,Truck Containers Loaded,952
+2014,Jan,Rail Containers Loaded,0
+2014,Jan,Truck Containers Empty,443
+2014,Jan,Personal Vehicle Passengers,3143
+2014,Jan,Pedestrians,0
+2014,Jan,Trucks,1422
+2014,Jan,Bus Passengers,62
+2014,Jan,Personal Vehicles,1668
+2014,Jan,Buses,2
+2014,Jan,Rail Containers Empty,0
+2014,Jan,Trains,0
+2014,Jan,Train Passengers,0
+2014,Feb,Trucks,1248
+2014,Feb,Truck Containers Empty,299
+2014,Feb,Trains,0
+2014,Feb,Personal Vehicles,1520
+2014,Feb,Rail Containers Empty,0
+2014,Feb,Pedestrians,0
+2014,Feb,Rail Containers Loaded,0
+2014,Feb,Buses,0
+2014,Feb,Personal Vehicle Passengers,3128
+2014,Feb,Truck Containers Loaded,949
+2014,Feb,Train Passengers,0
+2014,Feb,Bus Passengers,0
+2014,Mar,Pedestrians,0
+2014,Mar,Trains,0
+2014,Mar,Personal Vehicle Passengers,2884
+2014,Mar,Rail Containers Empty,0
+2014,Mar,Personal Vehicles,1527
+2014,Mar,Buses,2
+2014,Mar,Trucks,1779
+2014,Mar,Truck Containers Empty,569
+2014,Mar,Bus Passengers,54
+2014,Mar,Train Passengers,0
+2014,Mar,Truck Containers Loaded,1209
+2014,Mar,Rail Containers Loaded,0
+2014,Apr,Personal Vehicle Passengers,3893
+2014,Apr,Trains,0
+2014,Apr,Truck Containers Loaded,1059
+2014,Apr,Buses,2
+2014,Apr,Train Passengers,0
+2014,Apr,Rail Containers Empty,0
+2014,Apr,Personal Vehicles,1968
+2014,Apr,Pedestrians,0
+2014,Apr,Rail Containers Loaded,0
+2014,Apr,Truck Containers Empty,562
+2014,Apr,Trucks,2128
+2014,Apr,Bus Passengers,59
+2014,May,Truck Containers Empty,574
+2014,May,Buses,1
+2014,May,Pedestrians,0
+2014,May,Personal Vehicles,1968
+2014,May,Trucks,1940
+2014,May,Truck Containers Loaded,1366
+2014,May,Trains,0
+2014,May,Train Passengers,0
+2014,May,Rail Containers Loaded,0
+2014,May,Bus Passengers,176
+2014,May,Personal Vehicle Passengers,3677
+2014,May,Rail Containers Empty,0
+2014,Jun,Bus Passengers,28
+2014,Jun,Buses,0
+2014,Jun,Personal Vehicle Passengers,5460
+2014,Jun,Rail Containers Loaded,0
+2014,Jun,Personal Vehicles,2569
+2014,Jun,Rail Containers Empty,0
+2014,Jun,Pedestrians,0
+2014,Jun,Truck Containers Loaded,1154
+2014,Jun,Trucks,1684
+2014,Jun,Train Passengers,0
+2014,Jun,Truck Containers Empty,560
+2014,Jun,Trains,0
+2014,Jul,Trucks,1570
+2014,Jul,Buses,0
+2014,Jul,Bus Passengers,29
+2014,Jul,Truck Containers Empty,614
+2014,Jul,Pedestrians,0
+2014,Jul,Trains,0
+2014,Jul,Rail Containers Loaded,0
+2014,Jul,Rail Containers Empty,0
+2014,Jul,Train Passengers,0
+2014,Jul,Personal Vehicles,3275
+2014,Jul,Personal Vehicle Passengers,6925
+2014,Jul,Truck Containers Loaded,956
+2014,Aug,Pedestrians,0
+2014,Aug,Truck Containers Empty,246
+2014,Aug,Personal Vehicles,3487
+2014,Aug,Buses,0
+2014,Aug,Trains,0
+2014,Aug,Bus Passengers,28
+2014,Aug,Personal Vehicle Passengers,6873
+2014,Aug,Rail Containers Loaded,0
+2014,Aug,Truck Containers Loaded,461
+2014,Aug,Trucks,1436
+2014,Aug,Rail Containers Empty,0
+2014,Aug,Train Passengers,0
+2014,Sep,Rail Containers Empty,0
+2014,Sep,Personal Vehicle Passengers,3444
+2014,Sep,Bus Passengers,0
+2014,Sep,Pedestrians,0
+2014,Sep,Trains,0
+2014,Sep,Trucks,1449
+2014,Sep,Truck Containers Empty,430
+2014,Sep,Train Passengers,0
+2014,Sep,Buses,26
+2014,Sep,Personal Vehicles,1980
+2014,Sep,Rail Containers Loaded,0
+2014,Sep,Truck Containers Loaded,1019
+2014,Oct,Personal Vehicle Passengers,4541
+2014,Oct,Rail Containers Loaded,0
+2014,Oct,Truck Containers Loaded,1044
+2014,Oct,Buses,0
+2014,Oct,Trucks,1756
+2014,Oct,Personal Vehicles,2539
+2014,Oct,Truck Containers Empty,712
+2014,Oct,Bus Passengers,51
+2014,Oct,Rail Containers Empty,0
+2014,Oct,Trains,0
+2014,Oct,Train Passengers,0
+2014,Oct,Pedestrians,0
+2014,Nov,Pedestrians,0
+2014,Nov,Buses,0
+2014,Nov,Bus Passengers,62
+2014,Nov,Trucks,1555
+2014,Nov,Rail Containers Loaded,0
+2014,Nov,Trains,0
+2014,Nov,Train Passengers,0
+2014,Nov,Rail Containers Empty,0
+2014,Nov,Personal Vehicles,1964
+2014,Nov,Personal Vehicle Passengers,3585
+2014,Nov,Truck Containers Empty,508
+2014,Nov,Truck Containers Loaded,1047
+2014,Dec,Personal Vehicle Passengers,4183
+2014,Dec,Trains,0
+2014,Dec,Rail Containers Loaded,0
+2014,Dec,Buses,0
+2014,Dec,Trucks,1544
+2014,Dec,Bus Passengers,0
+2014,Dec,Truck Containers Loaded,1065
+2014,Dec,Truck Containers Empty,454
+2014,Dec,Train Passengers,0
+2014,Dec,Rail Containers Empty,0
+2014,Dec,Pedestrians,0
+2014,Dec,Personal Vehicles,2050
+2015,Jan,Truck Containers Empty,323
+2015,Jan,Bus Passengers,0
+2015,Jan,Personal Vehicle Passengers,2947
+2015,Jan,Pedestrians,0
+2015,Jan,Trucks,1368
+2015,Jan,Rail Containers Empty,0
+2015,Jan,Buses,0
+2015,Jan,Train Passengers,0
+2015,Jan,Trains,0
+2015,Jan,Truck Containers Loaded,983
+2015,Jan,Personal Vehicles,1575
+2015,Jan,Rail Containers Loaded,0
+2015,Feb,Trucks,1100
+2015,Feb,Train Passengers,0
+2015,Feb,Truck Containers Empty,283
+2015,Feb,Personal Vehicle Passengers,3051
+2015,Feb,Personal Vehicles,1459
+2015,Feb,Rail Containers Empty,0
+2015,Feb,Trains,0
+2015,Feb,Bus Passengers,15
+2015,Feb,Pedestrians,0
+2015,Feb,Buses,1
+2015,Feb,Truck Containers Loaded,817
+2015,Feb,Rail Containers Loaded,0
+2015,Mar,Personal Vehicle Passengers,3138
+2015,Mar,Buses,3
+2015,Mar,Pedestrians,0
+2015,Mar,Truck Containers Loaded,1192
+2015,Mar,Train Passengers,0
+2015,Mar,Truck Containers Empty,294
+2015,Mar,Personal Vehicles,1620
+2015,Mar,Trucks,1661
+2015,Mar,Bus Passengers,121
+2015,Mar,Rail Containers Empty,0
+2015,Mar,Rail Containers Loaded,0
+2015,Mar,Trains,0
+2015,Apr,Trains,0
+2015,Apr,Rail Containers Empty,0
+2015,Apr,Truck Containers Loaded,773
+2015,Apr,Rail Containers Loaded,0
+2015,Apr,Trucks,1910
+2015,Apr,Truck Containers Empty,261
+2015,Apr,Buses,1
+2015,Apr,Train Passengers,0
+2015,Apr,Personal Vehicles,1824
+2015,Apr,Personal Vehicle Passengers,3499
+2015,Apr,Pedestrians,0
+2015,Apr,Bus Passengers,11
+2015,May,Trains,0
+2015,May,Trucks,1671
+2015,May,Train Passengers,0
+2015,May,Truck Containers Empty,546
+2015,May,Personal Vehicles,1885
+2015,May,Buses,8
+2015,May,Personal Vehicle Passengers,3495
+2015,May,Bus Passengers,347
+2015,May,Rail Containers Empty,0
+2015,May,Rail Containers Loaded,0
+2015,May,Truck Containers Loaded,1108
+2015,May,Pedestrians,0
+2015,Jun,Pedestrians,96
+2015,Jun,Trains,0
+2015,Jun,Bus Passengers,0
+2015,Jun,Truck Containers Loaded,350
+2015,Jun,Personal Vehicles,2568
+2015,Jun,Personal Vehicle Passengers,5069
+2015,Jun,Truck Containers Empty,239
+2015,Jun,Rail Containers Empty,0
+2015,Jun,Train Passengers,0
+2015,Jun,Trucks,1521
+2015,Jun,Rail Containers Loaded,0
+2015,Jun,Buses,0
+2015,Jul,Buses,0
+2015,Jul,Personal Vehicle Passengers,6932
+2015,Jul,Rail Containers Loaded,0
+2015,Jul,Pedestrians,114
+2015,Jul,Truck Containers Empty,580
+2015,Jul,Bus Passengers,0
+2015,Jul,Rail Containers Empty,0
+2015,Jul,Trains,0
+2015,Jul,Truck Containers Loaded,615
+2015,Jul,Train Passengers,0
+2015,Jul,Trucks,1257
+2015,Jul,Personal Vehicles,3310
+2015,Aug,Rail Containers Loaded,0
+2015,Aug,Truck Containers Empty,332
+2015,Aug,Truck Containers Loaded,505
+2015,Aug,Buses,0
+2015,Aug,Personal Vehicle Passengers,5754
+2015,Aug,Trucks,1222
+2015,Aug,Rail Containers Empty,0
+2015,Aug,Trains,0
+2015,Aug,Train Passengers,0
+2015,Aug,Personal Vehicles,2988
+2015,Aug,Pedestrians,133
+2015,Aug,Bus Passengers,0
+2015,Sep,Train Passengers,0
+2015,Sep,Bus Passengers,30
+2015,Sep,Buses,1
+2015,Sep,Trucks,1102
+2015,Sep,Truck Containers Loaded,526
+2015,Sep,Truck Containers Empty,194
+2015,Sep,Pedestrians,71
+2015,Sep,Rail Containers Loaded,0
+2015,Sep,Rail Containers Empty,0
+2015,Sep,Trains,0
+2015,Sep,Personal Vehicles,1999
+2015,Sep,Personal Vehicle Passengers,3702
+2015,Oct,Pedestrians,46
+2015,Oct,Rail Containers Empty,0
+2015,Oct,Trucks,1176
+2015,Oct,Truck Containers Loaded,803
+2015,Oct,Personal Vehicles,2349
+2015,Oct,Buses,0
+2015,Oct,Rail Containers Loaded,0
+2015,Oct,Train Passengers,0
+2015,Oct,Truck Containers Empty,373
+2015,Oct,Bus Passengers,0
+2015,Oct,Personal Vehicle Passengers,4132
+2015,Oct,Trains,0
+2015,Nov,Pedestrians,35
+2015,Nov,Trains,0
+2015,Nov,Bus Passengers,0
+2015,Nov,Personal Vehicle Passengers,3397
+2015,Nov,Trucks,1088
+2015,Nov,Rail Containers Loaded,0
+2015,Nov,Rail Containers Empty,0
+2015,Nov,Buses,0
+2015,Nov,Truck Containers Loaded,2438
+2015,Nov,Personal Vehicles,1885
+2015,Nov,Truck Containers Empty,365
+2015,Nov,Train Passengers,0
+2015,Dec,Bus Passengers,0
+2015,Dec,Truck Containers Loaded,376
+2015,Dec,Personal Vehicles,1926
+2015,Dec,Rail Containers Empty,0
+2015,Dec,Trucks,1065
+2015,Dec,Truck Containers Empty,316
+2015,Dec,Rail Containers Loaded,0
+2015,Dec,Buses,0
+2015,Dec,Personal Vehicle Passengers,3671
+2015,Dec,Train Passengers,0
+2015,Dec,Trains,0
+2015,Dec,Pedestrians,16
+2016,Jan,Train Passengers,0
+2016,Jan,Rail Containers Loaded,0
+2016,Jan,Trains,0
+2016,Jan,Rail Containers Empty,0
+2016,Jan,Bus Passengers,0
+2016,Jan,Personal Vehicle Passengers,3171
+2016,Jan,Truck Containers Loaded,532
+2016,Jan,Buses,0
+2016,Jan,Personal Vehicles,1730
+2016,Jan,Truck Containers Empty,406
+2016,Jan,Trucks,935
+2016,Jan,Pedestrians,51
+2016,Feb,Trucks,1238
+2016,Feb,Truck Containers Empty,387
+2016,Feb,Rail Containers Loaded,0
+2016,Feb,Trains,0
+2016,Feb,Personal Vehicles,1521
+2016,Feb,Personal Vehicle Passengers,3010
+2016,Feb,Bus Passengers,0
+2016,Feb,Train Passengers,0
+2016,Feb,Truck Containers Loaded,851
+2016,Feb,Pedestrians,40
+2016,Feb,Buses,0
+2016,Feb,Rail Containers Empty,0
+2016,Mar,Truck Containers Loaded,372
+2016,Mar,Trucks,1399
+2016,Mar,Personal Vehicles,1738
+2016,Mar,Personal Vehicle Passengers,3471
+2016,Mar,Rail Containers Empty,0
+2016,Mar,Buses,0
+2016,Mar,Truck Containers Empty,122
+2016,Mar,Trains,0
+2016,Mar,Train Passengers,0
+2016,Mar,Pedestrians,67
+2016,Mar,Bus Passengers,0
+2016,Mar,Rail Containers Loaded,0
+2016,Apr,Personal Vehicles,1714
+2016,Apr,Trucks,1838
+2016,Apr,Trains,0
+2016,Apr,Truck Containers Empty,423
+2016,Apr,Rail Containers Loaded,0
+2016,Apr,Personal Vehicle Passengers,3409
+2016,Apr,Buses,0
+2016,Apr,Train Passengers,0
+2016,Apr,Truck Containers Loaded,1359
+2016,Apr,Rail Containers Empty,0
+2016,Apr,Bus Passengers,0
+2016,Apr,Pedestrians,46
+2016,May,Trucks,1354
+2016,May,Personal Vehicles,2187
+2016,May,Buses,4
+2016,May,Rail Containers Empty,0
+2016,May,Rail Containers Loaded,0
+2016,May,Truck Containers Loaded,1004
+2016,May,Pedestrians,84
+2016,May,Trains,0
+2016,May,Personal Vehicle Passengers,3722
+2016,May,Bus Passengers,120
+2016,May,Truck Containers Empty,349
+2016,May,Train Passengers,0
+2016,Jun,Personal Vehicles,2509
+2016,Jun,Rail Containers Loaded,0
+2016,Jun,Truck Containers Empty,369
+2016,Jun,Rail Containers Empty,0
+2016,Jun,Buses,0
+2016,Jun,Trains,0
+2016,Jun,Bus Passengers,0
+2016,Jun,Trucks,935
+2016,Jun,Pedestrians,111
+2016,Jun,Personal Vehicle Passengers,5384
+2016,Jun,Train Passengers,0
+2016,Jun,Truck Containers Loaded,566
+2016,Jul,Trains,0
+2016,Jul,Pedestrians,174
+2016,Jul,Personal Vehicles,2970
+2016,Jul,Rail Containers Loaded,0
+2016,Jul,Trucks,749
+2016,Jul,Buses,0
+2016,Jul,Truck Containers Loaded,525
+2016,Jul,Train Passengers,0
+2016,Jul,Personal Vehicle Passengers,6346
+2016,Jul,Bus Passengers,0
+2016,Jul,Truck Containers Empty,189
+2016,Jul,Rail Containers Empty,0
+2016,Aug,Personal Vehicles,3202
+2016,Aug,Trucks,949
+2016,Aug,Truck Containers Empty,345
+2016,Aug,Buses,0
+2016,Aug,Bus Passengers,0
+2016,Aug,Truck Containers Loaded,576
+2016,Aug,Personal Vehicle Passengers,5617
+2016,Aug,Pedestrians,171
+2016,Sep,Pedestrians,96
+2016,Sep,Buses,2
+2016,Sep,Personal Vehicle Passengers,4113
+2016,Sep,Bus Passengers,51
+2016,Sep,Personal Vehicles,2150
+2016,Sep,Truck Containers Empty,221
+2016,Sep,Trucks,952
+2016,Sep,Truck Containers Loaded,699
+2016,Oct,Truck Containers Loaded,871
+2016,Oct,Personal Vehicle Passengers,4367
+2016,Oct,Buses,1
+2016,Oct,Bus Passengers,29
+2016,Oct,Pedestrians,56
+2016,Oct,Truck Containers Empty,244
+2016,Oct,Personal Vehicles,2302
+2016,Oct,Trucks,1115
+2016,Nov,Personal Vehicles,1883
+2016,Nov,Bus Passengers,0
+2016,Nov,Truck Containers Loaded,384
+2016,Nov,Pedestrians,61
+2016,Nov,Personal Vehicle Passengers,3521
+2016,Nov,Buses,0
+2016,Nov,Truck Containers Empty,212
+2016,Nov,Trucks,928
+2016,Dec,Personal Vehicles,1643
+2016,Dec,Truck Containers Loaded,306
+2016,Dec,Truck Containers Empty,132
+2016,Dec,Bus Passengers,54
+2016,Dec,Pedestrians,53
+2016,Dec,Trucks,833
+2016,Dec,Buses,1
+2016,Dec,Personal Vehicle Passengers,3566
+2017,Jan,Truck Containers Loaded,1320
+2017,Jan,Truck Containers Empty,264
+2017,Jan,Trucks,1241
+2017,Jan,Personal Vehicles,1592
+2017,Jan,Personal Vehicle Passengers,2945
+2017,Jan,Pedestrians,41
+2017,Feb,Truck Containers Empty,228
+2017,Feb,Pedestrians,36
+2017,Feb,Truck Containers Loaded,990
+2017,Feb,Personal Vehicle Passengers,3050
+2017,Feb,Personal Vehicles,1529
+2017,Feb,Trucks,944
+2017,Mar,Truck Containers Empty,238
+2017,Mar,Personal Vehicle Passengers,3302
+2017,Mar,Truck Containers Loaded,1272
+2017,Mar,Trucks,1163
+2017,Mar,Pedestrians,35
+2017,Mar,Personal Vehicles,1676
+2017,Apr,Personal Vehicles,1817
+2017,Apr,Trucks,1485
+2017,Apr,Pedestrians,70
+2017,Apr,Personal Vehicle Passengers,3646
+2017,Apr,Truck Containers Loaded,3084
+2017,Apr,Truck Containers Empty,435
+2017,May,Bus Passengers,20
+2017,May,Pedestrians,71
+2017,May,Trucks,1945
+2017,May,Personal Vehicle Passengers,3218
+2017,May,Truck Containers Loaded,3701
+2017,May,Truck Containers Empty,546
+2017,May,Personal Vehicles,1753
+2017,May,Buses,2
+2017,Jun,Personal Vehicles,2583
+2017,Jun,Pedestrians,93
+2017,Jun,Trucks,1173
+2017,Jun,Truck Containers Empty,346
+2017,Jun,Personal Vehicle Passengers,5121
+2017,Jun,Truck Containers Loaded,1038
+2017,Jul,Pedestrians,172
+2017,Jul,Truck Containers Empty,199
+2017,Jul,Personal Vehicles,2949
+2017,Jul,Truck Containers Loaded,1293
+2017,Jul,Personal Vehicle Passengers,6529
+2017,Jul,Trucks,1256
+2017,Aug,Trucks,1080
+2017,Aug,Personal Vehicles,3150
+2017,Aug,Truck Containers Loaded,1061
+2017,Aug,Personal Vehicle Passengers,6420
+2017,Aug,Truck Containers Empty,255
+2017,Aug,Pedestrians,101
+2017,Sep,Truck Containers Loaded,1247
+2017,Sep,Truck Containers Empty,196
+2017,Sep,Personal Vehicles,2110
+2017,Sep,Personal Vehicle Passengers,4013
+2017,Sep,Trucks,1085
+2017,Sep,Pedestrians,75
+2017,Oct,Truck Containers Loaded,1788
+2017,Oct,Truck Containers Empty,237
+2017,Oct,Trucks,1538
+2017,Oct,Personal Vehicles,2259
+2017,Oct,Pedestrians,67
+2017,Oct,Personal Vehicle Passengers,4261
+2017,Nov,Pedestrians,43
+2017,Nov,Truck Containers Empty,187
+2017,Nov,Personal Vehicles,1739
+2017,Nov,Trucks,1441
+2017,Nov,Personal Vehicle Passengers,3338
+2017,Nov,Truck Containers Loaded,1649
+2017,Dec,Trucks,1051
+2017,Dec,Truck Containers Empty,189
+2017,Dec,Truck Containers Loaded,1041
+2017,Dec,Pedestrians,42
+2017,Dec,Personal Vehicles,1764
+2017,Dec,Personal Vehicle Passengers,3702
+2018,Jan,Pedestrians,68
+2018,Jan,Personal Vehicles,1655
+2018,Jan,Personal Vehicle Passengers,3165
+2018,Jan,Truck Containers Loaded,1959
+2018,Jan,Truck Containers Empty,177
+2018,Jan,Trucks,1656
+2018,Feb,Trucks,1445
+2018,Feb,Personal Vehicle Passengers,3195
+2018,Feb,Bus Passengers,81
+2018,Feb,Buses,2
+2018,Feb,Personal Vehicles,1527
+2018,Feb,Pedestrians,39
+2018,Feb,Truck Containers Loaded,1637
+2018,Feb,Truck Containers Empty,166
+2018,Mar,Trucks,1419
+2018,Mar,Personal Vehicle Passengers,3272
+2018,Mar,Truck Containers Loaded,1637
+2018,Mar,Truck Containers Empty,155
+2018,Mar,Personal Vehicles,1590
+2018,Mar,Pedestrians,46
+2018,Apr,Truck Containers Loaded,1768
+2018,Apr,Personal Vehicle Passengers,3159
+2018,Apr,Truck Containers Empty,228
+2018,Apr,Personal Vehicles,1620
+2018,Apr,Trucks,1664
+2018,Apr,Pedestrians,50
+2018,May,Truck Containers Empty,190
+2018,May,Pedestrians,80
+2018,May,Truck Containers Loaded,2302
+2018,May,Buses,8
+2018,May,Personal Vehicle Passengers,3746
+2018,May,Bus Passengers,128
+2018,May,Personal Vehicles,1975
+2018,May,Trucks,1872
+2018,Jun,Personal Vehicle Passengers,5244
+2018,Jun,Truck Containers Empty,248
+2018,Jun,Personal Vehicles,2566
+2018,Jun,Buses,2
+2018,Jun,Bus Passengers,39
+2018,Jun,Truck Containers Loaded,1366
+2018,Jun,Pedestrians,54
+2018,Jun,Trucks,1331
+2018,Jul,Truck Containers Loaded,1249
+2018,Jul,Pedestrians,55
+2018,Jul,Personal Vehicle Passengers,6534
+2018,Jul,Truck Containers Empty,218
+2018,Jul,Personal Vehicles,2976
+2018,Jul,Trucks,1289
+2018,Aug,Personal Vehicles,3074
+2018,Aug,Buses,2
+2018,Aug,Truck Containers Empty,243
+2018,Aug,Truck Containers Loaded,1419
+2018,Aug,Pedestrians,147
+2018,Aug,Personal Vehicle Passengers,6427
+2018,Aug,Trucks,1391
+2018,Aug,Bus Passengers,68
+2018,Sep,Personal Vehicles,1951
+2018,Sep,Truck Containers Empty,212
+2018,Sep,Truck Containers Loaded,1277
+2018,Sep,Personal Vehicle Passengers,3697
+2018,Sep,Pedestrians,83
+2018,Sep,Trucks,1269
+2018,Oct,Pedestrians,53
+2018,Oct,Trucks,1533
+2018,Oct,Truck Containers Loaded,1721
+2018,Oct,Personal Vehicle Passengers,3931
+2018,Oct,Truck Containers Empty,207
+2018,Oct,Personal Vehicles,2111
+2018,Nov,Personal Vehicles,1760
+2018,Nov,Buses,1
+2018,Nov,Truck Containers Loaded,1600
+2018,Nov,Pedestrians,49
+2018,Nov,Personal Vehicle Passengers,3358
+2018,Nov,Truck Containers Empty,202
+2018,Nov,Bus Passengers,45
+2018,Nov,Trucks,1491
+2018,Dec,Truck Containers Loaded,1203
+2018,Dec,Pedestrians,49
+2018,Dec,Personal Vehicle Passengers,3601
+2018,Dec,Truck Containers Empty,205
+2018,Dec,Personal Vehicles,1753
+2018,Dec,Bus Passengers,12
+2018,Dec,Buses,1
+2018,Dec,Trucks,1327
+2019,Jan,Personal Vehicles,1487
+2019,Jan,Trucks,1690
+2019,Jan,Pedestrians,43
+2019,Jan,Truck Containers Empty,228
+2019,Jan,Truck Containers Loaded,1842
+2019,Jan,Personal Vehicle Passengers,2780
+2019,Feb,Personal Vehicle Passengers,2759
+2019,Feb,Trucks,1303
+2019,Feb,Truck Containers Loaded,1400
+2019,Feb,Personal Vehicles,1348
+2019,Feb,Truck Containers Empty,188
+2019,Feb,Pedestrians,31
+2019,Mar,Bus Passengers,27
+2019,Mar,Buses,1
+2019,Mar,Personal Vehicle Passengers,3095
+2019,Mar,Pedestrians,50
+2019,Mar,Trucks,1538
+2019,Mar,Truck Containers Loaded,1648
+2019,Mar,Personal Vehicles,1591
+2019,Mar,Truck Containers Empty,209
+2019,Apr,Personal Vehicles,1653
+2019,Apr,Trucks,1856
+2019,Apr,Pedestrians,83
+2019,Apr,Truck Containers Empty,250
+2019,Apr,Personal Vehicle Passengers,3348
+2019,Apr,Truck Containers Loaded,2092
+2019,May,Bus Passengers,143
+2019,May,Buses,5
+2019,May,Personal Vehicle Passengers,3646
+2019,May,Pedestrians,73
+2019,May,Truck Containers Empty,264
+2019,May,Trucks,1914
+2019,May,Personal Vehicles,1967
+2019,May,Truck Containers Loaded,2253
+2019,Jun,Personal Vehicles,2431
+2019,Jun,Personal Vehicle Passengers,4952
+2019,Jun,Buses,2
+2019,Jun,Truck Containers Loaded,1292
+2019,Jun,Truck Containers Empty,202
+2019,Jun,Bus Passengers,36
+2019,Jun,Pedestrians,102
+2019,Jun,Trucks,1275
+2019,Jul,Pedestrians,156
+2019,Jul,Truck Containers Loaded,1294
+2019,Jul,Buses,1
+2019,Jul,Personal Vehicle Passengers,6306
+2019,Jul,Truck Containers Empty,288
+2019,Jul,Bus Passengers,30
+2019,Jul,Trucks,1485
+2019,Jul,Personal Vehicles,2870
+2019,Aug,Personal Vehicle Passengers,6456
+2019,Aug,Pedestrians,178
+2019,Aug,Personal Vehicles,3092
+2019,Aug,Truck Containers Empty,266
+2019,Aug,Truck Containers Loaded,1372
+2019,Aug,Trucks,1507
+2019,Aug,Buses,1
+2019,Aug,Bus Passengers,44
+2019,Sep,Personal Vehicles,1970
+2019,Sep,Pedestrians,39
+2019,Sep,Personal Vehicle Passengers,3689
+2019,Sep,Trucks,1435
+2019,Sep,Truck Containers Loaded,1358
+2019,Sep,Truck Containers Empty,273
+2019,Oct,Truck Containers Loaded,1594
+2019,Oct,Pedestrians,73
+2019,Oct,Personal Vehicles,2226
+2019,Oct,Personal Vehicle Passengers,4124
+2019,Oct,Truck Containers Empty,284
+2019,Oct,Trucks,1574
+2019,Nov,Personal Vehicles,1710
+2019,Nov,Personal Vehicle Passengers,3233
+2019,Nov,Truck Containers Empty,278
+2019,Nov,Buses,3
+2019,Nov,Pedestrians,46
+2019,Nov,Truck Containers Loaded,1525
+2019,Nov,Trucks,1507
+2019,Nov,Bus Passengers,88
+2019,Dec,Pedestrians,47
+2019,Dec,Personal Vehicles,1841
+2019,Dec,Trucks,1652
+2019,Dec,Personal Vehicle Passengers,3783
+2019,Dec,Truck Containers Loaded,1740
+2019,Dec,Truck Containers Empty,237
+2020,Jan,Buses,1
+2020,Jan,Pedestrians,43
+2020,Jan,Bus Passengers,17
+2020,Jan,Truck Containers Loaded,1951
+2020,Jan,Trucks,1998
+2020,Jan,Truck Containers Empty,589
+2020,Jan,Personal Vehicle Passengers,3008
+2020,Jan,Personal Vehicles,1531
+2020,Feb,Personal Vehicles,1445
+2020,Feb,Truck Containers Loaded,1422
+2020,Feb,Truck Containers Empty,430
+2020,Feb,Buses,1
+2020,Feb,Pedestrians,90
+2020,Feb,Trucks,1594
+2020,Feb,Bus Passengers,30
+2020,Feb,Personal Vehicle Passengers,2939
+2020,Mar,Pedestrians,86
+2020,Mar,Personal Vehicles,810
+2020,Mar,Truck Containers Loaded,1621
+2020,Mar,Truck Containers Empty,570
+2020,Mar,Trucks,1912
+2020,Mar,Personal Vehicle Passengers,1644
+2020,Apr,Personal Vehicles,130
+2020,Apr,Truck Containers Loaded,2015
+2020,Apr,Truck Containers Empty,309
+2020,Apr,Personal Vehicle Passengers,148
+2020,Apr,Trucks,1806
+2020,Apr,Pedestrians,15
+2020,May,Personal Vehicle Passengers,218
+2020,May,Personal Vehicles,176
+2020,May,Truck Containers Loaded,1639
+2020,May,Pedestrians,23
+2020,May,Trucks,1548
+2020,May,Truck Containers Empty,325
+2020,Jun,Truck Containers Empty,517
+2020,Jun,Truck Containers Loaded,748
+2020,Jun,Trucks,1203
+2020,Jun,Personal Vehicle Passengers,377
+2020,Jun,Pedestrians,20
+2020,Jun,Personal Vehicles,255
+2020,Jul,Truck Containers Empty,427
+2020,Jul,Trucks,1326
+2020,Jul,Truck Containers Loaded,1028
+2020,Jul,Pedestrians,20
+2020,Jul,Personal Vehicles,305
+2020,Jul,Personal Vehicle Passengers,398
+2020,Aug,Pedestrians,22
+2020,Aug,Trucks,1330
+2020,Aug,Truck Containers Loaded,1088
+2020,Aug,Personal Vehicle Passengers,450
+2020,Aug,Personal Vehicles,350
+2020,Aug,Truck Containers Empty,356
+2020,Sep,Truck Containers Empty,456
+2020,Sep,Personal Vehicle Passengers,316
+2020,Sep,Personal Vehicles,257
+2020,Sep,Trucks,1285
+2020,Sep,Pedestrians,13
+2020,Sep,Truck Containers Loaded,922
+2020,Oct,Truck Containers Loaded,788
+2020,Oct,Personal Vehicle Passengers,358
+2020,Oct,Trucks,1186
+2020,Oct,Pedestrians,28
+2020,Oct,Personal Vehicles,268
+2020,Oct,Truck Containers Empty,551
+2020,Nov,Truck Containers Empty,373
+2020,Nov,Personal Vehicle Passengers,216
+2020,Nov,Pedestrians,28
+2020,Nov,Personal Vehicles,173
+2020,Nov,Trucks,996
+2020,Nov,Truck Containers Loaded,813
+2020,Dec,Pedestrians,9
+2020,Dec,Personal Vehicle Passengers,212
+2020,Dec,Personal Vehicles,156
+2020,Dec,Truck Containers Loaded,818
+2020,Dec,Truck Containers Empty,416
+2020,Dec,Trucks,1040
+2021,Jan,Trucks,1265
+2021,Jan,Personal Vehicle Passengers,223
+2021,Jan,Truck Containers Loaded,1066
+2021,Jan,Personal Vehicles,174
+2021,Jan,Pedestrians,24
+2021,Jan,Truck Containers Empty,419
+2021,Feb,Pedestrians,10
+2021,Feb,Personal Vehicle Passengers,150
+2021,Feb,Truck Containers Empty,287
+2021,Feb,Trucks,1140
+2021,Feb,Truck Containers Loaded,964
+2021,Feb,Personal Vehicles,129
+2021,Mar,Truck Containers Empty,355
+2021,Mar,Trucks,1482
+2021,Mar,Personal Vehicles,194
+2021,Mar,Personal Vehicle Passengers,224
+2021,Mar,Truck Containers Loaded,1404
+2021,Apr,Trucks,1497
+2021,Apr,Personal Vehicles,215
+2021,Apr,Truck Containers Loaded,1503
+2021,Apr,Truck Containers Empty,359
+2021,Apr,Personal Vehicle Passengers,267
+2021,Apr,Pedestrians,11
+2021,May,Truck Containers Loaded,1448
+2021,May,Trucks,1467
+2021,May,Pedestrians,29
+2021,May,Personal Vehicle Passengers,288
+2021,May,Personal Vehicles,241
+2021,May,Truck Containers Empty,304
+2021,Jun,Personal Vehicles,461
+2021,Jun,Truck Containers Loaded,1259
+2021,Jun,Trucks,1382
+2021,Jun,Truck Containers Empty,345
+2021,Jun,Pedestrians,31
+2021,Jun,Personal Vehicle Passengers,584
+2021,Jul,Pedestrians,26
+2021,Jul,Personal Vehicles,588
+2021,Jul,Truck Containers Loaded,1193
+2021,Jul,Personal Vehicle Passengers,730
+2021,Jul,Trucks,1349
+2021,Jul,Truck Containers Empty,327
+2021,Aug,Truck Containers Loaded,1396
+2021,Aug,Truck Containers Empty,329
+2021,Aug,Personal Vehicle Passengers,883
+2021,Aug,Personal Vehicles,613
+2021,Aug,Pedestrians,26
+2021,Aug,Trucks,1444
+2021,Sep,Personal Vehicle Passengers,767
+2021,Sep,Truck Containers Empty,316
+2021,Sep,Personal Vehicles,505
+2021,Sep,Trucks,1408
+2021,Sep,Truck Containers Loaded,1403
+2021,Sep,Pedestrians,35
+2021,Oct,Truck Containers Empty,281
+2021,Oct,Personal Vehicle Passengers,641
+2021,Oct,Truck Containers Loaded,1417
+2021,Oct,Pedestrians,23
+2021,Oct,Personal Vehicles,438
+2021,Oct,Trucks,1420
+2021,Nov,Personal Vehicle Passengers,1787
+2021,Nov,Trucks,1428
+2021,Nov,Pedestrians,23
+2021,Nov,Truck Containers Empty,234
+2021,Nov,Truck Containers Loaded,1542
+2021,Nov,Personal Vehicles,1041
+2021,Dec,Truck Containers Loaded,1358
+2021,Dec,Truck Containers Empty,262
+2021,Dec,Personal Vehicles,868
+2021,Dec,Trucks,1342
+2021,Dec,Personal Vehicle Passengers,1581
+2021,Dec,Pedestrians,91
+2022,Jan,Truck Containers Loaded,1089
+2022,Jan,Personal Vehicles,611
+2022,Jan,Personal Vehicle Passengers,1068
+2022,Jan,Pedestrians,43
+2022,Jan,Trucks,1103
+2022,Jan,Truck Containers Empty,190
+2022,Feb,Pedestrians,47
+2022,Feb,Truck Containers Loaded,1404
+2022,Feb,Trucks,1322
+2022,Feb,Personal Vehicle Passengers,1087
+2022,Feb,Personal Vehicles,551
+2022,Feb,Truck Containers Empty,151
+2022,Mar,Truck Containers Empty,175
+2022,Mar,Trucks,1320
+2022,Mar,Pedestrians,59
+2022,Mar,Personal Vehicle Passengers,1092
+2022,Mar,Truck Containers Loaded,1375
+2022,Mar,Personal Vehicles,602
+2022,Apr,Trucks,1270
+2022,Apr,Pedestrians,47
+2022,Apr,Personal Vehicle Passengers,1816
+2022,Apr,Truck Containers Loaded,1425
+2022,Apr,Truck Containers Empty,154
+2022,Apr,Personal Vehicles,957
+2022,May,Truck Containers Loaded,1646
+2022,May,Pedestrians,66
+2022,May,Truck Containers Empty,392
+2022,May,Personal Vehicles,1171
+2022,May,Personal Vehicle Passengers,2152
+2022,May,Trucks,1668
+2022,Jun,Personal Vehicles,1359
+2022,Jun,Personal Vehicle Passengers,2683
+2022,Jun,Truck Containers Empty,143
+2022,Jun,Pedestrians,62
+2022,Jun,Truck Containers Loaded,1400
+2022,Jun,Trucks,1314
+2022,Jul,Truck Containers Loaded,1222
+2022,Jul,Trucks,1134
+2022,Jul,Truck Containers Empty,139
+2022,Jul,Pedestrians,102
+2022,Jul,Personal Vehicles,1835
+2022,Jul,Buses,2
+2022,Jul,Personal Vehicle Passengers,3855
+2022,Jul,Bus Passengers,56
+2022,Aug,Truck Containers Empty,210
+2022,Aug,Pedestrians,145
+2022,Aug,Personal Vehicles,1871
+2022,Aug,Trucks,1266
+2022,Aug,Personal Vehicle Passengers,3555
+2022,Aug,Truck Containers Loaded,1252
+2022,Sep,Trucks,1110
+2022,Sep,Personal Vehicles,1439
+2022,Sep,Truck Containers Empty,172
+2022,Sep,Truck Containers Loaded,1151
+2022,Sep,Personal Vehicle Passengers,2616
+2022,Sep,Pedestrians,75
+2022,Oct,Pedestrians,77
+2022,Oct,Trucks,1056
+2022,Oct,Truck Containers Loaded,1159
+2022,Oct,Bus Passengers,21
+2022,Oct,Personal Vehicle Passengers,3870
+2022,Oct,Buses,1
+2022,Oct,Truck Containers Empty,179
+2022,Oct,Personal Vehicles,2013
+2022,Nov,Trucks,1092
+2022,Nov,Personal Vehicle Passengers,2412
+2022,Nov,Truck Containers Empty,126
+2022,Nov,Bus Passengers,38
+2022,Nov,Pedestrians,94
+2022,Nov,Truck Containers Loaded,1168
+2022,Nov,Buses,1
+2022,Nov,Personal Vehicles,1322
+2022,Dec,Personal Vehicle Passengers,2845
+2022,Dec,Personal Vehicles,1365
+2022,Dec,Pedestrians,37
+2022,Dec,Trucks,929
+2022,Dec,Truck Containers Loaded,969
+2022,Dec,Truck Containers Empty,151
+2023,Jan,Buses,1
+2023,Jan,Pedestrians,45
+2023,Jan,Trucks,1352
+2023,Jan,Personal Vehicle Passengers,2069
+2023,Jan,Truck Containers Loaded,1331
+2023,Jan,Bus Passengers,44
+2023,Jan,Personal Vehicles,1144
+2023,Jan,Truck Containers Empty,271
+2023,Feb,Truck Containers Empty,227
+2023,Feb,Truck Containers Loaded,1207
+2023,Feb,Pedestrians,52
+2023,Feb,Personal Vehicles,1014
+2023,Feb,Trucks,1171
+2023,Feb,Personal Vehicle Passengers,2031
+2023,Mar,Truck Containers Empty,254
+2023,Mar,Truck Containers Loaded,1320
+2023,Mar,Pedestrians,77
+2023,Mar,Personal Vehicles,1163
+2023,Mar,Trucks,1488
+2023,Mar,Personal Vehicle Passengers,2209
+2023,Apr,Personal Vehicles,1268
+2023,Apr,Bus Passengers,24
+2023,Apr,Truck Containers Loaded,1029
+2023,Apr,Personal Vehicle Passengers,2556
+2023,Apr,Trucks,1202
+2023,Apr,Buses,1
+2023,Apr,Pedestrians,68
+2023,Apr,Truck Containers Empty,272
+2023,May,Truck Containers Loaded,1497
+2023,May,Personal Vehicles,1512
+2023,May,Personal Vehicle Passengers,2852
+2023,May,Bus Passengers,23
+2023,May,Trucks,1710
+2023,May,Pedestrians,90
+2023,May,Buses,1
+2023,May,Truck Containers Empty,241
+2023,Jun,Truck Containers Empty,259
+2023,Jun,Trucks,1201
+2023,Jun,Pedestrians,93
+2023,Jun,Personal Vehicle Passengers,4327
+2023,Jun,Personal Vehicles,2173
+2023,Jun,Truck Containers Loaded,953
+2023,Jul,Buses,3
+2023,Jul,Truck Containers Empty,280
+2023,Jul,Pedestrians,138
+2023,Jul,Personal Vehicles,2627
+2023,Jul,Trucks,933
+2023,Jul,Personal Vehicle Passengers,5871
+2023,Jul,Truck Containers Loaded,1242
+2023,Jul,Bus Passengers,80
+2023,Aug,Personal Vehicle Passengers,5472
+2023,Aug,Personal Vehicles,2619
+2023,Aug,Pedestrians,120
+2023,Aug,Truck Containers Loaded,1586
+2023,Aug,Bus Passengers,140
+2023,Aug,Truck Containers Empty,422
+2023,Aug,Trucks,1169
+2023,Aug,Buses,4
+2023,Sep,Personal Vehicles,1924
+2023,Sep,Pedestrians,101
+2023,Sep,Bus Passengers,18
+2023,Sep,Personal Vehicle Passengers,3711
+2023,Sep,Truck Containers Loaded,1815
+2023,Sep,Trucks,1352
+2023,Sep,Buses,1
+2023,Sep,Truck Containers Empty,422
+2023,Oct,Truck Containers Empty,341
+2023,Oct,Personal Vehicle Passengers,3850
+2023,Oct,Personal Vehicles,1999
+2023,Oct,Truck Containers Loaded,1688
+2023,Oct,Pedestrians,73
+2023,Oct,Trucks,1223
+2023,Nov,Truck Containers Empty,560
+2023,Nov,Buses,1
+2023,Nov,Personal Vehicle Passengers,2940
+2023,Nov,Trucks,1397
+2023,Nov,Truck Containers Loaded,1618
+2023,Nov,Bus Passengers,30
+2023,Nov,Personal Vehicles,1527
+2023,Nov,Pedestrians,78
+2023,Dec,Truck Containers Loaded,1463
+2023,Dec,Personal Vehicles,1761
+2023,Dec,Personal Vehicle Passengers,3751
+2023,Dec,Pedestrians,67
+2023,Dec,Truck Containers Empty,314
+2023,Dec,Bus Passengers,20
+2023,Dec,Trucks,1081
+2023,Dec,Buses,2
+2024,Jan,Truck Containers Empty,334
+2024,Jan,Personal Vehicles,1139
+2024,Jan,Trucks,1331
+2024,Jan,Pedestrians,49
+2024,Jan,Truck Containers Loaded,1852
+2024,Jan,Personal Vehicle Passengers,2193
+2024,Feb,Personal Vehicle Passengers,2744
+2024,Feb,Trucks,1049
+2024,Feb,Pedestrians,58
+2024,Feb,Truck Containers Loaded,1661
+2024,Feb,Truck Containers Empty,168
+2024,Feb,Personal Vehicles,1315
+2024,Mar,Bus Passengers,37
+2024,Mar,Truck Containers Empty,390
+2024,Mar,Truck Containers Loaded,1541
+2024,Mar,Buses,1
+2024,Mar,Personal Vehicles,1421
+2024,Mar,Trucks,1216
+2024,Mar,Personal Vehicle Passengers,3000
+2024,Mar,Pedestrians,122
+2024,Apr,Truck Containers Empty,489
+2024,Apr,Buses,2
+2024,Apr,Bus Passengers,97
+2024,Apr,Personal Vehicles,1478
+2024,Apr,Pedestrians,71
+2024,Apr,Personal Vehicle Passengers,2933
+2024,Apr,Trucks,1606
+2024,Apr,Truck Containers Loaded,2111
+2024,May,Personal Vehicles,1643
+2024,May,Buses,2
+2024,May,Personal Vehicle Passengers,3305
+2024,May,Trucks,1389
+2024,May,Bus Passengers,64
+2024,May,Pedestrians,77
+2024,May,Truck Containers Loaded,1927
+2024,May,Truck Containers Empty,370
+2024,Jun,Truck Containers Empty,373
+2024,Jun,Truck Containers Loaded,1637
+2024,Jun,Pedestrians,105
+2024,Jun,Trucks,1224
+2024,Jun,Personal Vehicle Passengers,4978
+2024,Jun,Personal Vehicles,2329
+2024,Jul,Personal Vehicle Passengers,6329
+2024,Jul,Personal Vehicles,2837
+2024,Jul,Trucks,1227
+2024,Jul,Buses,4
+2024,Jul,Truck Containers Empty,238
+2024,Jul,Bus Passengers,128
+2024,Jul,Truck Containers Loaded,1917
+2024,Jul,Pedestrians,100
+2024,Aug,Trucks,1521
+2024,Aug,Personal Vehicle Passengers,6193
+2024,Aug,Personal Vehicles,2927
+2024,Aug,Truck Containers Empty,435
+2024,Aug,Truck Containers Loaded,2102
+2024,Aug,Pedestrians,203
+2024,Sep,Personal Vehicle Passengers,3952
+2024,Sep,Personal Vehicles,2071
+2024,Sep,Trucks,1284
+2024,Sep,Buses,1
+2024,Sep,Truck Containers Empty,262
+2024,Sep,Bus Passengers,19
+2024,Sep,Truck Containers Loaded,1934
+2024,Sep,Pedestrians,122
+2024,Oct,Truck Containers Loaded,2166
+2024,Oct,Pedestrians,113
+2024,Oct,Trucks,1490
+2024,Oct,Personal Vehicle Passengers,4324
+2024,Oct,Personal Vehicles,2216
+2024,Oct,Truck Containers Empty,354
+2024,Nov,Personal Vehicle Passengers,2823
+2024,Nov,Trucks,1094
+2024,Nov,Pedestrians,96
+2024,Nov,Truck Containers Loaded,1548
+2024,Nov,Buses,1
+2024,Nov,Bus Passengers,25
+2024,Nov,Truck Containers Empty,276
+2024,Nov,Personal Vehicles,1469
+2024,Dec,Personal Vehicles,1679
+2024,Dec,Buses,1
+2024,Dec,Personal Vehicle Passengers,3542
+2024,Dec,Trucks,992
+2024,Dec,Bus Passengers,37
+2024,Dec,Pedestrians,67
+2024,Dec,Truck Containers Loaded,1336
+2024,Dec,Truck Containers Empty,272
+2025,Jan,Truck Containers Loaded,1785
+2025,Jan,Pedestrians,35
+2025,Jan,Truck Containers Empty,217
+2025,Jan,Personal Vehicle Passengers,2081
+2025,Jan,Personal Vehicles,1137
+2025,Jan,Trucks,1161
+2025,Feb,Truck Containers Empty,170
+2025,Feb,Truck Containers Loaded,1924
+2025,Feb,Pedestrians,44
+2025,Feb,Trucks,1211
+2025,Feb,Personal Vehicle Passengers,1981
+2025,Feb,Personal Vehicles,1044
+2025,Mar,Pedestrians,54
+2025,Mar,Truck Containers Loaded,2196
+2025,Mar,Trucks,1352
+2025,Mar,Bus Passengers,45
+2025,Mar,Truck Containers Empty,186
+2025,Mar,Buses,1
+2025,Mar,Personal Vehicles,1097
+2025,Mar,Personal Vehicle Passengers,2104
+2025,Apr,Pedestrians,61
+2025,Apr,Personal Vehicles,1091
+2025,Apr,Bus Passengers,165
+2025,Apr,Truck Containers Empty,189
+2025,Apr,Truck Containers Loaded,1385
+2025,Apr,Buses,4
+2025,Apr,Trucks,934
+2025,Apr,Personal Vehicle Passengers,2231
+2025,May,Personal Vehicle Passengers,2399
+2025,May,Pedestrians,79
+2025,May,Trucks,1097
+2025,May,Bus Passengers,27
+2025,May,Truck Containers Empty,249
+2025,May,Buses,1
+2025,May,Personal Vehicles,1232
+2025,Jun,Truck Containers Empty,157
+2025,Jun,Personal Vehicles,1681
+2025,Jun,Pedestrians,61
+2025,Jun,Personal Vehicle Passengers,3465
+2025,Jun,Trucks,933
+2025,Jun,Truck Containers Loaded,1409
+2025,Jul,Trucks,1018
+2025,Jul,Bus Passengers,123
+2025,Jul,Personal Vehicle Passengers,4632
+2025,Jul,Buses,3
+2025,Jul,Personal Vehicles,2073
+2025,Jul,Truck Containers Empty,192
+2025,Jul,Truck Containers Loaded,1579
+2025,Jul,Pedestrians,81
+2025,Aug,Pedestrians,100
+2025,Aug,Truck Containers Loaded,1528
+2025,Aug,Bus Passengers,54
+2025,Aug,Truck Containers Empty,297
+2025,Aug,Personal Vehicles,2144
+2025,Aug,Personal Vehicle Passengers,4369
+2025,Aug,Buses,2
+2025,Aug,Trucks,1084
+2025,Sep,Personal Vehicle Passengers,2614
+2025,Sep,Personal Vehicles,1435
+2025,Sep,Truck Containers Loaded,1446
+2025,Sep,Buses,1
+2025,Sep,Trucks,1007
+2025,Sep,Pedestrians,48
+2025,Oct,Personal Vehicles,1768
+2025,Oct,Truck Containers Empty,196
+2025,Oct,Truck Containers Loaded,1772
+2025,Oct,Pedestrians,62
+2025,Oct,Trucks,1137
+2025,Oct,Personal Vehicle Passengers,3417
+2025,Nov,Buses,2
+2025,Nov,Personal Vehicles,1256
+2025,Nov,Truck Containers Loaded,1870
+2025,Nov,Personal Vehicle Passengers,2349
+2025,Nov,Trucks,1146
+2025,Nov,Pedestrians,82
+2025,Nov,Bus Passengers,24
+2025,Nov,Truck Containers Empty,154
