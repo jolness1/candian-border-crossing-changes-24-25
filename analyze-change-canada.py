@@ -19,7 +19,7 @@ def sanitize_filename(name: str) -> str:
 	return s
 
 
-def parse_and_write(input_path, output_dir="output"):
+def parse_and_write(input_path, output_dir="output/montana-history"):
 	os.makedirs(output_dir, exist_ok=True)
 
 	per_port = defaultdict(lambda: defaultdict(int))
@@ -87,8 +87,9 @@ def main():
 		return
 
 	print(f"Using input: {input_file}")
-	parse_and_write(input_file, output_dir="output")
-	print("Wrote per-port CSVs to ./output/")
+	outdir = "output/montana-history"
+	parse_and_write(input_file, output_dir=outdir)
+	print(f"Wrote per-port CSVs to ./{outdir}/")
 
 
 if __name__ == "__main__":
