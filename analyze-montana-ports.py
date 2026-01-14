@@ -1,18 +1,3 @@
-"""Generate YoY and yearly summaries for Montana port CSVs.
-
-Reads per-port CSVs from `./output/montana-history/` created by
-`analyze-change-canada.py` (columns: year,month,crossingType,numberOfCrossings)
-and writes these files for each port in the same directory:
-
-- {Port Name}-YoY-absolute.csv : month,crossingType,YYYY... (absolute change from prior year)
-- {Port Name}-YoY-percent.csv  : month,crossingType,YYYY... (percent change from prior year)
-- {Port Name}-yearly.csv       : year,crossingType,absoluteChange,pctChange (aggregated per year)
-
-Also adds a virtual `Total` crossingType which sums across measures before computing YoY.
-
-Usage: python analyze-montana-ports.py
-"""
-
 import csv
 import os
 from collections import defaultdict, OrderedDict
@@ -48,13 +33,30 @@ def read_port_csv(path: str):
 
 
 def ensure_total(data: Dict):
-    # compute totals across measures into 'Total'
-    totals = defaultdict(lambda: defaultdict(int))
-    for measure, years in data.items():
+    # compute two totals:
+    # - 'Total People' includes any measure that looks like people (e.g. contains 'passeng' or 'pedestrian')
+    # - 'Total Vehicles' includes everything else
+    totals_people = defaultdict(lambda: defaultdict(int))
+    totals_vehicles = defaultdict(lambda: defaultdict(int))
+    for measure, years in list(data.items()):
+        name = (measure or "").strip()
+        # skip any pre-existing totals to avoid double-counting
+        if name.lower().startswith("total"):
+            continue
+        key = name.lower()
+        # treat anything that looks like people/passengers as people
+        is_person = ('passeng' in key) or ('pedestrian' in key) or ('person' in key)
         for y, months in years.items():
             for m, v in months.items():
-                totals[y][m] += v
-    data["Total"] = totals
+                if is_person:
+                    totals_people[y][m] += v
+                else:
+                    totals_vehicles[y][m] += v
+    # remove any old 'Total' key if present to avoid confusion
+    if "Total" in data:
+        del data["Total"]
+    data["Total People"] = totals_people
+    data["Total Vehicles"] = totals_vehicles
 
 
 def write_yoy_tables(port_name: str, data: Dict, years: List[int], months: List[str], out_dir: str):

@@ -1,0 +1,56 @@
+port,year,count,changeYoY,pctChangeYoY
+Del Bonita,2015,0,0,
+Del Bonita,2016,0,0,
+Del Bonita,2017,733,733,
+Del Bonita,2018,382,-351,-48
+Del Bonita,2019,65,-317,-83
+Del Bonita,2020,311,246,378
+Del Bonita,2021,635,324,104
+Del Bonita,2022,463,-172,-27
+Del Bonita,2023,300,-163,-35
+Del Bonita,2024,667,367,122
+Del Bonita,2025,677,10,1
+Sweetgrass,2015,38374,-11766,-23
+Sweetgrass,2016,32936,-5438,-14
+Sweetgrass,2017,30673,-2263,-7
+Sweetgrass,2018,29444,-1229,-4
+Sweetgrass,2019,31375,1931,7
+Sweetgrass,2020,34036,2661,8
+Sweetgrass,2021,39746,5710,17
+Sweetgrass,2022,36060,-3686,-9
+Sweetgrass,2023,34536,-1524,-4
+Sweetgrass,2024,40497,5961,17
+Sweetgrass,2025,36435,-4062,-10
+Roosville,2015,1011,-696,-41
+Roosville,2016,868,-143,-14
+Roosville,2017,5639,4771,550
+Roosville,2018,6055,416,7
+Roosville,2019,5296,-759,-13
+Roosville,2020,4038,-1258,-24
+Roosville,2021,4725,687,17
+Roosville,2022,3531,-1194,-25
+Roosville,2023,3992,461,13
+Roosville,2024,3516,-476,-12
+Roosville,2025,1956,-1560,-44
+Piegan,2015,0,-486,-100
+Piegan,2016,0,0,
+Piegan,2017,498,498,
+Piegan,2018,362,-136,-27
+Piegan,2019,278,-84,-23
+Piegan,2020,333,55,20
+Piegan,2021,363,30,9
+Piegan,2022,357,-6,-2
+Piegan,2023,329,-28,-8
+Piegan,2024,281,-48,-15
+Piegan,2025,303,22,8
+Raymond,2015,4106,-1865,-31
+Raymond,2016,3399,-707,-17
+Raymond,2017,3320,-79,-2
+Raymond,2018,2451,-869,-26
+Raymond,2019,2967,516,21
+Raymond,2020,5319,2352,79
+Raymond,2021,3818,-1501,-28
+Raymond,2022,2182,-1636,-43
+Raymond,2023,3863,1681,77
+Raymond,2024,3961,98,3
+Raymond,2025,2007,-1954,-49

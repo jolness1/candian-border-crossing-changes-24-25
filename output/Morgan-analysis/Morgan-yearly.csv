@@ -6,7 +6,8 @@ year,crossingType,absoluteChange,pctChange
 1996,Personal Vehicles,,
 1996,Rail Containers Empty,,
 1996,Rail Containers Loaded,,
-1996,Total,,
+1996,Total People,,
+1996,Total Vehicles,,
 1996,Train Passengers,,
 1996,Trains,,
 1996,Truck Containers Empty,,
@@ -19,7 +20,8 @@ year,crossingType,absoluteChange,pctChange
 1997,Personal Vehicles,363,6.037924
 1997,Rail Containers Empty,0,
 1997,Rail Containers Loaded,0,
-1997,Total,3283,13.742727
+1997,Total People,1447,6.631531
+1997,Total Vehicles,1836,88.738521
 1997,Train Passengers,0,
 1997,Trains,0,
 1997,Truck Containers Empty,159,
@@ -32,7 +34,8 @@ year,crossingType,absoluteChange,pctChange
 1998,Personal Vehicles,-1188,-18.635294
 1998,Rail Containers Empty,0,
 1998,Rail Containers Loaded,0,
-1998,Total,-6602,-24.297071
+1998,Total People,-6121,-26.307646
+1998,Total Vehicles,-481,-12.317542
 1998,Train Passengers,0,
 1998,Trains,0,
 1998,Truck Containers Empty,-82,-51.572327
@@ -45,7 +48,8 @@ year,crossingType,absoluteChange,pctChange
 1999,Personal Vehicles,251,4.839021
 1999,Rail Containers Empty,0,
 1999,Rail Containers Loaded,0,
-1999,Total,2839,13.801653
+1999,Total People,2378,13.869124
+1999,Total Vehicles,461,13.463785
 1999,Train Passengers,0,
 1999,Trains,0,
 1999,Truck Containers Empty,-19,-24.675325
@@ -58,7 +62,8 @@ year,crossingType,absoluteChange,pctChange
 2000,Personal Vehicles,525,9.654285
 2000,Rail Containers Empty,0,
 2000,Rail Containers Loaded,0,
-2000,Total,3024,12.918108
+2000,Total People,421,2.15632
+2000,Total Vehicles,2603,67.001287
 2000,Train Passengers,0,
 2000,Trains,0,
 2000,Truck Containers Empty,108,186.206897
@@ -71,7 +76,8 @@ year,crossingType,absoluteChange,pctChange
 2001,Personal Vehicles,-1282,-21.499245
 2001,Rail Containers Empty,0,
 2001,Rail Containers Loaded,0,
-2001,Total,-2349,-8.886619
+2001,Total People,-3255,-16.31988
+2001,Total Vehicles,906,13.964242
 2001,Train Passengers,0,
 2001,Trains,0,
 2001,Truck Containers Empty,5,3.012048
@@ -84,7 +90,8 @@ year,crossingType,absoluteChange,pctChange
 2002,Personal Vehicles,155,3.311258
 2002,Rail Containers Empty,0,
 2002,Rail Containers Loaded,0,
-2002,Total,-5555,-23.065105
+2002,Total People,-1101,-6.596765
+2002,Total Vehicles,-4454,-60.238031
 2002,Train Passengers,0,
 2002,Trains,0,
 2002,Truck Containers Empty,-129,-75.438596
@@ -97,7 +104,8 @@ year,crossingType,absoluteChange,pctChange
 2003,Personal Vehicles,-539,-11.145575
 2003,Rail Containers Empty,0,
 2003,Rail Containers Loaded,0,
-2003,Total,-2454,-13.244104
+2003,Total People,-1184,-7.595099
+2003,Total Vehicles,-1270,-43.197279
 2003,Train Passengers,0,
 2003,Trains,0,
 2003,Truck Containers Empty,8,19.047619
@@ -110,7 +118,8 @@ year,crossingType,absoluteChange,pctChange
 2004,Personal Vehicles,722,16.80242
 2004,Rail Containers Empty,0,
 2004,Rail Containers Loaded,0,
-2004,Total,1292,8.037325
+2004,Total People,2065,14.3353
+2004,Total Vehicles,-773,-46.287425
 2004,Train Passengers,0,
 2004,Trains,0,
 2004,Truck Containers Empty,-50,-100
@@ -123,7 +132,8 @@ year,crossingType,absoluteChange,pctChange
 2005,Personal Vehicles,-98,-1.95258
 2005,Rail Containers Empty,0,
 2005,Rail Containers Loaded,0,
-2005,Total,855,4.92313
+2005,Total People,291,1.766849
+2005,Total Vehicles,564,62.876254
 2005,Train Passengers,0,
 2005,Trains,0,
 2005,Truck Containers Empty,213,
@@ -136,7 +146,8 @@ year,crossingType,absoluteChange,pctChange
 2006,Personal Vehicles,50,1.016054
 2006,Rail Containers Empty,0,
 2006,Rail Containers Loaded,0,
-2006,Total,-1187,-6.514104
+2006,Total People,-1194,-7.12368
+2006,Total Vehicles,7,0.479124
 2006,Train Passengers,0,
 2006,Trains,0,
 2006,Truck Containers Empty,-98,-46.00939
@@ -149,7 +160,8 @@ year,crossingType,absoluteChange,pctChange
 2007,Personal Vehicles,608,12.230939
 2007,Rail Containers Empty,0,
 2007,Rail Containers Loaded,0,
-2007,Total,3157,18.532433
+2007,Total People,3640,23.382797
+2007,Total Vehicles,-483,-32.901907
 2007,Train Passengers,0,
 2007,Trains,0,
 2007,Truck Containers Empty,-2,-1.73913
@@ -162,7 +174,8 @@ year,crossingType,absoluteChange,pctChange
 2008,Personal Vehicles,748,13.407421
 2008,Rail Containers Empty,0,
 2008,Rail Containers Loaded,0,
-2008,Total,85,0.420959
+2008,Total People,600,3.123861
+2008,Total Vehicles,-515,-52.284264
 2008,Train Passengers,0,
 2008,Trains,0,
 2008,Truck Containers Empty,-113,-100
@@ -175,7 +188,8 @@ year,crossingType,absoluteChange,pctChange
 2009,Personal Vehicles,66,1.043148
 2009,Rail Containers Empty,0,
 2009,Rail Containers Loaded,0,
-2009,Total,3835,18.913054
+2009,Total People,3251,16.413389
+2009,Total Vehicles,584,124.255319
 2009,Train Passengers,0,
 2009,Trains,0,
 2009,Truck Containers Empty,162,
@@ -188,7 +202,8 @@ year,crossingType,absoluteChange,pctChange
 2010,Personal Vehicles,270,4.223369
 2010,Rail Containers Empty,0,
 2010,Rail Containers Loaded,0,
-2010,Total,-14,-0.058062
+2010,Total People,-320,-1.387805
+2010,Total Vehicles,306,29.032258
 2010,Train Passengers,0,
 2010,Trains,0,
 2010,Truck Containers Empty,13,8.024691
@@ -201,7 +216,8 @@ year,crossingType,absoluteChange,pctChange
 2011,Personal Vehicles,49,0.735404
 2011,Rail Containers Empty,0,
 2011,Rail Containers Loaded,0,
-2011,Total,930,3.859241
+2011,Total People,830,3.650277
+2011,Total Vehicles,100,7.352941
 2011,Train Passengers,0,
 2011,Trains,0,
 2011,Truck Containers Empty,18,10.285714
@@ -214,7 +230,8 @@ year,crossingType,absoluteChange,pctChange
 2012,Personal Vehicles,108,1.609058
 2012,Rail Containers Empty,0,
 2012,Rail Containers Loaded,0,
-2012,Total,1972,7.879175
+2012,Total People,-68,-0.288527
+2012,Total Vehicles,2040,139.726027
 2012,Train Passengers,0,
 2012,Trains,0,
 2012,Truck Containers Empty,-70,-36.26943
@@ -227,7 +244,8 @@ year,crossingType,absoluteChange,pctChange
 2013,Personal Vehicles,-295,-4.325513
 2013,Rail Containers Empty,0,
 2013,Rail Containers Loaded,0,
-2013,Total,-1875,-6.944444
+2013,Total People,-1542,-6.561702
+2013,Total Vehicles,-333,-9.514286
 2013,Train Passengers,0,
 2013,Trains,0,
 2013,Truck Containers Empty,-8,-6.504065
@@ -240,7 +258,8 @@ year,crossingType,absoluteChange,pctChange
 2014,Personal Vehicles,-381,-5.83908
 2014,Rail Containers Empty,0,
 2014,Rail Containers Loaded,0,
-2014,Total,-2782,-11.072637
+2014,Total People,-816,-3.716185
+2014,Total Vehicles,-1966,-62.077676
 2014,Train Passengers,0,
 2014,Trains,0,
 2014,Truck Containers Empty,-71,-61.73913
@@ -253,7 +272,8 @@ year,crossingType,absoluteChange,pctChange
 2015,Personal Vehicles,601,9.781901
 2015,Rail Containers Empty,0,
 2015,Rail Containers Loaded,0,
-2015,Total,-2499,-11.184711
+2015,Total People,-1990,-9.412544
+2015,Total Vehicles,-509,-42.381349
 2015,Train Passengers,0,
 2015,Trains,0,
 2015,Truck Containers Empty,-25,-56.818182
@@ -266,7 +286,8 @@ year,crossingType,absoluteChange,pctChange
 2016,Personal Vehicles,-640,-9.48851
 2016,Rail Containers Empty,0,
 2016,Rail Containers Loaded,0,
-2016,Total,-1621,-8.168716
+2016,Total People,-1277,-6.667711
+2016,Total Vehicles,-344,-49.710983
 2016,Train Passengers,0,
 2016,Trains,0,
 2016,Truck Containers Empty,-19,-100
@@ -279,7 +300,8 @@ year,crossingType,absoluteChange,pctChange
 2017,Personal Vehicles,-361,-5.913186
 2017,Rail Containers Empty,0,
 2017,Rail Containers Loaded,0,
-2017,Total,1354,7.430171
+2017,Total People,408,2.282517
+2017,Total Vehicles,946,271.83908
 2017,Train Passengers,0,
 2017,Trains,0,
 2017,Truck Containers Empty,245,
@@ -292,7 +314,8 @@ year,crossingType,absoluteChange,pctChange
 2018,Personal Vehicles,-327,-5.692897
 2018,Rail Containers Empty,,
 2018,Rail Containers Loaded,,
-2018,Total,-1200,-6.129642
+2018,Total People,-629,-3.440354
+2018,Total Vehicles,-571,-44.126739
 2018,Train Passengers,,
 2018,Trains,,
 2018,Truck Containers Empty,9,3.673469
@@ -305,7 +328,8 @@ year,crossingType,absoluteChange,pctChange
 2019,Personal Vehicles,392,7.236478
 2019,Rail Containers Empty,,
 2019,Rail Containers Loaded,,
-2019,Total,-96,-0.522392
+2019,Total People,191,1.081908
+2019,Total Vehicles,-287,-39.695712
 2019,Train Passengers,,
 2019,Trains,,
 2019,Truck Containers Empty,-158,-62.204724
@@ -318,7 +342,8 @@ year,crossingType,absoluteChange,pctChange
 2020,Personal Vehicles,-4620,-79.531761
 2020,Rail Containers Empty,,
 2020,Rail Containers Loaded,,
-2020,Total,-14433,-78.950823
+2020,Total People,-14622,-81.938918
+2020,Total Vehicles,189,43.348624
 2020,Train Passengers,,
 2020,Trains,,
 2020,Truck Containers Empty,142,147.916667
@@ -331,7 +356,8 @@ year,crossingType,absoluteChange,pctChange
 2021,Personal Vehicles,-239,-20.100925
 2021,Rail Containers Empty,,
 2021,Rail Containers Loaded,,
-2021,Total,-483,-12.551975
+2021,Total People,-796,-24.697487
+2021,Total Vehicles,313,50.08
 2021,Train Passengers,,
 2021,Trains,,
 2021,Truck Containers Empty,115,48.319328
@@ -344,7 +370,8 @@ year,crossingType,absoluteChange,pctChange
 2022,Personal Vehicles,1502,158.105263
 2022,Rail Containers Empty,,
 2022,Rail Containers Loaded,,
-2022,Total,4582,136.166419
+2022,Total People,4888,201.400906
+2022,Total Vehicles,-306,-32.622601
 2022,Train Passengers,,
 2022,Trains,,
 2022,Truck Containers Empty,-108,-30.594901
@@ -357,7 +384,8 @@ year,crossingType,absoluteChange,pctChange
 2023,Personal Vehicles,959,39.11093
 2023,Rail Containers Empty,,
 2023,Rail Containers Loaded,,
-2023,Total,3385,42.59469
+2023,Total People,3398,46.452495
+2023,Total Vehicles,-13,-2.056962
 2023,Train Passengers,,
 2023,Trains,,
 2023,Truck Containers Empty,-13,-5.306122
@@ -370,7 +398,8 @@ year,crossingType,absoluteChange,pctChange
 2024,Personal Vehicles,130,3.811199
 2024,Rail Containers Empty,,
 2024,Rail Containers Loaded,,
-2024,Total,701,6.186022
+2024,Total People,502,4.685896
+2024,Total Vehicles,199,32.148627
 2024,Train Passengers,,
 2024,Trains,,
 2024,Truck Containers Empty,128,55.172414
@@ -383,7 +412,8 @@ year,crossingType,absoluteChange,pctChange
 2025,Personal Vehicles,-1053,-29.737362
 2025,Rail Containers Empty,,
 2025,Rail Containers Loaded,,
-2025,Total,-4060,-33.740547
+2025,Total People,-3615,-32.233616
+2025,Total Vehicles,-445,-54.400978
 2025,Train Passengers,,
 2025,Trains,,
 2025,Truck Containers Empty,-228,-63.333333
