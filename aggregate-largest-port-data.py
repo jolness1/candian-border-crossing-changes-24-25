@@ -4,10 +4,9 @@ from collections import defaultdict
 from typing import Dict, List
 
 
-PORTS = ["Del Bonita", "Sweetgrass", "Roosville", "Piegan", "Raymond"]
 INPUT_DIR = os.path.join("output", "montana-history")
 OUT_ROOT = os.path.join("output", "large-ports")
-YEARS = list(range(2015, 2026))  # inclusive 2015..2025
+YEARS = list(range(1996, 2026))  # inclusive 1996..2025
 
 
 def read_port_history(port: str) -> Dict[str, Dict[int, int]]:
@@ -168,7 +167,24 @@ def main():
     all_vehicles = []
     all_containers = []
     all_empty_containers = []
-    for port in PORTS:
+    # Process every CSV in the input directory (no filtering)
+    if not os.path.isdir(INPUT_DIR):
+        print(f"Input dir not found: {INPUT_DIR}")
+        return
+    files = [f for f in os.listdir(INPUT_DIR) if f.endswith('.csv')]
+    # prepare combined maps across all ports
+    combined_people = {y: None for y in YEARS}
+    combined_train = {y: None for y in YEARS}
+    combined_vehicle = {y: None for y in YEARS}
+    combined_container = {y: None for y in YEARS}
+    combined_empty_container = {y: None for y in YEARS}
+
+    # detection rules for combining
+    is_person = lambda k: ("passeng" in k) or ("pedestrian" in k)
+    is_train = lambda k: k == "trains"
+    is_vehicle_measure = lambda k: k in ("buses", "personal vehicles", "trucks")
+    for fn in files:
+        port = os.path.splitext(fn)[0]
         p_rows, t_rows, v_rows, c_rows, e_rows = aggregate_port(port)
         all_people.extend(p_rows)
         all_trains.extend(t_rows)
@@ -177,14 +193,59 @@ def main():
         all_empty_containers.extend(e_rows)
         print(f"Wrote aggregates for {port} -> {os.path.join(OUT_ROOT, port)}")
 
-    # write aggregated combined files
+        # also accumulate per-measure year totals for combined "All Ports"
+        totals = read_port_history(port)
+        for measure, years in totals.items():
+            key = (measure or "").lower().strip()
+            if is_person(key):
+                for y, m in years.items():
+                    combined_people[y] = (combined_people.get(y) or 0) + m
+            if is_train(key):
+                for y, m in years.items():
+                    combined_train[y] = (combined_train.get(y) or 0) + m
+            if is_vehicle_measure(key):
+                for y, m in years.items():
+                    combined_vehicle[y] = (combined_vehicle.get(y) or 0) + m
+            if 'container' in key:
+                for y, m in years.items():
+                    combined_container[y] = (combined_container.get(y) or 0) + m
+            if 'empty' in key:
+                for y, m in years.items():
+                    combined_empty_container[y] = (combined_empty_container.get(y) or 0) + m
+
+    # write aggregated combined files at root of OUT_ROOT
     os.makedirs(OUT_ROOT, exist_ok=True)
     write_rows(os.path.join(OUT_ROOT, "absolute-people-totals.csv"), "", all_people)
     write_rows(os.path.join(OUT_ROOT, "absolute-train-totals.csv"), "", all_trains)
     write_rows(os.path.join(OUT_ROOT, "absolute-vehicle-totals.csv"), "", all_vehicles)
     write_rows(os.path.join(OUT_ROOT, "absolute-container-totals.csv"), "", all_containers)
     write_rows(os.path.join(OUT_ROOT, "absolute-empty-containers.csv"), "", all_empty_containers)
-    print(f"Wrote aggregated files to {OUT_ROOT}")
+
+    # write combined totals (sum across ports) to OUT_ROOT/all-ports/
+    all_out = os.path.join(OUT_ROOT, "all-ports")
+    os.makedirs(all_out, exist_ok=True)
+
+    def build_combined_rows(combined_map):
+        rows = []
+        for y in YEARS:
+            curr = combined_map.get(y)
+            prev = combined_map.get(y - 1)
+            change = None
+            pct = None
+            if curr is not None and prev is not None:
+                change = curr - prev
+                if prev != 0:
+                    pct = round((change / prev) * 100)
+            rows.append({"port": "All Ports", "year": y, "count": format_val(curr), "change": format_val(change), "pct": format_val(pct)})
+        return rows
+
+    write_rows(os.path.join(all_out, "absolute-people-totals.csv"), "All Ports", build_combined_rows(combined_people))
+    write_rows(os.path.join(all_out, "absolute-train-totals.csv"), "All Ports", build_combined_rows(combined_train))
+    write_rows(os.path.join(all_out, "absolute-vehicle-totals.csv"), "All Ports", build_combined_rows(combined_vehicle))
+    write_rows(os.path.join(all_out, "absolute-container-totals.csv"), "All Ports", build_combined_rows(combined_container))
+    write_rows(os.path.join(all_out, "absolute-empty-containers.csv"), "All Ports", build_combined_rows(combined_empty_container))
+
+    print(f"Wrote aggregated files to {OUT_ROOT} and combined totals to {all_out}")
 
 
 if __name__ == '__main__':

@@ -13,311 +13,311 @@ year,crossingType,absoluteChange,pctChange
 2003,Truck Containers Empty,,
 2003,Truck Containers Loaded,,
 2003,Trucks,,
-2004,Bus Passengers,529,
-2004,Buses,17,
-2004,Pedestrians,1,
-2004,Personal Vehicle Passengers,32823,
-2004,Personal Vehicles,11472,
+2004,Bus Passengers,477,
+2004,Buses,15,
+2004,Pedestrians,0,
+2004,Personal Vehicle Passengers,30761,
+2004,Personal Vehicles,10770,
 2004,Rail Containers Empty,0,
 2004,Rail Containers Loaded,0,
-2004,Total People,44825,
-2004,Total Vehicles,4478,
+2004,Total People,42008,
+2004,Total Vehicles,4066,
 2004,Train Passengers,0,
 2004,Trains,0,
-2004,Truck Containers Empty,41,
-2004,Truck Containers Loaded,2122,
-2004,Trucks,2298,
-2005,Bus Passengers,-174,-32.89225
-2005,Buses,-5,-29.411765
-2005,Pedestrians,-1,-100
-2005,Personal Vehicle Passengers,4921,14.992536
-2005,Personal Vehicles,-168,-1.464435
+2004,Truck Containers Empty,31,
+2004,Truck Containers Loaded,1926,
+2004,Trucks,2094,
+2005,Bus Passengers,-231,-48.427673
+2005,Buses,-6,-40
+2005,Pedestrians,0,
+2005,Personal Vehicle Passengers,5045,16.400637
+2005,Personal Vehicles,-112,-1.039926
 2005,Rail Containers Empty,0,
 2005,Rail Containers Loaded,0,
-2005,Total People,4578,10.213051
-2005,Total Vehicles,1019,22.755695
+2005,Total People,4702,11.193106
+2005,Total Vehicles,1136,27.939006
 2005,Train Passengers,0,
 2005,Trains,0,
-2005,Truck Containers Empty,213,519.512195
-2005,Truck Containers Loaded,359,16.918002
-2005,Trucks,452,19.669278
-2006,Bus Passengers,-190,-53.521127
-2006,Buses,-3,-25
+2005,Truck Containers Empty,209,674.193548
+2005,Truck Containers Loaded,423,21.962617
+2005,Trucks,510,24.355301
+2006,Bus Passengers,-81,-32.926829
+2006,Buses,0,0
 2006,Pedestrians,0,
-2006,Personal Vehicle Passengers,-1005,-2.662675
-2006,Personal Vehicles,2342,20.71833
+2006,Personal Vehicle Passengers,-509,-1.421549
+2006,Personal Vehicles,2267,21.270407
 2006,Rail Containers Empty,0,
 2006,Rail Containers Loaded,0,
-2006,Total People,1147,2.321721
-2006,Total Vehicles,-430,-7.822449
+2006,Total People,1677,3.590238
+2006,Total Vehicles,-495,-9.515571
 2006,Train Passengers,0,
 2006,Trains,0,
-2006,Truck Containers Empty,-77,-30.314961
-2006,Truck Containers Loaded,-250,-10.076582
-2006,Trucks,-100,-3.636364
+2006,Truck Containers Empty,-76,-31.666667
+2006,Truck Containers Loaded,-285,-12.132822
+2006,Trucks,-134,-5.145929
 2007,Bus Passengers,212,128.484848
 2007,Buses,2,22.222222
 2007,Pedestrians,2,
-2007,Personal Vehicle Passengers,-1548,-4.213506
-2007,Personal Vehicles,3951,28.953539
+2007,Personal Vehicle Passengers,-2208,-6.255489
+2007,Personal Vehicles,3621,28.015474
 2007,Rail Containers Empty,0,
 2007,Rail Containers Loaded,0,
-2007,Total People,2617,5.177052
-2007,Total Vehicles,264,5.210184
+2007,Total People,1627,3.362473
+2007,Total Vehicles,256,5.438708
 2007,Train Passengers,0,
 2007,Trains,0,
-2007,Truck Containers Empty,155,87.570621
-2007,Truck Containers Loaded,86,3.854774
-2007,Trucks,21,0.792453
+2007,Truck Containers Empty,154,93.902439
+2007,Truck Containers Loaded,83,4.021318
+2007,Trucks,17,0.688259
 2008,Bus Passengers,-253,-67.108753
 2008,Buses,-8,-72.727273
 2008,Pedestrians,-2,-100
-2008,Personal Vehicle Passengers,-18395,-52.271888
-2008,Personal Vehicles,-9199,-52.275956
+2008,Personal Vehicle Passengers,-16293,-49.239929
+2008,Personal Vehicles,-8148,-49.24453
 2008,Rail Containers Empty,0,
 2008,Rail Containers Loaded,0,
-2008,Total People,-27849,-52.380236
-2008,Total Vehicles,-1987,-37.272557
+2008,Total People,-24696,-49.378174
+2008,Total Vehicles,-1729,-34.8378
 2008,Train Passengers,0,
 2008,Trains,0,
-2008,Truck Containers Empty,61,18.373494
-2008,Truck Containers Loaded,-613,-26.456625
-2008,Trucks,-1427,-53.425683
+2008,Truck Containers Empty,64,20.125786
+2008,Truck Containers Loaded,-542,-25.244527
+2008,Trucks,-1243,-49.979895
 2009,Bus Passengers,64,51.612903
 2009,Buses,0,0
 2009,Pedestrians,0,
-2009,Personal Vehicle Passengers,14098,83.936652
-2009,Personal Vehicles,7059,84.055728
+2009,Personal Vehicle Passengers,12466,74.220052
+2009,Personal Vehicles,6243,74.339128
 2009,Rail Containers Empty,0,
 2009,Rail Containers Loaded,0,
-2009,Total People,21221,83.817837
-2009,Total Vehicles,1062,31.758373
+2009,Total People,18773,74.148827
+2009,Total Vehicles,829,25.63389
 2009,Train Passengers,0,
 2009,Trains,0,
-2009,Truck Containers Empty,-116,-29.516539
-2009,Truck Containers Loaded,216,12.676056
-2009,Trucks,962,77.33119
+2009,Truck Containers Empty,-123,-32.198953
+2009,Truck Containers Loaded,162,10.093458
+2009,Trucks,790,63.504823
 2010,Bus Passengers,-158,-84.042553
 2010,Buses,-2,-66.666667
 2010,Pedestrians,0,
-2010,Personal Vehicle Passengers,3719,12.037936
-2010,Personal Vehicles,1828,11.826357
+2010,Personal Vehicle Passengers,3387,11.574739
+2010,Personal Vehicles,1684,11.501947
 2010,Rail Containers Empty,0,
 2010,Rail Containers Loaded,0,
-2010,Total People,5389,11.579535
-2010,Total Vehicles,81,1.838402
+2010,Total People,4913,11.142864
+2010,Total Vehicles,174,4.28255
 2010,Train Passengers,0,
 2010,Trains,0,
-2010,Truck Containers Empty,69,24.909747
-2010,Truck Containers Loaded,-28,-1.458333
-2010,Trucks,42,1.903898
+2010,Truck Containers Empty,76,29.343629
+2010,Truck Containers Loaded,12,0.679117
+2010,Trucks,88,4.32645
 2011,Bus Passengers,-30,-100
 2011,Buses,-1,-100
 2011,Pedestrians,0,
-2011,Personal Vehicle Passengers,3483,10.062693
-2011,Personal Vehicles,2199,12.722013
+2011,Personal Vehicle Passengers,3006,9.20702
+2011,Personal Vehicles,2180,13.353752
 2011,Rail Containers Empty,0,
 2011,Rail Containers Loaded,0,
-2011,Total People,5652,10.884301
-2011,Total Vehicles,30,0.668598
+2011,Total People,5156,10.52159
+2011,Total Vehicles,118,2.784989
 2011,Train Passengers,0,
 2011,Trains,0,
-2011,Truck Containers Empty,-27,-7.803468
-2011,Truck Containers Loaded,64,3.382664
-2011,Trucks,-6,-0.266904
+2011,Truck Containers Empty,-42,-12.537313
+2011,Truck Containers Loaded,122,6.857785
+2011,Trucks,39,1.837889
 2012,Bus Passengers,36,
 2012,Buses,1,
 2012,Pedestrians,0,
-2012,Personal Vehicle Passengers,3620,9.50231
-2012,Personal Vehicles,-917,-4.706426
+2012,Personal Vehicle Passengers,3456,9.69289
+2012,Personal Vehicles,-1067,-5.766009
 2012,Rail Containers Empty,0,
 2012,Rail Containers Loaded,0,
-2012,Total People,2739,4.75686
-2012,Total Vehicles,-1272,-28.160283
+2012,Total People,2425,4.477474
+2012,Total Vehicles,-1440,-33.065442
 2012,Train Passengers,0,
 2012,Trains,0,
-2012,Truck Containers Empty,-171,-53.605016
-2012,Truck Containers Loaded,-481,-24.591002
-2012,Trucks,-621,-27.698483
+2012,Truck Containers Empty,-154,-52.559727
+2012,Truck Containers Loaded,-579,-30.457654
+2012,Trucks,-708,-32.76261
 2013,Bus Passengers,91,252.777778
 2013,Buses,5,500
 2013,Pedestrians,0,
-2013,Personal Vehicle Passengers,1666,3.993671
-2013,Personal Vehicles,851,4.583401
+2013,Personal Vehicle Passengers,2121,5.423027
+2013,Personal Vehicles,1073,6.153229
 2013,Rail Containers Empty,0,
 2013,Rail Containers Loaded,0,
-2013,Total People,2608,4.323679
-2013,Total Vehicles,-1441,-44.40678
+2013,Total People,3285,5.805425
+2013,Total Vehicles,-1196,-41.02916
 2013,Train Passengers,0,
 2013,Trains,0,
-2013,Truck Containers Empty,-120,-81.081081
-2013,Truck Containers Loaded,-1060,-71.864407
-2013,Trucks,-266,-16.409624
+2013,Truck Containers Empty,-111,-79.856115
+2013,Truck Containers Loaded,-907,-68.608169
+2013,Trucks,-183,-12.594632
 2014,Bus Passengers,95,74.80315
-2014,Buses,3,50
+2014,Buses,2,33.333333
 2014,Pedestrians,0,
-2014,Personal Vehicle Passengers,-3812,-8.787055
-2014,Personal Vehicles,-1409,-7.256154
+2014,Personal Vehicle Passengers,-3922,-9.512029
+2014,Personal Vehicles,-1481,-8.000648
 2014,Rail Containers Empty,0,
 2014,Rail Containers Loaded,0,
-2014,Total People,-5126,-8.145947
-2014,Total Vehicles,-617,-34.201774
+2014,Total People,-5308,-8.865876
+2014,Total Vehicles,-717,-41.710297
 2014,Train Passengers,0,
 2014,Trains,0,
 2014,Truck Containers Empty,-28,-100
 2014,Truck Containers Loaded,-415,-100
-2014,Trucks,-177,-13.062731
+2014,Trucks,-276,-21.732283
 2015,Bus Passengers,-46,-20.720721
-2015,Buses,-3,-33.333333
+2015,Buses,-2,-25
 2015,Pedestrians,0,
-2015,Personal Vehicle Passengers,-9952,-25.150366
-2015,Personal Vehicles,-3812,-21.167194
+2015,Personal Vehicle Passengers,-9319,-24.977218
+2015,Personal Vehicles,-3545,-20.816207
 2015,Rail Containers Empty,0,
 2015,Rail Containers Loaded,0,
-2015,Total People,-13810,-23.89232
-2015,Total Vehicles,317,26.705981
+2015,Total People,-12910,-23.661156
+2015,Total Vehicles,337,33.632735
 2015,Train Passengers,0,
 2015,Trains,0,
 2015,Truck Containers Empty,0,
 2015,Truck Containers Loaded,0,
-2015,Trucks,320,27.164686
+2015,Trucks,339,34.104628
 2016,Bus Passengers,138,78.409091
 2016,Buses,2,33.333333
 2016,Pedestrians,0,
-2016,Personal Vehicle Passengers,-176,-0.594233
-2016,Personal Vehicles,-290,-2.042685
+2016,Personal Vehicle Passengers,-12,-0.042871
+2016,Personal Vehicles,-264,-1.957731
 2016,Rail Containers Empty,0,
 2016,Rail Containers Loaded,0,
-2016,Total People,-328,-0.745607
-2016,Total Vehicles,425,28.257979
+2016,Total People,-138,-0.331317
+2016,Total Vehicles,501,37.415982
 2016,Train Passengers,0,
 2016,Trains,0,
 2016,Truck Containers Empty,0,
 2016,Truck Containers Loaded,0,
-2016,Trucks,423,28.23765
+2016,Trucks,499,37.434359
 2017,Bus Passengers,-158,-50.318471
 2017,Buses,-2,-25
 2017,Pedestrians,0,
-2017,Personal Vehicle Passengers,72,0.244549
-2017,Personal Vehicles,-419,-3.012871
+2017,Personal Vehicle Passengers,-264,-0.943565
+2017,Personal Vehicles,-483,-3.653279
 2017,Rail Containers Empty,0,
 2017,Rail Containers Loaded,0,
-2017,Total People,-505,-1.156586
-2017,Total Vehicles,4322,224.053914
+2017,Total People,-905,-2.179987
+2017,Total Vehicles,4282,232.717391
 2017,Train Passengers,0,
 2017,Trains,0,
 2017,Truck Containers Empty,19,
-2017,Truck Containers Loaded,3837,
-2017,Trucks,468,24.362311
+2017,Truck Containers Loaded,3769,
+2017,Trucks,496,27.074236
 2018,Bus Passengers,-30,-19.230769
 2018,Buses,-2,-33.333333
 2018,Pedestrians,,
-2018,Personal Vehicle Passengers,-2101,-7.118656
-2018,Personal Vehicles,-1032,-7.651246
+2018,Personal Vehicle Passengers,-1882,-6.790547
+2018,Personal Vehicles,-947,-7.434448
 2018,Rail Containers Empty,,
 2018,Rail Containers Loaded,,
-2018,Total People,-3163,-7.328885
-2018,Total Vehicles,-2253,-36.042233
+2018,Total People,-2859,-7.040311
+2018,Total Vehicles,-2290,-37.406076
 2018,Train Passengers,,
 2018,Trains,,
-2018,Truck Containers Empty,9,47.368421
-2018,Truck Containers Loaded,-1467,-38.232995
-2018,Trucks,-793,-33.193805
+2018,Truck Containers Empty,8,42.105263
+2018,Truck Containers Loaded,-1481,-39.294243
+2018,Trucks,-815,-35.008591
 2019,Bus Passengers,-65,-51.587302
 2019,Buses,0,0
 2019,Pedestrians,,
-2019,Personal Vehicle Passengers,-1184,-4.319119
-2019,Personal Vehicles,-281,-2.255941
+2019,Personal Vehicle Passengers,-1251,-4.842643
+2019,Personal Vehicles,-322,-2.730896
 2019,Rail Containers Empty,,
 2019,Rail Containers Loaded,,
-2019,Total People,-1530,-3.825478
-2019,Total Vehicles,1060,26.513257
+2019,Total People,-1638,-4.339073
+2019,Total Vehicles,1100,28.705637
 2019,Train Passengers,,
 2019,Trains,,
-2019,Truck Containers Empty,14,50
-2019,Truck Containers Loaded,659,27.805907
-2019,Trucks,387,24.24812
+2019,Truck Containers Empty,15,55.555556
+2019,Truck Containers Loaded,674,29.458042
+2019,Trucks,411,27.164574
 2020,Bus Passengers,-61,-100
 2020,Buses,-4,-100
 2020,Pedestrians,,
-2020,Personal Vehicle Passengers,-22389,-85.359716
-2020,Personal Vehicles,-10083,-82.817248
+2020,Personal Vehicle Passengers,-20870,-84.89952
+2020,Personal Vehicles,-9452,-82.413462
 2020,Rail Containers Empty,,
 2020,Rail Containers Loaded,,
-2020,Total People,-32522,-84.549591
-2020,Total Vehicles,-1468,-29.023329
+2020,Total People,-30372,-84.105007
+2020,Total Vehicles,-1474,-29.886456
 2020,Train Passengers,,
 2020,Trains,,
-2020,Truck Containers Empty,21,50
-2020,Truck Containers Loaded,-972,-32.089799
-2020,Trucks,-513,-25.869894
+2020,Truck Containers Empty,15,35.714286
+2020,Truck Containers Loaded,-965,-32.579338
+2020,Trucks,-520,-27.027027
 2021,Bus Passengers,,
 2021,Buses,,
 2021,Pedestrians,-11,-100
-2021,Personal Vehicle Passengers,116,3.020833
-2021,Personal Vehicles,179,8.556405
+2021,Personal Vehicle Passengers,-696,-18.75
+2021,Personal Vehicles,-167,-8.279623
 2021,Rail Containers Empty,,
 2021,Rail Containers Loaded,,
-2021,Total People,284,4.778731
-2021,Total Vehicles,314,8.746518
+2021,Total People,-874,-15.226481
+2021,Total Vehicles,333,9.629844
 2021,Train Passengers,,
 2021,Trains,,
-2021,Truck Containers Empty,29,46.031746
-2021,Truck Containers Loaded,219,10.646573
-2021,Trucks,66,4.489796
+2021,Truck Containers Empty,32,56.140351
+2021,Truck Containers Loaded,217,10.866299
+2021,Trucks,84,5.982906
 2022,Bus Passengers,,
 2022,Buses,,
 2022,Pedestrians,,
-2022,Personal Vehicle Passengers,11726,296.410516
-2022,Personal Vehicles,5685,250.330251
+2022,Personal Vehicle Passengers,11773,390.351459
+2022,Personal Vehicles,5697,307.945946
 2022,Rail Containers Empty,,
 2022,Rail Containers Loaded,,
-2022,Total People,17480,280.713024
-2022,Total Vehicles,-2603,-66.675205
+2022,Total People,17539,360.439786
+2022,Total Vehicles,-2503,-66.024796
 2022,Train Passengers,,
 2022,Trains,,
-2022,Truck Containers Empty,-44,-47.826087
-2022,Truck Containers Loaded,-1540,-67.662566
-2022,Trucks,-1021,-66.471354
+2022,Truck Containers Empty,-42,-47.191011
+2022,Truck Containers Loaded,-1486,-67.118338
+2022,Trucks,-977,-65.658602
 2023,Bus Passengers,-68,-100
 2023,Buses,-2,-100
 2023,Pedestrians,-1,-100
-2023,Personal Vehicle Passengers,7068,45.070782
-2023,Personal Vehicles,3044,38.260432
+2023,Personal Vehicle Passengers,6269,42.389614
+2023,Personal Vehicles,2708,35.881807
 2023,Rail Containers Empty,,
 2023,Rail Containers Loaded,,
-2023,Total People,10043,42.363015
-2023,Total Vehicles,-13,-0.999231
+2023,Total People,8908,39.758982
+2023,Total Vehicles,-50,-3.881988
 2023,Train Passengers,,
 2023,Trains,,
-2023,Truck Containers Empty,-8,-16.666667
-2023,Truck Containers Loaded,20,2.717391
-2023,Trucks,-23,-4.466019
+2023,Truck Containers Empty,-9,-19.148936
+2023,Truck Containers Loaded,-2,-0.274725
+2023,Trucks,-37,-7.240705
 2024,Bus Passengers,,
 2024,Buses,,
 2024,Pedestrians,,
-2024,Personal Vehicle Passengers,2567,11.283516
-2024,Personal Vehicles,1193,10.845455
+2024,Personal Vehicle Passengers,2815,13.367841
+2024,Personal Vehicles,1296,12.637738
 2024,Rail Containers Empty,,
 2024,Rail Containers Loaded,,
-2024,Total People,3760,11.140741
-2024,Total Vehicles,-350,-27.173913
+2024,Total People,4111,13.128732
+2024,Total Vehicles,-333,-26.898223
 2024,Train Passengers,,
 2024,Trains,,
-2024,Truck Containers Empty,81,202.5
-2024,Truck Containers Loaded,-306,-40.47619
-2024,Trucks,-125,-25.406504
+2024,Truck Containers Empty,82,215.789474
+2024,Truck Containers Loaded,-295,-40.633609
+2024,Trucks,-120,-25.316456
 2025,Bus Passengers,,
 2025,Buses,,
 2025,Pedestrians,,
-2025,Personal Vehicle Passengers,-8276,-32.689497
-2025,Personal Vehicles,-3937,-32.289018
+2025,Personal Vehicle Passengers,-6832,-28.618104
+2025,Personal Vehicles,-3295,-28.525669
 2025,Rail Containers Empty,,
 2025,Rail Containers Loaded,,
-2025,Total People,-12213,-32.559318
-2025,Total Vehicles,-356,-37.953092
+2025,Total People,-10127,-28.587963
+2025,Total Vehicles,-323,-35.690608
 2025,Train Passengers,,
 2025,Trains,,
-2025,Truck Containers Empty,-30,-24.793388
-2025,Truck Containers Loaded,-193,-42.888889
-2025,Trucks,-133,-36.239782
+2025,Truck Containers Empty,-29,-24.166667
+2025,Truck Containers Loaded,-174,-40.37123
+2025,Trucks,-120,-33.898305
