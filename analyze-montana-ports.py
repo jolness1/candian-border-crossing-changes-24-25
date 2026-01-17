@@ -1,18 +1,3 @@
-"""Generate YoY and yearly summaries for Montana port CSVs.
-
-Reads per-port CSVs from `./output/montana-history/` created by
-`analyze-change-canada.py` (columns: year,month,crossingType,numberOfCrossings)
-and writes these files for each port in the same directory:
-
-- {Port Name}-YoY-absolute.csv : month,crossingType,YYYY... (absolute change from prior year)
-- {Port Name}-YoY-percent.csv  : month,crossingType,YYYY... (percent change from prior year)
-- {Port Name}-yearly.csv       : year,crossingType,absoluteChange,pctChange (aggregated per year)
-
-Also adds a virtual `Total` crossingType which sums across measures before computing YoY.
-
-Usage: python analyze-montana-ports.py
-"""
-
 import csv
 import os
 from collections import defaultdict, OrderedDict
@@ -41,20 +26,40 @@ def read_port_csv(path: str):
             years_set.add(year)
             if month not in months:
                 months.append(month)
-    # ensure months are ordered Jan..Dec if present
+    # ensure months are ordered Jan..Nov (exclude Dec) if present
     month_order = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
-    months_sorted = [m for m in month_order if m in months]
+    months_sorted = [m for m in month_order if m in months and m != "Dec"]
     return data, sorted(years_set), months_sorted
 
 
 def ensure_total(data: Dict):
-    # compute totals across measures into 'Total'
-    totals = defaultdict(lambda: defaultdict(int))
-    for measure, years in data.items():
+    # compute two totals:
+    # - 'Total People' includes any measure that looks like people (e.g. contains 'passeng' or 'pedestrian')
+    # - 'Total Vehicles' includes everything else
+    totals_people = defaultdict(lambda: defaultdict(int))
+    totals_vehicles = defaultdict(lambda: defaultdict(int))
+    for measure, years in list(data.items()):
+        name = (measure or "").strip()
+        # skip any pre-existing totals to avoid double-counting
+        if name.lower().startswith("total"):
+            continue
+        key = name.lower()
+        # treat anything that looks like people/passengers as people
+        is_person = ('passeng' in key) or ('pedestrian' in key) or ('person' in key)
         for y, months in years.items():
             for m, v in months.items():
-                totals[y][m] += v
-    data["Total"] = totals
+                # exclude December from totals per user request
+                if m == 'Dec':
+                    continue
+                if is_person:
+                    totals_people[y][m] += v
+                else:
+                    totals_vehicles[y][m] += v
+    # remove any old 'Total' key if present to avoid confusion
+    if "Total" in data:
+        del data["Total"]
+    data["Total People"] = totals_people
+    data["Total Vehicles"] = totals_vehicles
 
 
 def write_yoy_tables(port_name: str, data: Dict, years: List[int], months: List[str], out_dir: str):
@@ -98,8 +103,8 @@ def write_yoy_tables(port_name: str, data: Dict, years: List[int], months: List[
                 pwriter.writerow(row_pct)
 
 
-def write_yearly_summary(port_name: str, data: Dict, years: List[int], out_dir: str):
-    # For each year (starting from second available), aggregate across months per measure
+def write_yearly_summary(port_name: str, data: Dict, years: List[int], months: List[str], out_dir: str):
+    # For each year (starting from second available), aggregate across provided months per measure
     path = os.path.join(out_dir, f"{port_name}-yearly.csv")
     measures = sorted(data.keys())
     with open(path, "w", newline="", encoding="utf-8") as fh:
@@ -108,11 +113,13 @@ def write_yearly_summary(port_name: str, data: Dict, years: List[int], out_dir: 
         for y in years:
             prev = y - 1
             for measure in measures:
-                # sum across months for the year
-                curr_total = sum(data.get(measure, {}).get(y, {}).values())
-                prev_total = sum(data.get(measure, {}).get(prev, {}).values()) if prev in data.get(measure, {}) else None
+                # sum across the provided months for the year (excludes Dec)
+                curr_total = sum(data.get(measure, {}).get(y, {}).get(m, 0) for m in months)
+                if prev in data.get(measure, {}):
+                    prev_total = sum(data.get(measure, {}).get(prev, {}).get(m, 0) for m in months)
+                else:
+                    prev_total = None
                 if prev_total is None:
-                    # skip or write empty changes
                     writer.writerow([y, measure, "", ""])
                 else:
                     abs_change = curr_total - prev_total
@@ -143,7 +150,7 @@ def process_all_ports(input_dir=INPUT_DIR):
         port_out_dir = os.path.join("output", f"{port_name}-analysis")
         os.makedirs(port_out_dir, exist_ok=True)
         write_yoy_tables(port_name, data, years, months, port_out_dir)
-        write_yearly_summary(port_name, data, years, port_out_dir)
+        write_yearly_summary(port_name, data, years, months, port_out_dir)
         print(f"Processed {port_name}: years={years}, months={months}, out={port_out_dir}")
 
 

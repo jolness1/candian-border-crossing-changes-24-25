@@ -1,0 +1,391 @@
+port,year,count,changeYoY,pctChangeYoY
+Del Bonita,1996,165,,
+Del Bonita,1997,135,-30,-18
+Del Bonita,1998,23,-112,-83
+Del Bonita,1999,1,-22,-96
+Del Bonita,2000,88,87,8700
+Del Bonita,2001,37,-51,-58
+Del Bonita,2002,149,112,303
+Del Bonita,2003,129,-20,-13
+Del Bonita,2004,28,-101,-78
+Del Bonita,2005,136,108,386
+Del Bonita,2006,135,-1,-1
+Del Bonita,2007,0,-135,-100
+Del Bonita,2008,0,0,
+Del Bonita,2009,38,38,
+Del Bonita,2010,0,-38,-100
+Del Bonita,2011,0,0,
+Del Bonita,2012,0,0,
+Del Bonita,2013,0,0,
+Del Bonita,2014,0,0,
+Del Bonita,2015,0,0,
+Del Bonita,2016,0,0,
+Del Bonita,2017,733,733,
+Del Bonita,2018,382,-351,-48
+Del Bonita,2019,65,-317,-83
+Del Bonita,2020,311,246,378
+Del Bonita,2021,635,324,104
+Del Bonita,2022,463,-172,-27
+Del Bonita,2023,300,-163,-35
+Del Bonita,2024,667,367,122
+Del Bonita,2025,677,10,1
+Morgan,1996,0,,
+Morgan,1997,159,159,
+Morgan,1998,77,-82,-52
+Morgan,1999,58,-19,-25
+Morgan,2000,166,108,186
+Morgan,2001,171,5,3
+Morgan,2002,42,-129,-75
+Morgan,2003,50,8,19
+Morgan,2004,0,-50,-100
+Morgan,2005,213,213,
+Morgan,2006,115,-98,-46
+Morgan,2007,113,-2,-2
+Morgan,2008,0,-113,-100
+Morgan,2009,162,162,
+Morgan,2010,175,13,8
+Morgan,2011,193,18,10
+Morgan,2012,123,-70,-36
+Morgan,2013,115,-8,-7
+Morgan,2014,44,-71,-62
+Morgan,2015,19,-25,-57
+Morgan,2016,0,-19,-100
+Morgan,2017,245,245,
+Morgan,2018,254,9,4
+Morgan,2019,96,-158,-62
+Morgan,2020,238,142,148
+Morgan,2021,353,115,48
+Morgan,2022,245,-108,-31
+Morgan,2023,232,-13,-5
+Morgan,2024,360,128,55
+Morgan,2025,132,-228,-63
+Turner,1996,58,,
+Turner,1997,52,-6,-10
+Turner,1998,38,-14,-27
+Turner,1999,29,-9,-24
+Turner,2000,29,0,0
+Turner,2001,11,-18,-62
+Turner,2002,3,-8,-73
+Turner,2003,12,9,300
+Turner,2004,10,-2,-17
+Turner,2005,15,5,50
+Turner,2006,22,7,47
+Turner,2007,0,-22,-100
+Turner,2008,0,0,
+Turner,2009,63,63,
+Turner,2010,44,-19,-30
+Turner,2011,45,1,2
+Turner,2012,51,6,13
+Turner,2013,53,2,4
+Turner,2014,60,7,13
+Turner,2015,65,5,8
+Turner,2016,36,-29,-45
+Turner,2017,181,145,403
+Turner,2018,177,-4,-2
+Turner,2019,256,79,45
+Turner,2020,104,-152,-59
+Turner,2021,298,194,187
+Turner,2022,166,-132,-44
+Turner,2023,259,93,56
+Turner,2024,429,170,66
+Turner,2025,231,-198,-46
+Whitetail,1996,0,,
+Whitetail,1997,0,0,
+Whitetail,1998,0,0,
+Whitetail,1999,0,0,
+Whitetail,2000,0,0,
+Whitetail,2001,42,42,
+Whitetail,2002,144,102,243
+Whitetail,2003,71,-73,-51
+Whitetail,2004,33,-38,-54
+Whitetail,2005,41,8,24
+Whitetail,2006,28,-13,-32
+Whitetail,2007,29,1,4
+Whitetail,2008,2,-27,-93
+Whitetail,2009,2,0,0
+Whitetail,2010,0,-2,-100
+Whitetail,2011,0,0,
+Whitetail,2012,0,0,
+Whitetail,2013,2,2,
+Whitetail,2014,,,
+Whitetail,2015,,,
+Whitetail,2016,,,
+Whitetail,2017,,,
+Whitetail,2018,,,
+Whitetail,2019,,,
+Whitetail,2020,,,
+Whitetail,2021,,,
+Whitetail,2022,,,
+Whitetail,2023,,,
+Whitetail,2024,,,
+Whitetail,2025,,,
+Opheim,1996,0,,
+Opheim,1997,0,0,
+Opheim,1998,1,1,
+Opheim,1999,0,-1,-100
+Opheim,2000,22,22,
+Opheim,2001,22,0,0
+Opheim,2002,9,-13,-59
+Opheim,2003,0,-9,-100
+Opheim,2004,48,48,
+Opheim,2005,168,120,250
+Opheim,2006,80,-88,-52
+Opheim,2007,92,12,15
+Opheim,2008,31,-61,-66
+Opheim,2009,22,-9,-29
+Opheim,2010,64,42,191
+Opheim,2011,11,-53,-83
+Opheim,2012,1,-10,-91
+Opheim,2013,0,-1,-100
+Opheim,2014,0,0,
+Opheim,2015,0,0,
+Opheim,2016,0,0,
+Opheim,2017,57,57,
+Opheim,2018,85,28,49
+Opheim,2019,143,58,68
+Opheim,2020,147,4,3
+Opheim,2021,164,17,12
+Opheim,2022,10,-154,-94
+Opheim,2023,19,9,90
+Opheim,2024,109,90,474
+Opheim,2025,29,-80,-73
+Wildhorse,1996,,,
+Wildhorse,1997,,,
+Wildhorse,1998,,,
+Wildhorse,1999,,,
+Wildhorse,2000,,,
+Wildhorse,2001,,,
+Wildhorse,2002,,,
+Wildhorse,2003,0,,
+Wildhorse,2004,41,41,
+Wildhorse,2005,254,213,520
+Wildhorse,2006,177,-77,-30
+Wildhorse,2007,332,155,88
+Wildhorse,2008,393,61,18
+Wildhorse,2009,277,-116,-30
+Wildhorse,2010,346,69,25
+Wildhorse,2011,319,-27,-8
+Wildhorse,2012,148,-171,-54
+Wildhorse,2013,28,-120,-81
+Wildhorse,2014,0,-28,-100
+Wildhorse,2015,0,0,
+Wildhorse,2016,0,0,
+Wildhorse,2017,19,19,
+Wildhorse,2018,28,9,47
+Wildhorse,2019,42,14,50
+Wildhorse,2020,63,21,50
+Wildhorse,2021,92,29,46
+Wildhorse,2022,48,-44,-48
+Wildhorse,2023,40,-8,-17
+Wildhorse,2024,121,81,202
+Wildhorse,2025,91,-30,-25
+Whitlash,1996,0,,
+Whitlash,1997,0,0,
+Whitlash,1998,0,0,
+Whitlash,1999,0,0,
+Whitlash,2000,4,4,
+Whitlash,2001,0,-4,-100
+Whitlash,2002,0,0,
+Whitlash,2003,120,120,
+Whitlash,2004,204,84,70
+Whitlash,2005,280,76,37
+Whitlash,2006,376,96,34
+Whitlash,2007,443,67,18
+Whitlash,2008,30,-413,-93
+Whitlash,2009,9,-21,-70
+Whitlash,2010,1,-8,-89
+Whitlash,2011,7,6,600
+Whitlash,2012,11,4,57
+Whitlash,2013,4,-7,-64
+Whitlash,2014,3,-1,-25
+Whitlash,2015,116,113,3767
+Whitlash,2016,121,5,4
+Whitlash,2017,1,-120,-99
+Whitlash,2018,3,2,200
+Whitlash,2019,,,
+Whitlash,2020,,,
+Whitlash,2021,77,,
+Whitlash,2022,2,-75,-97
+Whitlash,2023,,,
+Whitlash,2024,49,,
+Whitlash,2025,91,42,86
+Piegan,1996,311,,
+Piegan,1997,446,135,43
+Piegan,1998,376,-70,-16
+Piegan,1999,323,-53,-14
+Piegan,2000,252,-71,-22
+Piegan,2001,325,73,29
+Piegan,2002,256,-69,-21
+Piegan,2003,314,58,23
+Piegan,2004,292,-22,-7
+Piegan,2005,293,1,0
+Piegan,2006,363,70,24
+Piegan,2007,395,32,9
+Piegan,2008,466,71,18
+Piegan,2009,241,-225,-48
+Piegan,2010,377,136,56
+Piegan,2011,655,278,74
+Piegan,2012,1009,354,54
+Piegan,2013,1023,14,1
+Piegan,2014,486,-537,-52
+Piegan,2015,0,-486,-100
+Piegan,2016,0,0,
+Piegan,2017,498,498,
+Piegan,2018,362,-136,-27
+Piegan,2019,278,-84,-23
+Piegan,2020,333,55,20
+Piegan,2021,363,30,9
+Piegan,2022,357,-6,-2
+Piegan,2023,329,-28,-8
+Piegan,2024,281,-48,-15
+Piegan,2025,303,22,8
+Sweetgrass,1996,20953,,
+Sweetgrass,1997,23336,2383,11
+Sweetgrass,1998,23246,-90,0
+Sweetgrass,1999,22062,-1184,-5
+Sweetgrass,2000,34464,12402,56
+Sweetgrass,2001,28287,-6177,-18
+Sweetgrass,2002,25511,-2776,-10
+Sweetgrass,2003,20262,-5249,-21
+Sweetgrass,2004,17780,-2482,-12
+Sweetgrass,2005,18468,688,4
+Sweetgrass,2006,24780,6312,34
+Sweetgrass,2007,26627,1847,7
+Sweetgrass,2008,32136,5509,21
+Sweetgrass,2009,29554,-2582,-8
+Sweetgrass,2010,31593,2039,7
+Sweetgrass,2011,41010,9417,30
+Sweetgrass,2012,57610,16600,40
+Sweetgrass,2013,55394,-2216,-4
+Sweetgrass,2014,50140,-5254,-9
+Sweetgrass,2015,38374,-11766,-23
+Sweetgrass,2016,32936,-5438,-14
+Sweetgrass,2017,30673,-2263,-7
+Sweetgrass,2018,29444,-1229,-4
+Sweetgrass,2019,31375,1931,7
+Sweetgrass,2020,34036,2661,8
+Sweetgrass,2021,39746,5710,17
+Sweetgrass,2022,36060,-3686,-9
+Sweetgrass,2023,34536,-1524,-4
+Sweetgrass,2024,40497,5961,17
+Sweetgrass,2025,36435,-4062,-10
+Willow Creek,1996,,,
+Willow Creek,1997,,,
+Willow Creek,1998,,,
+Willow Creek,1999,,,
+Willow Creek,2000,,,
+Willow Creek,2001,,,
+Willow Creek,2002,,,
+Willow Creek,2003,,,
+Willow Creek,2004,,,
+Willow Creek,2005,0,,
+Willow Creek,2006,0,0,
+Willow Creek,2007,0,0,
+Willow Creek,2008,0,0,
+Willow Creek,2009,0,0,
+Willow Creek,2010,0,0,
+Willow Creek,2011,0,0,
+Willow Creek,2012,0,0,
+Willow Creek,2013,0,0,
+Willow Creek,2014,0,0,
+Willow Creek,2015,0,0,
+Willow Creek,2016,0,0,
+Willow Creek,2017,,,
+Willow Creek,2018,,,
+Willow Creek,2019,1,,
+Willow Creek,2020,,,
+Willow Creek,2021,1,,
+Willow Creek,2022,,,
+Willow Creek,2023,,,
+Willow Creek,2024,1,,
+Willow Creek,2025,,,
+Scobey,1996,0,,
+Scobey,1997,0,0,
+Scobey,1998,0,0,
+Scobey,1999,0,0,
+Scobey,2000,156,156,
+Scobey,2001,182,26,17
+Scobey,2002,168,-14,-8
+Scobey,2003,67,-101,-60
+Scobey,2004,135,68,101
+Scobey,2005,398,263,195
+Scobey,2006,295,-103,-26
+Scobey,2007,323,28,9
+Scobey,2008,83,-240,-74
+Scobey,2009,184,101,122
+Scobey,2010,119,-65,-35
+Scobey,2011,96,-23,-19
+Scobey,2012,117,21,22
+Scobey,2013,94,-23,-20
+Scobey,2014,77,-17,-18
+Scobey,2015,49,-28,-36
+Scobey,2016,0,-49,-100
+Scobey,2017,202,202,
+Scobey,2018,175,-27,-13
+Scobey,2019,259,84,48
+Scobey,2020,679,420,162
+Scobey,2021,354,-325,-48
+Scobey,2022,53,-301,-85
+Scobey,2023,230,177,334
+Scobey,2024,525,295,128
+Scobey,2025,165,-360,-69
+Roosville,1996,1431,,
+Roosville,1997,1395,-36,-3
+Roosville,1998,2059,664,48
+Roosville,1999,1563,-496,-24
+Roosville,2000,1271,-292,-19
+Roosville,2001,963,-308,-24
+Roosville,2002,1089,126,13
+Roosville,2003,869,-220,-20
+Roosville,2004,393,-476,-55
+Roosville,2005,417,24,6
+Roosville,2006,523,106,25
+Roosville,2007,716,193,37
+Roosville,2008,1289,573,80
+Roosville,2009,1484,195,15
+Roosville,2010,1948,464,31
+Roosville,2011,2886,938,48
+Roosville,2012,2676,-210,-7
+Roosville,2013,1797,-879,-33
+Roosville,2014,1707,-90,-5
+Roosville,2015,1011,-696,-41
+Roosville,2016,868,-143,-14
+Roosville,2017,5639,4771,550
+Roosville,2018,6055,416,7
+Roosville,2019,5296,-759,-13
+Roosville,2020,4038,-1258,-24
+Roosville,2021,4725,687,17
+Roosville,2022,3531,-1194,-25
+Roosville,2023,3992,461,13
+Roosville,2024,3516,-476,-12
+Roosville,2025,1956,-1560,-44
+Raymond,1996,490,,
+Raymond,1997,1128,638,130
+Raymond,1998,1992,864,77
+Raymond,1999,863,-1129,-57
+Raymond,2000,1244,381,44
+Raymond,2001,1926,682,55
+Raymond,2002,1290,-636,-33
+Raymond,2003,990,-300,-23
+Raymond,2004,851,-139,-14
+Raymond,2005,726,-125,-15
+Raymond,2006,1520,794,109
+Raymond,2007,1899,379,25
+Raymond,2008,2229,330,17
+Raymond,2009,1768,-461,-21
+Raymond,2010,1605,-163,-9
+Raymond,2011,3968,2363,147
+Raymond,2012,6423,2455,62
+Raymond,2013,7812,1389,22
+Raymond,2014,5971,-1841,-24
+Raymond,2015,4106,-1865,-31
+Raymond,2016,3399,-707,-17
+Raymond,2017,3320,-79,-2
+Raymond,2018,2451,-869,-26
+Raymond,2019,2967,516,21
+Raymond,2020,5319,2352,79
+Raymond,2021,3818,-1501,-28
+Raymond,2022,2182,-1636,-43
+Raymond,2023,3863,1681,77
+Raymond,2024,3961,98,3
+Raymond,2025,2007,-1954,-49
